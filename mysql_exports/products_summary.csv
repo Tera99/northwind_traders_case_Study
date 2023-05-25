@@ -1,0 +1,2156 @@
+orderID,productID,orderDate,productName,categoryName,quantity,salesRevenue
+10248,11,2013-07-04,"Queso Cabrales","Dairy Products",12,168
+10248,42,2013-07-04,"Singaporean Hokkien Fried Mee","Grains & Cereals",10,98
+10248,72,2013-07-04,"Mozzarella di Giovanni","Dairy Products",5,174
+10249,14,2013-07-05,Tofu,Produce,9,167.4
+10249,51,2013-07-05,"Manjimup Dried Apples",Produce,40,1696
+10250,41,2013-07-08,"Jack's New England Clam Chowder",Seafood,10,77
+10250,51,2013-07-08,"Manjimup Dried Apples",Produce,35,1261.4
+10250,65,2013-07-08,"Louisiana Fiery Hot Pepper Sauce",Condiments,15,214.2
+10251,22,2013-07-08,"Gustaf's Knackebrod","Grains & Cereals",6,95.76
+10251,57,2013-07-08,"Ravioli Angelo","Grains & Cereals",15,222.3
+10251,65,2013-07-08,"Louisiana Fiery Hot Pepper Sauce",Condiments,20,336
+10252,20,2013-07-09,"Sir Rodney's Marmalade",Confections,40,2462.4
+10252,33,2013-07-09,Geitost,"Dairy Products",25,47.5
+10252,60,2013-07-09,"Camembert Pierrot","Dairy Products",40,1088
+10253,31,2013-07-10,"Gorgonzola Telino","Dairy Products",20,200
+10253,39,2013-07-10,"Chartreuse verte",Beverages,42,604.8
+10253,49,2013-07-10,Maxilaku,Confections,40,640
+10254,24,2013-07-11,"Guarana Fantastica",Beverages,15,45.9
+10254,55,2013-07-11,"Pate chinois","Meat & Poultry",21,342.72
+10254,74,2013-07-11,"Longlife Tofu",Produce,21,168
+10255,2,2013-07-12,Chang,Beverages,20,304
+10255,16,2013-07-12,Pavlova,Confections,35,486.5
+10255,36,2013-07-12,"Inlagd Sill",Seafood,25,380
+10255,59,2013-07-12,"Raclette Courdavault","Dairy Products",30,1320
+10256,53,2013-07-15,"Perth Pasties","Meat & Poultry",15,393
+10256,77,2013-07-15,"Original Frankfurter Grune Sose",Condiments,12,124.8
+10257,27,2013-07-16,"Schoggi Schokolade",Confections,25,877.5
+10257,39,2013-07-16,"Chartreuse verte",Beverages,6,86.4
+10257,77,2013-07-16,"Original Frankfurter Grune Sose",Condiments,15,156
+10258,2,2013-07-17,Chang,Beverages,50,608
+10258,5,2013-07-17,"Chef Anton's Gumbo Mix",Condiments,65,884
+10258,32,2013-07-17,"Mascarpone Fabioli","Dairy Products",6,122.88
+10259,21,2013-07-18,"Sir Rodney's Scones",Confections,10,80
+10259,37,2013-07-18,"Gravad lax",Seafood,1,20.8
+10260,41,2013-07-19,"Jack's New England Clam Chowder",Seafood,16,92.4
+10260,57,2013-07-19,"Ravioli Angelo","Grains & Cereals",50,780
+10260,62,2013-07-19,"Tarte au sucre",Confections,15,443.25
+10260,70,2013-07-19,"Outback Lager",Beverages,21,189
+10261,21,2013-07-19,"Sir Rodney's Scones",Confections,20,160
+10261,35,2013-07-19,"Steeleye Stout",Beverages,20,288
+10262,5,2013-07-22,"Chef Anton's Gumbo Mix",Condiments,12,163.2
+10262,7,2013-07-22,"Uncle Bob's Organic Dried Pears",Produce,15,360
+10262,56,2013-07-22,"Gnocchi di nonna Alice","Grains & Cereals",2,60.8
+10263,16,2013-07-23,Pavlova,Confections,60,625.5
+10263,24,2013-07-23,"Guarana Fantastica",Beverages,28,100.8
+10263,30,2013-07-23,"Nord-Ost Matjeshering",Seafood,60,931.5
+10263,74,2013-07-23,"Longlife Tofu",Produce,36,216
+10264,2,2013-07-24,Chang,Beverages,35,532
+10264,41,2013-07-24,"Jack's New England Clam Chowder",Seafood,25,163.62
+10265,17,2013-07-25,"Alice Mutton","Meat & Poultry",30,936
+10265,70,2013-07-25,"Outback Lager",Beverages,20,240
+10266,12,2013-07-26,"Queso Manchego La Pastora","Dairy Products",12,346.56
+10267,40,2013-07-29,"Boston Crab Meat",Seafood,50,735
+10267,59,2013-07-29,"Raclette Courdavault","Dairy Products",70,2618
+10267,76,2013-07-29,Lakkalikori,Beverages,15,183.6
+10268,29,2013-07-30,"Thuringer Rostbratwurst","Meat & Poultry",10,990
+10268,72,2013-07-30,"Mozzarella di Giovanni","Dairy Products",4,111.2
+10269,33,2013-07-31,Geitost,"Dairy Products",60,114
+10269,72,2013-07-31,"Mozzarella di Giovanni","Dairy Products",20,528.2
+10270,36,2013-08-01,"Inlagd Sill",Seafood,30,456
+10270,43,2013-08-01,"Ipoh Coffee",Beverages,25,920
+10271,33,2013-08-01,Geitost,"Dairy Products",24,48
+10272,20,2013-08-02,"Sir Rodney's Marmalade",Confections,6,388.8
+10272,31,2013-08-02,"Gorgonzola Telino","Dairy Products",40,400
+10272,72,2013-08-02,"Mozzarella di Giovanni","Dairy Products",24,667.2
+10273,10,2013-08-05,Ikura,Seafood,24,565.44
+10273,31,2013-08-05,"Gorgonzola Telino","Dairy Products",15,142.5
+10273,33,2013-08-05,Geitost,"Dairy Products",20,40
+10273,40,2013-08-05,"Boston Crab Meat",Seafood,60,837.9
+10273,76,2013-08-05,Lakkalikori,Beverages,33,451.44
+10274,71,2013-08-06,Flotemysost,"Dairy Products",20,344
+10274,72,2013-08-06,"Mozzarella di Giovanni","Dairy Products",7,194.6
+10275,24,2013-08-07,"Guarana Fantastica",Beverages,12,41.04
+10275,59,2013-08-07,"Raclette Courdavault","Dairy Products",6,250.8
+10276,10,2013-08-08,Ikura,Seafood,15,372
+10276,13,2013-08-08,Konbu,Seafood,10,48
+10277,28,2013-08-09,"Rossle Sauerkraut",Produce,20,728
+10277,62,2013-08-09,"Tarte au sucre",Confections,12,472.8
+10278,44,2013-08-12,"Gula Malacca",Condiments,16,248
+10278,59,2013-08-12,"Raclette Courdavault","Dairy Products",15,660
+10278,63,2013-08-12,Vegie-spread,Condiments,8,280.8
+10278,73,2013-08-12,"Rod Kaviar",Seafood,25,300
+10279,17,2013-08-13,"Alice Mutton","Meat & Poultry",15,351
+10280,24,2013-08-14,"Guarana Fantastica",Beverages,12,43.2
+10280,55,2013-08-14,"Pate chinois","Meat & Poultry",20,384
+10280,75,2013-08-14,"Rhonbrau Klosterbier",Beverages,30,186
+10281,19,2013-08-14,"Teatime Chocolate Biscuits",Confections,1,7.3
+10281,24,2013-08-14,"Guarana Fantastica",Beverages,6,21.6
+10281,35,2013-08-14,"Steeleye Stout",Beverages,4,57.6
+10282,30,2013-08-15,"Nord-Ost Matjeshering",Seafood,6,124.2
+10282,57,2013-08-15,"Ravioli Angelo","Grains & Cereals",2,31.2
+10283,15,2013-08-16,"Genen Shouyu",Condiments,20,248
+10283,19,2013-08-16,"Teatime Chocolate Biscuits",Confections,18,131.4
+10283,60,2013-08-16,"Camembert Pierrot","Dairy Products",35,952
+10283,72,2013-08-16,"Mozzarella di Giovanni","Dairy Products",3,83.4
+10284,27,2013-08-19,"Schoggi Schokolade",Confections,15,394.88
+10284,44,2013-08-19,"Gula Malacca",Condiments,21,325.5
+10284,60,2013-08-19,"Camembert Pierrot","Dairy Products",20,408
+10284,67,2013-08-19,"Laughing Lumberjack Lager",Beverages,5,42
+10285,1,2013-08-20,Chai,Beverages,45,518.4
+10285,40,2013-08-20,"Boston Crab Meat",Seafood,40,470.4
+10285,53,2013-08-20,"Perth Pasties","Meat & Poultry",36,754.56
+10286,35,2013-08-21,"Steeleye Stout",Beverages,100,1440
+10286,62,2013-08-21,"Tarte au sucre",Confections,40,1576
+10287,16,2013-08-22,Pavlova,Confections,40,472.6
+10287,34,2013-08-22,"Sasquatch Ale",Beverages,20,224
+10287,46,2013-08-22,Spegesild,Seafood,15,122.4
+10288,54,2013-08-23,Tourtiere,"Meat & Poultry",10,53.1
+10288,68,2013-08-23,"Scottish Longbreads",Confections,3,27
+10289,3,2013-08-26,"Aniseed Syrup",Condiments,30,240
+10289,64,2013-08-26,"Wimmers gute Semmelknodel","Grains & Cereals",9,239.4
+10290,5,2013-08-27,"Chef Anton's Gumbo Mix",Condiments,20,340
+10290,29,2013-08-27,"Thuringer Rostbratwurst","Meat & Poultry",15,1485
+10290,49,2013-08-27,Maxilaku,Confections,15,240
+10290,77,2013-08-27,"Original Frankfurter Grune Sose",Condiments,10,104
+10291,13,2013-08-27,Konbu,Seafood,20,86.4
+10291,44,2013-08-27,"Gula Malacca",Condiments,24,334.8
+10291,51,2013-08-27,"Manjimup Dried Apples",Produce,2,76.32
+10292,20,2013-08-28,"Sir Rodney's Marmalade",Confections,20,1296
+10293,18,2013-08-29,"Carnarvon Tigers",Seafood,12,600
+10293,24,2013-08-29,"Guarana Fantastica",Beverages,10,36
+10293,63,2013-08-29,Vegie-spread,Condiments,5,175.5
+10293,75,2013-08-29,"Rhonbrau Klosterbier",Beverages,6,37.2
+10294,1,2013-08-30,Chai,Beverages,18,259.2
+10294,17,2013-08-30,"Alice Mutton","Meat & Poultry",15,468
+10294,43,2013-08-30,"Ipoh Coffee",Beverages,15,552
+10294,60,2013-08-30,"Camembert Pierrot","Dairy Products",21,571.2
+10294,75,2013-08-30,"Rhonbrau Klosterbier",Beverages,6,37.2
+10295,56,2013-09-02,"Gnocchi di nonna Alice","Grains & Cereals",4,121.6
+10296,11,2013-09-03,"Queso Cabrales","Dairy Products",12,201.6
+10296,16,2013-09-03,Pavlova,Confections,30,417
+10296,69,2013-09-03,Gudbrandsdalsost,"Dairy Products",15,432
+10297,39,2013-09-04,"Chartreuse verte",Beverages,60,864
+10297,72,2013-09-04,"Mozzarella di Giovanni","Dairy Products",20,556
+10298,2,2013-09-05,Chang,Beverages,40,608
+10298,36,2013-09-05,"Inlagd Sill",Seafood,40,456
+10298,59,2013-09-05,"Raclette Courdavault","Dairy Products",30,990
+10298,62,2013-09-05,"Tarte au sucre",Confections,15,591
+10299,19,2013-09-06,"Teatime Chocolate Biscuits",Confections,15,109.5
+10299,70,2013-09-06,"Outback Lager",Beverages,20,240
+10300,66,2013-09-09,"Louisiana Hot Spiced Okra",Condiments,30,408
+10300,68,2013-09-09,"Scottish Longbreads",Confections,20,200
+10301,40,2013-09-09,"Boston Crab Meat",Seafood,10,147
+10301,56,2013-09-09,"Gnocchi di nonna Alice","Grains & Cereals",20,608
+10302,17,2013-09-10,"Alice Mutton","Meat & Poultry",40,1248
+10302,28,2013-09-10,"Rossle Sauerkraut",Produce,28,1019.2
+10302,43,2013-09-10,"Ipoh Coffee",Beverages,12,441.6
+10303,40,2013-09-11,"Boston Crab Meat",Seafood,40,529.2
+10303,65,2013-09-11,"Louisiana Fiery Hot Pepper Sauce",Condiments,30,453.6
+10303,68,2013-09-11,"Scottish Longbreads",Confections,15,135
+10304,49,2013-09-12,Maxilaku,Confections,30,480
+10304,59,2013-09-12,"Raclette Courdavault","Dairy Products",10,440
+10304,71,2013-09-12,Flotemysost,"Dairy Products",2,34.4
+10305,18,2013-09-13,"Carnarvon Tigers",Seafood,25,1125
+10305,29,2013-09-13,"Thuringer Rostbratwurst","Meat & Poultry",25,2227.5
+10305,39,2013-09-13,"Chartreuse verte",Beverages,30,388.8
+10306,30,2013-09-16,"Nord-Ost Matjeshering",Seafood,10,207
+10306,53,2013-09-16,"Perth Pasties","Meat & Poultry",10,262
+10306,54,2013-09-16,Tourtiere,"Meat & Poultry",5,29.5
+10307,62,2013-09-17,"Tarte au sucre",Confections,10,394
+10307,68,2013-09-17,"Scottish Longbreads",Confections,3,30
+10308,69,2013-09-18,Gudbrandsdalsost,"Dairy Products",1,28.8
+10308,70,2013-09-18,"Outback Lager",Beverages,5,60
+10309,4,2013-09-19,"Chef Anton's Cajun Seasoning",Condiments,20,352
+10309,6,2013-09-19,"Grandma's Boysenberry Spread",Condiments,30,600
+10309,42,2013-09-19,"Singaporean Hokkien Fried Mee","Grains & Cereals",2,22.4
+10309,43,2013-09-19,"Ipoh Coffee",Beverages,20,736
+10309,71,2013-09-19,Flotemysost,"Dairy Products",3,51.6
+10310,16,2013-09-20,Pavlova,Confections,10,139
+10310,62,2013-09-20,"Tarte au sucre",Confections,5,197
+10311,42,2013-09-20,"Singaporean Hokkien Fried Mee","Grains & Cereals",6,67.2
+10311,69,2013-09-20,Gudbrandsdalsost,"Dairy Products",7,201.6
+10312,28,2013-09-23,"Rossle Sauerkraut",Produce,4,145.6
+10312,43,2013-09-23,"Ipoh Coffee",Beverages,24,883.2
+10312,53,2013-09-23,"Perth Pasties","Meat & Poultry",20,524
+10312,75,2013-09-23,"Rhonbrau Klosterbier",Beverages,10,62
+10313,36,2013-09-24,"Inlagd Sill",Seafood,12,182.4
+10314,32,2013-09-25,"Mascarpone Fabioli","Dairy Products",40,921.6
+10314,58,2013-09-25,"Escargots de Bourgogne",Seafood,30,286.2
+10314,62,2013-09-25,"Tarte au sucre",Confections,25,886.5
+10315,34,2013-09-26,"Sasquatch Ale",Beverages,14,156.8
+10315,70,2013-09-26,"Outback Lager",Beverages,30,360
+10316,41,2013-09-27,"Jack's New England Clam Chowder",Seafood,10,77
+10316,62,2013-09-27,"Tarte au sucre",Confections,70,2758
+10317,1,2013-09-30,Chai,Beverages,20,288
+10318,41,2013-10-01,"Jack's New England Clam Chowder",Seafood,20,154
+10318,76,2013-10-01,Lakkalikori,Beverages,6,86.4
+10319,17,2013-10-02,"Alice Mutton","Meat & Poultry",8,249.6
+10319,28,2013-10-02,"Rossle Sauerkraut",Produce,14,509.6
+10319,76,2013-10-02,Lakkalikori,Beverages,30,432
+10320,71,2013-10-03,Flotemysost,"Dairy Products",30,516
+10321,35,2013-10-03,"Steeleye Stout",Beverages,10,144
+10322,52,2013-10-04,"Filo Mix","Grains & Cereals",20,112
+10323,15,2013-10-07,"Genen Shouyu",Condiments,5,62
+10323,25,2013-10-07,"NuNuCa Nus-Nougat-Creme",Confections,4,44.8
+10323,39,2013-10-07,"Chartreuse verte",Beverages,4,57.6
+10324,16,2013-10-08,Pavlova,Confections,21,248.12
+10324,35,2013-10-08,"Steeleye Stout",Beverages,70,856.8
+10324,46,2013-10-08,Spegesild,Seafood,30,288
+10324,59,2013-10-08,"Raclette Courdavault","Dairy Products",40,1496
+10324,63,2013-10-08,Vegie-spread,Condiments,80,2386.8
+10325,6,2013-10-09,"Grandma's Boysenberry Spread",Condiments,6,120
+10325,13,2013-10-09,Konbu,Seafood,12,57.6
+10325,14,2013-10-09,Tofu,Produce,9,167.4
+10325,31,2013-10-09,"Gorgonzola Telino","Dairy Products",4,40
+10325,72,2013-10-09,"Mozzarella di Giovanni","Dairy Products",40,1112
+10326,4,2013-10-10,"Chef Anton's Cajun Seasoning",Condiments,24,422.4
+10326,57,2013-10-10,"Ravioli Angelo","Grains & Cereals",16,249.6
+10326,75,2013-10-10,"Rhonbrau Klosterbier",Beverages,50,310
+10327,2,2013-10-11,Chang,Beverages,25,304
+10327,11,2013-10-11,"Queso Cabrales","Dairy Products",50,672
+10327,30,2013-10-11,"Nord-Ost Matjeshering",Seafood,35,579.6
+10327,58,2013-10-11,"Escargots de Bourgogne",Seafood,30,254.4
+10328,59,2013-10-14,"Raclette Courdavault","Dairy Products",9,396
+10328,65,2013-10-14,"Louisiana Fiery Hot Pepper Sauce",Condiments,40,672
+10328,68,2013-10-14,"Scottish Longbreads",Confections,10,100
+10329,19,2013-10-15,"Teatime Chocolate Biscuits",Confections,10,69.35
+10329,30,2013-10-15,"Nord-Ost Matjeshering",Seafood,8,157.32
+10329,38,2013-10-15,"Cote de Blaye",Beverages,20,4005.2
+10329,56,2013-10-15,"Gnocchi di nonna Alice","Grains & Cereals",12,346.56
+10330,26,2013-10-16,"Gumbar Gummibarchen",Confections,50,1058.25
+10330,72,2013-10-16,"Mozzarella di Giovanni","Dairy Products",25,590.75
+10331,54,2013-10-16,Tourtiere,"Meat & Poultry",15,88.5
+10332,18,2013-10-17,"Carnarvon Tigers",Seafood,40,1600
+10332,42,2013-10-17,"Singaporean Hokkien Fried Mee","Grains & Cereals",10,89.6
+10332,47,2013-10-17,"Zaanse koeken",Confections,16,97.28
+10333,14,2013-10-18,Tofu,Produce,10,186
+10333,21,2013-10-18,"Sir Rodney's Scones",Confections,10,72
+10333,71,2013-10-18,Flotemysost,"Dairy Products",40,619.2
+10334,52,2013-10-21,"Filo Mix","Grains & Cereals",8,44.8
+10334,68,2013-10-21,"Scottish Longbreads",Confections,10,100
+10335,2,2013-10-22,Chang,Beverages,7,85.12
+10335,31,2013-10-22,"Gorgonzola Telino","Dairy Products",25,200
+10335,32,2013-10-22,"Mascarpone Fabioli","Dairy Products",6,122.88
+10335,51,2013-10-22,"Manjimup Dried Apples",Produce,48,1628.16
+10336,4,2013-10-23,"Chef Anton's Cajun Seasoning",Condiments,18,285.12
+10337,23,2013-10-24,Tunnbrod,"Grains & Cereals",40,288
+10337,26,2013-10-24,"Gumbar Gummibarchen",Confections,24,597.6
+10337,36,2013-10-24,"Inlagd Sill",Seafood,20,304
+10337,37,2013-10-24,"Gravad lax",Seafood,28,582.4
+10337,72,2013-10-24,"Mozzarella di Giovanni","Dairy Products",25,695
+10338,17,2013-10-25,"Alice Mutton","Meat & Poultry",20,624
+10338,30,2013-10-25,"Nord-Ost Matjeshering",Seafood,15,310.5
+10339,4,2013-10-28,"Chef Anton's Cajun Seasoning",Condiments,10,176
+10339,17,2013-10-28,"Alice Mutton","Meat & Poultry",70,2074.8
+10339,62,2013-10-28,"Tarte au sucre",Confections,28,1103.2
+10340,18,2013-10-29,"Carnarvon Tigers",Seafood,20,950
+10340,41,2013-10-29,"Jack's New England Clam Chowder",Seafood,12,87.78
+10340,43,2013-10-29,"Ipoh Coffee",Beverages,40,1398.4
+10341,33,2013-10-29,Geitost,"Dairy Products",8,16
+10341,59,2013-10-29,"Raclette Courdavault","Dairy Products",9,336.6
+10342,2,2013-10-30,Chang,Beverages,24,291.84
+10342,31,2013-10-30,"Gorgonzola Telino","Dairy Products",56,448
+10342,36,2013-10-30,"Inlagd Sill",Seafood,40,486.4
+10342,55,2013-10-30,"Pate chinois","Meat & Poultry",40,614.4
+10343,64,2013-10-31,"Wimmers gute Semmelknodel","Grains & Cereals",50,1330
+10343,68,2013-10-31,"Scottish Longbreads",Confections,4,38
+10343,76,2013-10-31,Lakkalikori,Beverages,15,216
+10344,4,2013-11-01,"Chef Anton's Cajun Seasoning",Condiments,35,616
+10344,8,2013-11-01,"Northwoods Cranberry Sauce",Condiments,70,1680
+10345,8,2013-11-04,"Northwoods Cranberry Sauce",Condiments,70,2240
+10345,19,2013-11-04,"Teatime Chocolate Biscuits",Confections,80,584
+10345,42,2013-11-04,"Singaporean Hokkien Fried Mee","Grains & Cereals",9,100.8
+10346,17,2013-11-05,"Alice Mutton","Meat & Poultry",36,1010.88
+10346,56,2013-11-05,"Gnocchi di nonna Alice","Grains & Cereals",20,608
+10347,25,2013-11-06,"NuNuCa Nus-Nougat-Creme",Confections,10,112
+10347,39,2013-11-06,"Chartreuse verte",Beverages,50,612
+10347,40,2013-11-06,"Boston Crab Meat",Seafood,4,58.8
+10347,75,2013-11-06,"Rhonbrau Klosterbier",Beverages,6,31.62
+10348,1,2013-11-07,Chai,Beverages,15,183.6
+10348,23,2013-11-07,Tunnbrod,"Grains & Cereals",25,180
+10349,54,2013-11-08,Tourtiere,"Meat & Poultry",24,141.6
+10350,50,2013-11-11,"Valkoinen suklaa",Confections,15,175.5
+10350,69,2013-11-11,Gudbrandsdalsost,"Dairy Products",18,466.56
+10351,38,2013-11-11,"Cote de Blaye",Beverages,20,4005.2
+10351,41,2013-11-11,"Jack's New England Clam Chowder",Seafood,13,100.1
+10351,44,2013-11-11,"Gula Malacca",Condiments,77,1133.82
+10351,65,2013-11-11,"Louisiana Fiery Hot Pepper Sauce",Condiments,10,159.6
+10352,24,2013-11-12,"Guarana Fantastica",Beverages,10,36
+10352,54,2013-11-12,Tourtiere,"Meat & Poultry",20,100.3
+10353,11,2013-11-13,"Queso Cabrales","Dairy Products",12,161.28
+10353,38,2013-11-13,"Cote de Blaye",Beverages,50,8432
+10354,1,2013-11-14,Chai,Beverages,12,172.8
+10354,29,2013-11-14,"Thuringer Rostbratwurst","Meat & Poultry",4,396
+10355,24,2013-11-15,"Guarana Fantastica",Beverages,25,90
+10355,57,2013-11-15,"Ravioli Angelo","Grains & Cereals",25,390
+10356,31,2013-11-18,"Gorgonzola Telino","Dairy Products",30,300
+10356,55,2013-11-18,"Pate chinois","Meat & Poultry",12,230.4
+10356,69,2013-11-18,Gudbrandsdalsost,"Dairy Products",20,576
+10357,10,2013-11-19,Ikura,Seafood,30,595.2
+10357,26,2013-11-19,"Gumbar Gummibarchen",Confections,16,398.4
+10357,60,2013-11-19,"Camembert Pierrot","Dairy Products",8,174.08
+10358,24,2013-11-20,"Guarana Fantastica",Beverages,10,34.2
+10358,34,2013-11-20,"Sasquatch Ale",Beverages,10,106.4
+10358,36,2013-11-20,"Inlagd Sill",Seafood,20,288.8
+10359,16,2013-11-21,Pavlova,Confections,56,739.48
+10359,31,2013-11-21,"Gorgonzola Telino","Dairy Products",70,665
+10359,60,2013-11-21,"Camembert Pierrot","Dairy Products",80,2067.2
+10360,28,2013-11-22,"Rossle Sauerkraut",Produce,30,1092
+10360,29,2013-11-22,"Thuringer Rostbratwurst","Meat & Poultry",35,3465
+10360,38,2013-11-22,"Cote de Blaye",Beverages,10,2108
+10360,49,2013-11-22,Maxilaku,Confections,35,560
+10360,54,2013-11-22,Tourtiere,"Meat & Poultry",28,165.2
+10361,39,2013-11-22,"Chartreuse verte",Beverages,54,699.84
+10361,60,2013-11-22,"Camembert Pierrot","Dairy Products",55,1346.4
+10362,25,2013-11-25,"NuNuCa Nus-Nougat-Creme",Confections,50,560
+10362,51,2013-11-25,"Manjimup Dried Apples",Produce,20,848
+10362,54,2013-11-25,Tourtiere,"Meat & Poultry",24,141.6
+10363,31,2013-11-26,"Gorgonzola Telino","Dairy Products",20,200
+10363,75,2013-11-26,"Rhonbrau Klosterbier",Beverages,12,74.4
+10363,76,2013-11-26,Lakkalikori,Beverages,12,172.8
+10364,69,2013-11-26,Gudbrandsdalsost,"Dairy Products",30,864
+10364,71,2013-11-26,Flotemysost,"Dairy Products",5,86
+10365,11,2013-11-27,"Queso Cabrales","Dairy Products",24,403.2
+10366,65,2013-11-28,"Louisiana Fiery Hot Pepper Sauce",Condiments,5,84
+10366,77,2013-11-28,"Original Frankfurter Grune Sose",Condiments,5,52
+10367,34,2013-11-28,"Sasquatch Ale",Beverages,36,403.2
+10367,54,2013-11-28,Tourtiere,"Meat & Poultry",18,106.2
+10367,65,2013-11-28,"Louisiana Fiery Hot Pepper Sauce",Condiments,15,252
+10367,77,2013-11-28,"Original Frankfurter Grune Sose",Condiments,7,72.8
+10368,21,2013-11-29,"Sir Rodney's Scones",Confections,5,36
+10368,28,2013-11-29,"Rossle Sauerkraut",Produce,13,425.88
+10368,57,2013-11-29,"Ravioli Angelo","Grains & Cereals",25,390
+10368,64,2013-11-29,"Wimmers gute Semmelknodel","Grains & Cereals",35,837.9
+10369,29,2013-12-02,"Thuringer Rostbratwurst","Meat & Poultry",20,1980
+10369,56,2013-12-02,"Gnocchi di nonna Alice","Grains & Cereals",18,410.4
+10370,1,2013-12-03,Chai,Beverages,15,183.6
+10370,64,2013-12-03,"Wimmers gute Semmelknodel","Grains & Cereals",30,798
+10370,74,2013-12-03,"Longlife Tofu",Produce,20,136
+10371,36,2013-12-03,"Inlagd Sill",Seafood,6,72.96
+10372,20,2013-12-04,"Sir Rodney's Marmalade",Confections,12,583.2
+10372,38,2013-12-04,"Cote de Blaye",Beverages,40,6324
+10372,60,2013-12-04,"Camembert Pierrot","Dairy Products",70,1428
+10372,72,2013-12-04,"Mozzarella di Giovanni","Dairy Products",42,875.7
+10373,58,2013-12-05,"Escargots de Bourgogne",Seafood,80,678.4
+10373,71,2013-12-05,Flotemysost,"Dairy Products",50,688
+10374,31,2013-12-05,"Gorgonzola Telino","Dairy Products",30,300
+10374,58,2013-12-05,"Escargots de Bourgogne",Seafood,15,159
+10375,14,2013-12-06,Tofu,Produce,15,279
+10375,54,2013-12-06,Tourtiere,"Meat & Poultry",10,59
+10376,31,2013-12-09,"Gorgonzola Telino","Dairy Products",42,399
+10377,28,2013-12-09,"Rossle Sauerkraut",Produce,20,618.8
+10377,39,2013-12-09,"Chartreuse verte",Beverages,20,244.8
+10378,71,2013-12-10,Flotemysost,"Dairy Products",6,103.2
+10379,41,2013-12-11,"Jack's New England Clam Chowder",Seafood,8,55.44
+10379,63,2013-12-11,Vegie-spread,Condiments,16,505.44
+10379,65,2013-12-11,"Louisiana Fiery Hot Pepper Sauce",Condiments,20,302.4
+10380,30,2013-12-12,"Nord-Ost Matjeshering",Seafood,18,335.34
+10380,53,2013-12-12,"Perth Pasties","Meat & Poultry",20,471.6
+10380,60,2013-12-12,"Camembert Pierrot","Dairy Products",6,146.88
+10380,70,2013-12-12,"Outback Lager",Beverages,30,360
+10381,74,2013-12-12,"Longlife Tofu",Produce,14,112
+10382,5,2013-12-13,"Chef Anton's Gumbo Mix",Condiments,32,544
+10382,18,2013-12-13,"Carnarvon Tigers",Seafood,9,450
+10382,29,2013-12-13,"Thuringer Rostbratwurst","Meat & Poultry",14,1386
+10382,33,2013-12-13,Geitost,"Dairy Products",60,120
+10382,74,2013-12-13,"Longlife Tofu",Produce,50,400
+10383,13,2013-12-16,Konbu,Seafood,20,96
+10383,50,2013-12-16,"Valkoinen suklaa",Confections,15,195
+10383,56,2013-12-16,"Gnocchi di nonna Alice","Grains & Cereals",20,608
+10384,20,2013-12-16,"Sir Rodney's Marmalade",Confections,28,1814.4
+10384,60,2013-12-16,"Camembert Pierrot","Dairy Products",15,408
+10385,7,2013-12-17,"Uncle Bob's Organic Dried Pears",Produce,10,192
+10385,60,2013-12-17,"Camembert Pierrot","Dairy Products",20,435.2
+10385,68,2013-12-17,"Scottish Longbreads",Confections,8,64
+10386,24,2013-12-18,"Guarana Fantastica",Beverages,15,54
+10386,34,2013-12-18,"Sasquatch Ale",Beverages,10,112
+10387,24,2013-12-18,"Guarana Fantastica",Beverages,15,54
+10387,28,2013-12-18,"Rossle Sauerkraut",Produce,6,218.4
+10387,59,2013-12-18,"Raclette Courdavault","Dairy Products",12,528
+10387,71,2013-12-18,Flotemysost,"Dairy Products",15,258
+10388,45,2013-12-19,"Rogede sild",Seafood,15,91.2
+10388,52,2013-12-19,"Filo Mix","Grains & Cereals",20,89.6
+10388,53,2013-12-19,"Perth Pasties","Meat & Poultry",40,1048
+10389,10,2013-12-20,Ikura,Seafood,16,396.8
+10389,55,2013-12-20,"Pate chinois","Meat & Poultry",15,288
+10389,62,2013-12-20,"Tarte au sucre",Confections,20,788
+10389,70,2013-12-20,"Outback Lager",Beverages,30,360
+10390,31,2013-12-23,"Gorgonzola Telino","Dairy Products",60,540
+10390,35,2013-12-23,"Steeleye Stout",Beverages,40,518.4
+10390,46,2013-12-23,Spegesild,Seafood,45,432
+10390,72,2013-12-23,"Mozzarella di Giovanni","Dairy Products",24,600.48
+10391,13,2013-12-23,Konbu,Seafood,18,86.4
+10392,69,2013-12-24,Gudbrandsdalsost,"Dairy Products",50,1440
+10393,2,2013-12-25,Chang,Beverages,25,285
+10393,14,2013-12-25,Tofu,Produce,42,585.9
+10393,25,2013-12-25,"NuNuCa Nus-Nougat-Creme",Confections,7,58.8
+10393,26,2013-12-25,"Gumbar Gummibarchen",Confections,70,1307.25
+10393,31,2013-12-25,"Gorgonzola Telino","Dairy Products",32,320
+10394,13,2013-12-25,Konbu,Seafood,10,48
+10394,62,2013-12-25,"Tarte au sucre",Confections,10,394
+10395,46,2013-12-26,Spegesild,Seafood,28,241.92
+10395,53,2013-12-26,"Perth Pasties","Meat & Poultry",70,1650.6
+10395,69,2013-12-26,Gudbrandsdalsost,"Dairy Products",8,230.4
+10396,23,2013-12-27,Tunnbrod,"Grains & Cereals",40,288
+10396,71,2013-12-27,Flotemysost,"Dairy Products",60,1032
+10396,72,2013-12-27,"Mozzarella di Giovanni","Dairy Products",21,583.8
+10397,21,2013-12-27,"Sir Rodney's Scones",Confections,10,68
+10397,51,2013-12-27,"Manjimup Dried Apples",Produce,18,648.72
+10398,35,2013-12-30,"Steeleye Stout",Beverages,30,432
+10398,55,2013-12-30,"Pate chinois","Meat & Poultry",120,2073.6
+10399,68,2013-12-31,"Scottish Longbreads",Confections,60,600
+10399,71,2013-12-31,Flotemysost,"Dairy Products",30,516
+10399,76,2013-12-31,Lakkalikori,Beverages,35,504
+10399,77,2013-12-31,"Original Frankfurter Grune Sose",Condiments,14,145.6
+10400,29,2014-01-01,"Thuringer Rostbratwurst","Meat & Poultry",21,2079
+10400,35,2014-01-01,"Steeleye Stout",Beverages,35,504
+10400,49,2014-01-01,Maxilaku,Confections,30,480
+10401,30,2014-01-01,"Nord-Ost Matjeshering",Seafood,18,372.6
+10401,56,2014-01-01,"Gnocchi di nonna Alice","Grains & Cereals",70,2128
+10401,65,2014-01-01,"Louisiana Fiery Hot Pepper Sauce",Condiments,20,336
+10401,71,2014-01-01,Flotemysost,"Dairy Products",60,1032
+10402,23,2014-01-02,Tunnbrod,"Grains & Cereals",60,432
+10402,63,2014-01-02,Vegie-spread,Condiments,65,2281.5
+10403,16,2014-01-03,Pavlova,Confections,21,248.12
+10403,48,2014-01-03,Chocolade,Confections,70,606.9
+10404,26,2014-01-03,"Gumbar Gummibarchen",Confections,30,709.65
+10404,42,2014-01-03,"Singaporean Hokkien Fried Mee","Grains & Cereals",40,425.6
+10404,49,2014-01-03,Maxilaku,Confections,30,456
+10405,3,2014-01-06,"Aniseed Syrup",Condiments,50,400
+10406,1,2014-01-07,Chai,Beverages,10,144
+10406,21,2014-01-07,"Sir Rodney's Scones",Confections,30,216
+10406,28,2014-01-07,"Rossle Sauerkraut",Produce,42,1375.92
+10406,36,2014-01-07,"Inlagd Sill",Seafood,5,68.4
+10406,40,2014-01-07,"Boston Crab Meat",Seafood,2,26.46
+10407,11,2014-01-07,"Queso Cabrales","Dairy Products",30,504
+10407,69,2014-01-07,Gudbrandsdalsost,"Dairy Products",15,432
+10407,71,2014-01-07,Flotemysost,"Dairy Products",15,258
+10408,37,2014-01-08,"Gravad lax",Seafood,10,208
+10408,54,2014-01-08,Tourtiere,"Meat & Poultry",6,35.4
+10408,62,2014-01-08,"Tarte au sucre",Confections,35,1379
+10409,14,2014-01-09,Tofu,Produce,12,223.2
+10409,21,2014-01-09,"Sir Rodney's Scones",Confections,12,96
+10410,33,2014-01-10,Geitost,"Dairy Products",49,98
+10410,59,2014-01-10,"Raclette Courdavault","Dairy Products",16,704
+10411,41,2014-01-10,"Jack's New England Clam Chowder",Seafood,25,154
+10411,44,2014-01-10,"Gula Malacca",Condiments,40,496
+10411,59,2014-01-10,"Raclette Courdavault","Dairy Products",9,316.8
+10412,14,2014-01-13,Tofu,Produce,20,334.8
+10413,1,2014-01-14,Chai,Beverages,24,345.6
+10413,62,2014-01-14,"Tarte au sucre",Confections,40,1576
+10413,76,2014-01-14,Lakkalikori,Beverages,14,201.6
+10414,19,2014-01-14,"Teatime Chocolate Biscuits",Confections,18,124.83
+10414,33,2014-01-14,Geitost,"Dairy Products",50,100
+10415,17,2014-01-15,"Alice Mutton","Meat & Poultry",2,62.4
+10415,33,2014-01-15,Geitost,"Dairy Products",20,40
+10416,19,2014-01-16,"Teatime Chocolate Biscuits",Confections,20,146
+10416,53,2014-01-16,"Perth Pasties","Meat & Poultry",10,262
+10416,57,2014-01-16,"Ravioli Angelo","Grains & Cereals",20,312
+10417,38,2014-01-16,"Cote de Blaye",Beverages,50,10540
+10417,46,2014-01-16,Spegesild,Seafood,2,14.4
+10417,68,2014-01-16,"Scottish Longbreads",Confections,36,270
+10417,77,2014-01-16,"Original Frankfurter Grune Sose",Condiments,35,364
+10418,2,2014-01-17,Chang,Beverages,60,912
+10418,47,2014-01-17,"Zaanse koeken",Confections,55,418
+10418,61,2014-01-17,"Sirop d'erable",Condiments,16,364.8
+10418,74,2014-01-17,"Longlife Tofu",Produce,15,120
+10419,60,2014-01-20,"Camembert Pierrot","Dairy Products",60,1550.4
+10419,69,2014-01-20,Gudbrandsdalsost,"Dairy Products",20,547.2
+10420,9,2014-01-21,"Mishi Kobe Niku","Meat & Poultry",20,1396.8
+10420,13,2014-01-21,Konbu,Seafood,2,8.64
+10420,70,2014-01-21,"Outback Lager",Beverages,8,86.4
+10420,73,2014-01-21,"Rod Kaviar",Seafood,20,216
+10421,19,2014-01-21,"Teatime Chocolate Biscuits",Confections,4,24.82
+10421,26,2014-01-21,"Gumbar Gummibarchen",Confections,30,747
+10421,53,2014-01-21,"Perth Pasties","Meat & Poultry",15,334.05
+10421,77,2014-01-21,"Original Frankfurter Grune Sose",Condiments,10,88.4
+10422,26,2014-01-22,"Gumbar Gummibarchen",Confections,2,49.8
+10423,31,2014-01-23,"Gorgonzola Telino","Dairy Products",14,140
+10423,59,2014-01-23,"Raclette Courdavault","Dairy Products",20,880
+10424,35,2014-01-23,"Steeleye Stout",Beverages,60,691.2
+10424,38,2014-01-23,"Cote de Blaye",Beverages,49,8263.36
+10424,68,2014-01-23,"Scottish Longbreads",Confections,30,240
+10425,55,2014-01-24,"Pate chinois","Meat & Poultry",10,144
+10425,76,2014-01-24,Lakkalikori,Beverages,20,216
+10426,56,2014-01-27,"Gnocchi di nonna Alice","Grains & Cereals",5,152
+10426,64,2014-01-27,"Wimmers gute Semmelknodel","Grains & Cereals",7,186.2
+10427,14,2014-01-27,Tofu,Produce,35,651
+10428,46,2014-01-28,Spegesild,Seafood,20,192
+10429,50,2014-01-29,"Valkoinen suklaa",Confections,40,520
+10429,63,2014-01-29,Vegie-spread,Condiments,35,921.38
+10430,17,2014-01-30,"Alice Mutton","Meat & Poultry",45,1123.2
+10430,21,2014-01-30,"Sir Rodney's Scones",Confections,50,400
+10430,56,2014-01-30,"Gnocchi di nonna Alice","Grains & Cereals",30,912
+10430,59,2014-01-30,"Raclette Courdavault","Dairy Products",70,2464
+10431,17,2014-01-30,"Alice Mutton","Meat & Poultry",50,1170
+10431,40,2014-01-30,"Boston Crab Meat",Seafood,50,551.25
+10431,47,2014-01-30,"Zaanse koeken",Confections,30,171
+10432,26,2014-01-31,"Gumbar Gummibarchen",Confections,10,249
+10432,54,2014-01-31,Tourtiere,"Meat & Poultry",40,236
+10433,56,2014-02-03,"Gnocchi di nonna Alice","Grains & Cereals",28,851.2
+10434,11,2014-02-03,"Queso Cabrales","Dairy Products",6,100.8
+10434,76,2014-02-03,Lakkalikori,Beverages,18,220.32
+10435,2,2014-02-04,Chang,Beverages,10,152
+10435,22,2014-02-04,"Gustaf's Knackebrod","Grains & Cereals",12,201.6
+10435,72,2014-02-04,"Mozzarella di Giovanni","Dairy Products",10,278
+10436,46,2014-02-05,Spegesild,Seafood,5,48
+10436,56,2014-02-05,"Gnocchi di nonna Alice","Grains & Cereals",40,1094.4
+10436,64,2014-02-05,"Wimmers gute Semmelknodel","Grains & Cereals",30,718.2
+10436,75,2014-02-05,"Rhonbrau Klosterbier",Beverages,24,133.92
+10437,53,2014-02-05,"Perth Pasties","Meat & Poultry",15,393
+10438,19,2014-02-06,"Teatime Chocolate Biscuits",Confections,15,87.6
+10438,34,2014-02-06,"Sasquatch Ale",Beverages,20,179.2
+10438,57,2014-02-06,"Ravioli Angelo","Grains & Cereals",15,187.2
+10439,12,2014-02-07,"Queso Manchego La Pastora","Dairy Products",15,456
+10439,16,2014-02-07,Pavlova,Confections,16,222.4
+10439,64,2014-02-07,"Wimmers gute Semmelknodel","Grains & Cereals",6,159.6
+10439,74,2014-02-07,"Longlife Tofu",Produce,30,240
+10440,2,2014-02-10,Chang,Beverages,45,581.4
+10440,16,2014-02-10,Pavlova,Confections,49,578.94
+10440,29,2014-02-10,"Thuringer Rostbratwurst","Meat & Poultry",24,2019.6
+10440,61,2014-02-10,"Sirop d'erable",Condiments,90,1744.2
+10441,27,2014-02-10,"Schoggi Schokolade",Confections,50,1755
+10442,11,2014-02-11,"Queso Cabrales","Dairy Products",30,504
+10442,54,2014-02-11,Tourtiere,"Meat & Poultry",80,472
+10442,66,2014-02-11,"Louisiana Hot Spiced Okra",Condiments,60,816
+10443,11,2014-02-12,"Queso Cabrales","Dairy Products",6,80.64
+10443,28,2014-02-12,"Rossle Sauerkraut",Produce,12,436.8
+10444,17,2014-02-12,"Alice Mutton","Meat & Poultry",10,312
+10444,26,2014-02-12,"Gumbar Gummibarchen",Confections,15,373.5
+10444,35,2014-02-12,"Steeleye Stout",Beverages,8,115.2
+10444,41,2014-02-12,"Jack's New England Clam Chowder",Seafood,30,231
+10445,39,2014-02-13,"Chartreuse verte",Beverages,6,86.4
+10445,54,2014-02-13,Tourtiere,"Meat & Poultry",15,88.5
+10446,19,2014-02-14,"Teatime Chocolate Biscuits",Confections,12,78.84
+10446,24,2014-02-14,"Guarana Fantastica",Beverages,20,64.8
+10446,31,2014-02-14,"Gorgonzola Telino","Dairy Products",3,27
+10446,52,2014-02-14,"Filo Mix","Grains & Cereals",15,75.6
+10447,19,2014-02-14,"Teatime Chocolate Biscuits",Confections,40,292
+10447,65,2014-02-14,"Louisiana Fiery Hot Pepper Sauce",Condiments,35,588
+10447,71,2014-02-14,Flotemysost,"Dairy Products",2,34.4
+10448,26,2014-02-17,"Gumbar Gummibarchen",Confections,6,149.4
+10448,40,2014-02-17,"Boston Crab Meat",Seafood,20,294
+10449,10,2014-02-18,Ikura,Seafood,14,347.2
+10449,52,2014-02-18,"Filo Mix","Grains & Cereals",20,112
+10449,62,2014-02-18,"Tarte au sucre",Confections,35,1379
+10450,10,2014-02-19,Ikura,Seafood,20,396.8
+10450,54,2014-02-19,Tourtiere,"Meat & Poultry",6,28.32
+10451,55,2014-02-19,"Pate chinois","Meat & Poultry",120,2073.6
+10451,64,2014-02-19,"Wimmers gute Semmelknodel","Grains & Cereals",35,837.9
+10451,65,2014-02-19,"Louisiana Fiery Hot Pepper Sauce",Condiments,28,423.36
+10451,77,2014-02-19,"Original Frankfurter Grune Sose",Condiments,55,514.8
+10452,28,2014-02-20,"Rossle Sauerkraut",Produce,15,546
+10452,44,2014-02-20,"Gula Malacca",Condiments,100,1472.5
+10453,48,2014-02-21,Chocolade,Confections,15,137.7
+10453,70,2014-02-21,"Outback Lager",Beverages,25,270
+10454,16,2014-02-21,Pavlova,Confections,20,222.4
+10454,33,2014-02-21,Geitost,"Dairy Products",20,32
+10454,46,2014-02-21,Spegesild,Seafood,10,76.8
+10455,39,2014-02-24,"Chartreuse verte",Beverages,20,288
+10455,53,2014-02-24,"Perth Pasties","Meat & Poultry",50,1310
+10455,61,2014-02-24,"Sirop d'erable",Condiments,25,570
+10455,71,2014-02-24,Flotemysost,"Dairy Products",30,516
+10456,21,2014-02-25,"Sir Rodney's Scones",Confections,40,272
+10456,49,2014-02-25,Maxilaku,Confections,21,285.6
+10457,59,2014-02-25,"Raclette Courdavault","Dairy Products",36,1584
+10458,26,2014-02-26,"Gumbar Gummibarchen",Confections,30,747
+10458,28,2014-02-26,"Rossle Sauerkraut",Produce,30,1092
+10458,43,2014-02-26,"Ipoh Coffee",Beverages,20,736
+10458,56,2014-02-26,"Gnocchi di nonna Alice","Grains & Cereals",15,456
+10458,71,2014-02-26,Flotemysost,"Dairy Products",50,860
+10459,7,2014-02-27,"Uncle Bob's Organic Dried Pears",Produce,16,364.8
+10459,46,2014-02-27,Spegesild,Seafood,20,182.4
+10459,72,2014-02-27,"Mozzarella di Giovanni","Dairy Products",40,1112
+10460,68,2014-02-28,"Scottish Longbreads",Confections,21,157.5
+10460,75,2014-02-28,"Rhonbrau Klosterbier",Beverages,4,18.6
+10461,21,2014-02-28,"Sir Rodney's Scones",Confections,40,240
+10461,30,2014-02-28,"Nord-Ost Matjeshering",Seafood,28,434.7
+10461,55,2014-02-28,"Pate chinois","Meat & Poultry",60,864
+10462,13,2014-03-03,Konbu,Seafood,1,4.8
+10462,23,2014-03-03,Tunnbrod,"Grains & Cereals",21,151.2
+10463,19,2014-03-04,"Teatime Chocolate Biscuits",Confections,21,153.3
+10463,42,2014-03-04,"Singaporean Hokkien Fried Mee","Grains & Cereals",50,560
+10464,4,2014-03-04,"Chef Anton's Cajun Seasoning",Condiments,16,225.28
+10464,43,2014-03-04,"Ipoh Coffee",Beverages,3,110.4
+10464,56,2014-03-04,"Gnocchi di nonna Alice","Grains & Cereals",30,729.6
+10464,60,2014-03-04,"Camembert Pierrot","Dairy Products",20,544
+10465,24,2014-03-05,"Guarana Fantastica",Beverages,25,90
+10465,29,2014-03-05,"Thuringer Rostbratwurst","Meat & Poultry",18,1603.8
+10465,40,2014-03-05,"Boston Crab Meat",Seafood,20,294
+10465,45,2014-03-05,"Rogede sild",Seafood,30,205.2
+10465,50,2014-03-05,"Valkoinen suklaa",Confections,25,325
+10466,11,2014-03-06,"Queso Cabrales","Dairy Products",10,168
+10466,46,2014-03-06,Spegesild,Seafood,5,48
+10467,24,2014-03-06,"Guarana Fantastica",Beverages,28,100.8
+10467,25,2014-03-06,"NuNuCa Nus-Nougat-Creme",Confections,12,134.4
+10468,30,2014-03-07,"Nord-Ost Matjeshering",Seafood,8,165.6
+10468,43,2014-03-07,"Ipoh Coffee",Beverages,15,552
+10469,2,2014-03-10,Chang,Beverages,40,516.8
+10469,16,2014-03-10,Pavlova,Confections,35,413.52
+10469,44,2014-03-10,"Gula Malacca",Condiments,2,26.35
+10470,18,2014-03-11,"Carnarvon Tigers",Seafood,30,1500
+10470,23,2014-03-11,Tunnbrod,"Grains & Cereals",15,108
+10470,64,2014-03-11,"Wimmers gute Semmelknodel","Grains & Cereals",8,212.8
+10471,7,2014-03-11,"Uncle Bob's Organic Dried Pears",Produce,30,720
+10471,56,2014-03-11,"Gnocchi di nonna Alice","Grains & Cereals",20,608
+10472,24,2014-03-12,"Guarana Fantastica",Beverages,80,273.6
+10472,51,2014-03-12,"Manjimup Dried Apples",Produce,18,763.2
+10473,33,2014-03-13,Geitost,"Dairy Products",12,24
+10473,71,2014-03-13,Flotemysost,"Dairy Products",12,206.4
+10474,14,2014-03-13,Tofu,Produce,12,223.2
+10474,28,2014-03-13,"Rossle Sauerkraut",Produce,18,655.2
+10474,40,2014-03-13,"Boston Crab Meat",Seafood,21,308.7
+10474,75,2014-03-13,"Rhonbrau Klosterbier",Beverages,10,62
+10475,31,2014-03-14,"Gorgonzola Telino","Dairy Products",35,297.5
+10475,66,2014-03-14,"Louisiana Hot Spiced Okra",Condiments,60,693.6
+10475,76,2014-03-14,Lakkalikori,Beverages,42,514.08
+10476,55,2014-03-17,"Pate chinois","Meat & Poultry",2,36.48
+10476,70,2014-03-17,"Outback Lager",Beverages,12,144
+10477,1,2014-03-17,Chai,Beverages,15,216
+10477,21,2014-03-17,"Sir Rodney's Scones",Confections,21,126
+10477,39,2014-03-17,"Chartreuse verte",Beverages,20,216
+10478,10,2014-03-18,Ikura,Seafood,20,471.2
+10479,38,2014-03-19,"Cote de Blaye",Beverages,30,6324
+10479,53,2014-03-19,"Perth Pasties","Meat & Poultry",28,733.6
+10479,59,2014-03-19,"Raclette Courdavault","Dairy Products",60,2640
+10479,64,2014-03-19,"Wimmers gute Semmelknodel","Grains & Cereals",30,798
+10480,47,2014-03-20,"Zaanse koeken",Confections,30,228
+10480,59,2014-03-20,"Raclette Courdavault","Dairy Products",12,528
+10481,49,2014-03-20,Maxilaku,Confections,24,384
+10481,60,2014-03-20,"Camembert Pierrot","Dairy Products",40,1088
+10482,40,2014-03-21,"Boston Crab Meat",Seafood,10,147
+10483,34,2014-03-24,"Sasquatch Ale",Beverages,35,372.4
+10483,77,2014-03-24,"Original Frankfurter Grune Sose",Condiments,30,296.4
+10484,21,2014-03-24,"Sir Rodney's Scones",Confections,14,112
+10484,40,2014-03-24,"Boston Crab Meat",Seafood,10,147
+10484,51,2014-03-24,"Manjimup Dried Apples",Produce,3,127.2
+10485,2,2014-03-25,Chang,Beverages,20,273.6
+10485,3,2014-03-25,"Aniseed Syrup",Condiments,20,144
+10485,55,2014-03-25,"Pate chinois","Meat & Poultry",30,518.4
+10485,70,2014-03-25,"Outback Lager",Beverages,60,648
+10486,11,2014-03-26,"Queso Cabrales","Dairy Products",5,84
+10486,51,2014-03-26,"Manjimup Dried Apples",Produce,25,1060
+10486,74,2014-03-26,"Longlife Tofu",Produce,16,128
+10487,19,2014-03-26,"Teatime Chocolate Biscuits",Confections,5,36.5
+10487,26,2014-03-26,"Gumbar Gummibarchen",Confections,30,747
+10487,54,2014-03-26,Tourtiere,"Meat & Poultry",24,106.2
+10488,59,2014-03-27,"Raclette Courdavault","Dairy Products",30,1320
+10488,73,2014-03-27,"Rod Kaviar",Seafood,20,192
+10489,11,2014-03-28,"Queso Cabrales","Dairy Products",15,189
+10489,16,2014-03-28,Pavlova,Confections,18,250.2
+10490,59,2014-03-31,"Raclette Courdavault","Dairy Products",60,2640
+10490,68,2014-03-31,"Scottish Longbreads",Confections,30,300
+10490,75,2014-03-31,"Rhonbrau Klosterbier",Beverages,36,223.2
+10491,44,2014-03-31,"Gula Malacca",Condiments,15,197.62
+10491,77,2014-03-31,"Original Frankfurter Grune Sose",Condiments,7,61.88
+10492,25,2014-04-01,"NuNuCa Nus-Nougat-Creme",Confections,60,638.4
+10492,42,2014-04-01,"Singaporean Hokkien Fried Mee","Grains & Cereals",20,212.8
+10493,65,2014-04-02,"Louisiana Fiery Hot Pepper Sauce",Condiments,15,226.8
+10493,66,2014-04-02,"Louisiana Hot Spiced Okra",Condiments,10,122.4
+10493,69,2014-04-02,Gudbrandsdalsost,"Dairy Products",10,259.2
+10494,56,2014-04-02,"Gnocchi di nonna Alice","Grains & Cereals",30,912
+10495,23,2014-04-03,Tunnbrod,"Grains & Cereals",10,72
+10495,41,2014-04-03,"Jack's New England Clam Chowder",Seafood,20,154
+10495,77,2014-04-03,"Original Frankfurter Grune Sose",Condiments,5,52
+10496,31,2014-04-04,"Gorgonzola Telino","Dairy Products",20,190
+10497,56,2014-04-04,"Gnocchi di nonna Alice","Grains & Cereals",14,425.6
+10497,72,2014-04-04,"Mozzarella di Giovanni","Dairy Products",25,695
+10497,77,2014-04-04,"Original Frankfurter Grune Sose",Condiments,25,260
+10498,24,2014-04-07,"Guarana Fantastica",Beverages,14,63
+10498,40,2014-04-07,"Boston Crab Meat",Seafood,5,92
+10498,42,2014-04-07,"Singaporean Hokkien Fried Mee","Grains & Cereals",30,420
+10499,28,2014-04-08,"Rossle Sauerkraut",Produce,20,912
+10499,49,2014-04-08,Maxilaku,Confections,25,500
+10500,15,2014-04-09,"Genen Shouyu",Condiments,12,176.7
+10500,28,2014-04-09,"Rossle Sauerkraut",Produce,8,346.56
+10501,54,2014-04-09,Tourtiere,"Meat & Poultry",20,149
+10502,45,2014-04-10,"Rogede sild",Seafood,21,199.5
+10502,53,2014-04-10,"Perth Pasties","Meat & Poultry",6,196.8
+10502,67,2014-04-10,"Laughing Lumberjack Lager",Beverages,30,420
+10503,14,2014-04-11,Tofu,Produce,70,1627.5
+10503,65,2014-04-11,"Louisiana Fiery Hot Pepper Sauce",Condiments,20,421
+10504,2,2014-04-11,Chang,Beverages,12,228
+10504,21,2014-04-11,"Sir Rodney's Scones",Confections,12,120
+10504,53,2014-04-11,"Perth Pasties","Meat & Poultry",10,328
+10504,61,2014-04-11,"Sirop d'erable",Condiments,25,712.5
+10505,62,2014-04-14,"Tarte au sucre",Confections,3,147.9
+10506,25,2014-04-15,"NuNuCa Nus-Nougat-Creme",Confections,18,226.8
+10506,70,2014-04-15,"Outback Lager",Beverages,14,189
+10507,43,2014-04-15,"Ipoh Coffee",Beverages,15,586.5
+10507,48,2014-04-15,Chocolade,Confections,15,162.56
+10508,13,2014-04-16,Konbu,Seafood,10,60
+10508,39,2014-04-16,"Chartreuse verte",Beverages,10,180
+10509,28,2014-04-17,"Rossle Sauerkraut",Produce,3,136.8
+10510,29,2014-04-18,"Thuringer Rostbratwurst","Meat & Poultry",36,4456.44
+10510,75,2014-04-18,"Rhonbrau Klosterbier",Beverages,36,251.1
+10511,4,2014-04-18,"Chef Anton's Cajun Seasoning",Condiments,50,935
+10511,7,2014-04-18,"Uncle Bob's Organic Dried Pears",Produce,50,1275
+10511,8,2014-04-18,"Northwoods Cranberry Sauce",Condiments,10,340
+10512,24,2014-04-21,"Guarana Fantastica",Beverages,10,38.25
+10512,46,2014-04-21,Spegesild,Seafood,9,91.8
+10512,47,2014-04-21,"Zaanse koeken",Confections,6,48.45
+10512,60,2014-04-21,"Camembert Pierrot","Dairy Products",12,346.8
+10513,21,2014-04-22,"Sir Rodney's Scones",Confections,40,320
+10513,32,2014-04-22,"Mascarpone Fabioli","Dairy Products",50,1280
+10513,61,2014-04-22,"Sirop d'erable",Condiments,15,342
+10514,20,2014-04-22,"Sir Rodney's Marmalade",Confections,39,3159
+10514,28,2014-04-22,"Rossle Sauerkraut",Produce,35,1596
+10514,56,2014-04-22,"Gnocchi di nonna Alice","Grains & Cereals",70,2660
+10514,65,2014-04-22,"Louisiana Fiery Hot Pepper Sauce",Condiments,39,820.95
+10514,75,2014-04-22,"Rhonbrau Klosterbier",Beverages,50,387.5
+10515,9,2014-04-23,"Mishi Kobe Niku","Meat & Poultry",16,1319.2
+10515,16,2014-04-23,Pavlova,Confections,50,872.5
+10515,27,2014-04-23,"Schoggi Schokolade",Confections,120,5268
+10515,33,2014-04-23,Geitost,"Dairy Products",16,34
+10515,60,2014-04-23,"Camembert Pierrot","Dairy Products",84,2427.6
+10516,18,2014-04-24,"Carnarvon Tigers",Seafood,25,1406.25
+10516,41,2014-04-24,"Jack's New England Clam Chowder",Seafood,80,694.8
+10516,42,2014-04-24,"Singaporean Hokkien Fried Mee","Grains & Cereals",20,280
+10517,52,2014-04-24,"Filo Mix","Grains & Cereals",6,42
+10517,59,2014-04-24,"Raclette Courdavault","Dairy Products",4,220
+10517,70,2014-04-24,"Outback Lager",Beverages,6,90
+10518,24,2014-04-25,"Guarana Fantastica",Beverages,5,22.5
+10518,38,2014-04-25,"Cote de Blaye",Beverages,15,3952.5
+10518,44,2014-04-25,"Gula Malacca",Condiments,9,175.05
+10519,10,2014-04-28,Ikura,Seafood,16,471.2
+10519,56,2014-04-28,"Gnocchi di nonna Alice","Grains & Cereals",40,1520
+10519,60,2014-04-28,"Camembert Pierrot","Dairy Products",10,323
+10520,24,2014-04-29,"Guarana Fantastica",Beverages,8,36
+10520,53,2014-04-29,"Perth Pasties","Meat & Poultry",5,164
+10521,35,2014-04-29,"Steeleye Stout",Beverages,3,54
+10521,41,2014-04-29,"Jack's New England Clam Chowder",Seafood,10,96.5
+10521,68,2014-04-29,"Scottish Longbreads",Confections,6,75
+10522,1,2014-04-30,Chai,Beverages,40,576
+10522,8,2014-04-30,"Northwoods Cranberry Sauce",Condiments,24,960
+10522,30,2014-04-30,"Nord-Ost Matjeshering",Seafood,20,414.24
+10522,40,2014-04-30,"Boston Crab Meat",Seafood,25,368
+10523,17,2014-05-01,"Alice Mutton","Meat & Poultry",25,877.5
+10523,20,2014-05-01,"Sir Rodney's Marmalade",Confections,15,1093.5
+10523,37,2014-05-01,"Gravad lax",Seafood,18,421.2
+10523,41,2014-05-01,"Jack's New England Clam Chowder",Seafood,6,52.11
+10524,10,2014-05-01,Ikura,Seafood,2,62
+10524,30,2014-05-01,"Nord-Ost Matjeshering",Seafood,10,258.9
+10524,43,2014-05-01,"Ipoh Coffee",Beverages,60,2760
+10524,54,2014-05-01,Tourtiere,"Meat & Poultry",15,111.75
+10525,36,2014-05-02,"Inlagd Sill",Seafood,30,570
+10525,40,2014-05-02,"Boston Crab Meat",Seafood,15,248.4
+10526,1,2014-05-05,Chai,Beverages,8,122.4
+10526,13,2014-05-05,Konbu,Seafood,10,60
+10526,56,2014-05-05,"Gnocchi di nonna Alice","Grains & Cereals",30,969
+10527,4,2014-05-05,"Chef Anton's Cajun Seasoning",Condiments,50,990
+10527,36,2014-05-05,"Inlagd Sill",Seafood,30,513
+10528,11,2014-05-06,"Queso Cabrales","Dairy Products",3,63
+10528,33,2014-05-06,Geitost,"Dairy Products",8,16
+10528,72,2014-05-06,"Mozzarella di Giovanni","Dairy Products",9,313.2
+10529,55,2014-05-07,"Pate chinois","Meat & Poultry",14,336
+10529,68,2014-05-07,"Scottish Longbreads",Confections,20,250
+10529,69,2014-05-07,Gudbrandsdalsost,"Dairy Products",10,360
+10530,17,2014-05-08,"Alice Mutton","Meat & Poultry",40,1560
+10530,43,2014-05-08,"Ipoh Coffee",Beverages,25,1150
+10530,61,2014-05-08,"Sirop d'erable",Condiments,20,570
+10530,76,2014-05-08,Lakkalikori,Beverages,50,900
+10531,59,2014-05-08,"Raclette Courdavault","Dairy Products",2,110
+10532,30,2014-05-09,"Nord-Ost Matjeshering",Seafood,15,388.35
+10532,66,2014-05-09,"Louisiana Hot Spiced Okra",Condiments,24,408
+10533,4,2014-05-12,"Chef Anton's Cajun Seasoning",Condiments,50,1045
+10533,72,2014-05-12,"Mozzarella di Giovanni","Dairy Products",24,835.2
+10533,73,2014-05-12,"Rod Kaviar",Seafood,24,342
+10534,30,2014-05-12,"Nord-Ost Matjeshering",Seafood,10,258.9
+10534,40,2014-05-12,"Boston Crab Meat",Seafood,10,147.2
+10534,54,2014-05-12,Tourtiere,"Meat & Poultry",10,59.6
+10535,11,2014-05-13,"Queso Cabrales","Dairy Products",50,945
+10535,40,2014-05-13,"Boston Crab Meat",Seafood,10,165.6
+10535,57,2014-05-13,"Ravioli Angelo","Grains & Cereals",5,87.75
+10535,59,2014-05-13,"Raclette Courdavault","Dairy Products",15,742.5
+10536,12,2014-05-14,"Queso Manchego La Pastora","Dairy Products",15,427.5
+10536,31,2014-05-14,"Gorgonzola Telino","Dairy Products",20,250
+10536,33,2014-05-14,Geitost,"Dairy Products",30,75
+10536,60,2014-05-14,"Camembert Pierrot","Dairy Products",35,892.5
+10537,31,2014-05-14,"Gorgonzola Telino","Dairy Products",30,375
+10537,51,2014-05-14,"Manjimup Dried Apples",Produce,6,318
+10537,58,2014-05-14,"Escargots de Bourgogne",Seafood,20,265
+10537,72,2014-05-14,"Mozzarella di Giovanni","Dairy Products",21,730.8
+10537,73,2014-05-14,"Rod Kaviar",Seafood,9,135
+10538,70,2014-05-15,"Outback Lager",Beverages,7,105
+10538,72,2014-05-15,"Mozzarella di Giovanni","Dairy Products",1,34.8
+10539,13,2014-05-16,Konbu,Seafood,8,48
+10539,21,2014-05-16,"Sir Rodney's Scones",Confections,15,150
+10539,33,2014-05-16,Geitost,"Dairy Products",15,37.5
+10539,49,2014-05-16,Maxilaku,Confections,6,120
+10540,3,2014-05-19,"Aniseed Syrup",Condiments,60,600
+10540,26,2014-05-19,"Gumbar Gummibarchen",Confections,40,1249.2
+10540,38,2014-05-19,"Cote de Blaye",Beverages,30,7905
+10540,68,2014-05-19,"Scottish Longbreads",Confections,35,437.5
+10541,24,2014-05-19,"Guarana Fantastica",Beverages,35,141.75
+10541,38,2014-05-19,"Cote de Blaye",Beverages,4,948.6
+10541,65,2014-05-19,"Louisiana Fiery Hot Pepper Sauce",Condiments,36,682.02
+10541,71,2014-05-19,Flotemysost,"Dairy Products",9,174.15
+10542,11,2014-05-20,"Queso Cabrales","Dairy Products",15,299.25
+10542,54,2014-05-20,Tourtiere,"Meat & Poultry",24,169.86
+10543,12,2014-05-21,"Queso Manchego La Pastora","Dairy Products",30,969
+10543,23,2014-05-21,Tunnbrod,"Grains & Cereals",70,535.5
+10544,28,2014-05-21,"Rossle Sauerkraut",Produce,7,319.2
+10544,67,2014-05-21,"Laughing Lumberjack Lager",Beverages,7,98
+10545,11,2014-05-22,"Queso Cabrales","Dairy Products",10,210
+10546,7,2014-05-23,"Uncle Bob's Organic Dried Pears",Produce,10,300
+10546,35,2014-05-23,"Steeleye Stout",Beverages,30,540
+10546,62,2014-05-23,"Tarte au sucre",Confections,40,1972
+10547,32,2014-05-23,"Mascarpone Fabioli","Dairy Products",24,652.8
+10547,36,2014-05-23,"Inlagd Sill",Seafood,60,1140
+10548,34,2014-05-26,"Sasquatch Ale",Beverages,10,105
+10548,41,2014-05-26,"Jack's New England Clam Chowder",Seafood,14,135.1
+10549,31,2014-05-27,"Gorgonzola Telino","Dairy Products",55,584.38
+10549,45,2014-05-27,"Rogede sild",Seafood,100,807.5
+10549,51,2014-05-27,"Manjimup Dried Apples",Produce,48,2162.4
+10550,17,2014-05-28,"Alice Mutton","Meat & Poultry",8,280.8
+10550,19,2014-05-28,"Teatime Chocolate Biscuits",Confections,10,92
+10550,21,2014-05-28,"Sir Rodney's Scones",Confections,6,54
+10550,61,2014-05-28,"Sirop d'erable",Condiments,10,256.5
+10551,16,2014-05-28,Pavlova,Confections,40,593.3
+10551,35,2014-05-28,"Steeleye Stout",Beverages,20,306
+10551,44,2014-05-28,"Gula Malacca",Condiments,40,778
+10552,69,2014-05-29,Gudbrandsdalsost,"Dairy Products",18,648
+10552,75,2014-05-29,"Rhonbrau Klosterbier",Beverages,30,232.5
+10553,11,2014-05-30,"Queso Cabrales","Dairy Products",15,315
+10553,16,2014-05-30,Pavlova,Confections,14,244.3
+10553,22,2014-05-30,"Gustaf's Knackebrod","Grains & Cereals",24,504
+10553,31,2014-05-30,"Gorgonzola Telino","Dairy Products",30,375
+10553,35,2014-05-30,"Steeleye Stout",Beverages,6,108
+10554,16,2014-05-30,Pavlova,Confections,30,497.33
+10554,23,2014-05-30,Tunnbrod,"Grains & Cereals",20,171
+10554,62,2014-05-30,"Tarte au sucre",Confections,20,936.7
+10554,77,2014-05-30,"Original Frankfurter Grune Sose",Condiments,10,123.5
+10555,14,2014-06-02,Tofu,Produce,30,558
+10555,19,2014-06-02,"Teatime Chocolate Biscuits",Confections,35,257.6
+10555,24,2014-06-02,"Guarana Fantastica",Beverages,18,64.8
+10555,51,2014-06-02,"Manjimup Dried Apples",Produce,20,848
+10555,56,2014-06-02,"Gnocchi di nonna Alice","Grains & Cereals",40,1216
+10556,72,2014-06-03,"Mozzarella di Giovanni","Dairy Products",24,835.2
+10557,64,2014-06-03,"Wimmers gute Semmelknodel","Grains & Cereals",30,997.5
+10557,75,2014-06-03,"Rhonbrau Klosterbier",Beverages,20,155
+10558,47,2014-06-04,"Zaanse koeken",Confections,25,237.5
+10558,51,2014-06-04,"Manjimup Dried Apples",Produce,20,1060
+10558,52,2014-06-04,"Filo Mix","Grains & Cereals",30,210
+10558,53,2014-06-04,"Perth Pasties","Meat & Poultry",18,590.4
+10558,73,2014-06-04,"Rod Kaviar",Seafood,3,45
+10559,41,2014-06-05,"Jack's New England Clam Chowder",Seafood,12,110.01
+10559,55,2014-06-05,"Pate chinois","Meat & Poultry",18,410.4
+10560,30,2014-06-06,"Nord-Ost Matjeshering",Seafood,20,517.8
+10560,62,2014-06-06,"Tarte au sucre",Confections,15,554.62
+10561,44,2014-06-06,"Gula Malacca",Condiments,10,194.5
+10561,51,2014-06-06,"Manjimup Dried Apples",Produce,50,2650
+10562,33,2014-06-09,Geitost,"Dairy Products",20,45
+10562,62,2014-06-09,"Tarte au sucre",Confections,10,443.7
+10563,36,2014-06-10,"Inlagd Sill",Seafood,25,475
+10563,52,2014-06-10,"Filo Mix","Grains & Cereals",70,490
+10564,17,2014-06-10,"Alice Mutton","Meat & Poultry",16,592.8
+10564,31,2014-06-10,"Gorgonzola Telino","Dairy Products",6,71.25
+10564,55,2014-06-10,"Pate chinois","Meat & Poultry",25,570
+10565,24,2014-06-11,"Guarana Fantastica",Beverages,25,101.25
+10565,64,2014-06-11,"Wimmers gute Semmelknodel","Grains & Cereals",18,538.65
+10566,11,2014-06-12,"Queso Cabrales","Dairy Products",35,624.75
+10566,18,2014-06-12,"Carnarvon Tigers",Seafood,18,956.25
+10566,76,2014-06-12,Lakkalikori,Beverages,10,180
+10567,31,2014-06-12,"Gorgonzola Telino","Dairy Products",60,600
+10567,51,2014-06-12,"Manjimup Dried Apples",Produce,3,159
+10567,59,2014-06-12,"Raclette Courdavault","Dairy Products",40,1760
+10568,10,2014-06-13,Ikura,Seafood,5,155
+10569,31,2014-06-16,"Gorgonzola Telino","Dairy Products",35,350
+10569,76,2014-06-16,Lakkalikori,Beverages,30,540
+10570,11,2014-06-17,"Queso Cabrales","Dairy Products",15,299.25
+10570,56,2014-06-17,"Gnocchi di nonna Alice","Grains & Cereals",60,2166
+10571,14,2014-06-17,Tofu,Produce,11,217.39
+10571,42,2014-06-17,"Singaporean Hokkien Fried Mee","Grains & Cereals",28,333.2
+10572,16,2014-06-18,Pavlova,Confections,12,188.46
+10572,32,2014-06-18,"Mascarpone Fabioli","Dairy Products",10,288
+10572,40,2014-06-18,"Boston Crab Meat",Seafood,50,920
+10572,75,2014-06-18,"Rhonbrau Klosterbier",Beverages,15,104.62
+10573,17,2014-06-19,"Alice Mutton","Meat & Poultry",18,702
+10573,34,2014-06-19,"Sasquatch Ale",Beverages,40,560
+10573,53,2014-06-19,"Perth Pasties","Meat & Poultry",25,820
+10574,33,2014-06-19,Geitost,"Dairy Products",14,35
+10574,40,2014-06-19,"Boston Crab Meat",Seafood,2,36.8
+10574,62,2014-06-19,"Tarte au sucre",Confections,10,493
+10574,64,2014-06-19,"Wimmers gute Semmelknodel","Grains & Cereals",6,199.5
+10575,59,2014-06-20,"Raclette Courdavault","Dairy Products",12,660
+10575,63,2014-06-20,Vegie-spread,Condiments,6,263.4
+10575,72,2014-06-20,"Mozzarella di Giovanni","Dairy Products",30,1044
+10575,76,2014-06-20,Lakkalikori,Beverages,10,180
+10576,1,2014-06-23,Chai,Beverages,10,180
+10576,31,2014-06-23,"Gorgonzola Telino","Dairy Products",20,250
+10576,44,2014-06-23,"Gula Malacca",Condiments,21,408.45
+10577,39,2014-06-23,"Chartreuse verte",Beverages,10,180
+10577,75,2014-06-23,"Rhonbrau Klosterbier",Beverages,20,155
+10577,77,2014-06-23,"Original Frankfurter Grune Sose",Condiments,18,234
+10578,35,2014-06-24,"Steeleye Stout",Beverages,20,360
+10578,57,2014-06-24,"Ravioli Angelo","Grains & Cereals",6,117
+10579,15,2014-06-25,"Genen Shouyu",Condiments,10,155
+10579,75,2014-06-25,"Rhonbrau Klosterbier",Beverages,21,162.75
+10580,14,2014-06-26,Tofu,Produce,15,331.31
+10580,41,2014-06-26,"Jack's New England Clam Chowder",Seafood,9,82.51
+10580,65,2014-06-26,"Louisiana Fiery Hot Pepper Sauce",Condiments,30,599.93
+10581,75,2014-06-26,"Rhonbrau Klosterbier",Beverages,50,310
+10582,57,2014-06-27,"Ravioli Angelo","Grains & Cereals",4,78
+10582,76,2014-06-27,Lakkalikori,Beverages,14,252
+10583,29,2014-06-30,"Thuringer Rostbratwurst","Meat & Poultry",10,1237.9
+10583,60,2014-06-30,"Camembert Pierrot","Dairy Products",24,693.6
+10583,69,2014-06-30,Gudbrandsdalsost,"Dairy Products",10,306
+10584,31,2014-06-30,"Gorgonzola Telino","Dairy Products",50,593.75
+10585,47,2014-07-01,"Zaanse koeken",Confections,15,142.5
+10586,52,2014-07-02,"Filo Mix","Grains & Cereals",4,23.8
+10587,26,2014-07-02,"Gumbar Gummibarchen",Confections,6,187.38
+10587,35,2014-07-02,"Steeleye Stout",Beverages,20,360
+10587,77,2014-07-02,"Original Frankfurter Grune Sose",Condiments,20,260
+10588,18,2014-07-03,"Carnarvon Tigers",Seafood,40,2000
+10588,42,2014-07-03,"Singaporean Hokkien Fried Mee","Grains & Cereals",100,1120
+10589,35,2014-07-04,"Steeleye Stout",Beverages,4,72
+10590,1,2014-07-07,Chai,Beverages,20,360
+10590,77,2014-07-07,"Original Frankfurter Grune Sose",Condiments,60,741
+10591,3,2014-07-07,"Aniseed Syrup",Condiments,14,140
+10591,7,2014-07-07,"Uncle Bob's Organic Dried Pears",Produce,10,300
+10591,54,2014-07-07,Tourtiere,"Meat & Poultry",50,372.5
+10592,15,2014-07-08,"Genen Shouyu",Condiments,25,368.12
+10592,26,2014-07-08,"Gumbar Gummibarchen",Confections,5,148.34
+10593,20,2014-07-09,"Sir Rodney's Marmalade",Confections,21,1360.8
+10593,69,2014-07-09,Gudbrandsdalsost,"Dairy Products",20,576
+10593,76,2014-07-09,Lakkalikori,Beverages,4,57.6
+10594,52,2014-07-09,"Filo Mix","Grains & Cereals",24,168
+10594,58,2014-07-09,"Escargots de Bourgogne",Seafood,30,397.5
+10595,35,2014-07-10,"Steeleye Stout",Beverages,30,405
+10595,61,2014-07-10,"Sirop d'erable",Condiments,120,2565
+10595,69,2014-07-10,Gudbrandsdalsost,"Dairy Products",65,1755
+10596,56,2014-07-11,"Gnocchi di nonna Alice","Grains & Cereals",5,152
+10596,63,2014-07-11,Vegie-spread,Condiments,24,842.88
+10596,75,2014-07-11,"Rhonbrau Klosterbier",Beverages,30,186
+10597,24,2014-07-11,"Guarana Fantastica",Beverages,35,126
+10597,57,2014-07-11,"Ravioli Angelo","Grains & Cereals",20,390
+10597,65,2014-07-11,"Louisiana Fiery Hot Pepper Sauce",Condiments,12,202.08
+10598,27,2014-07-14,"Schoggi Schokolade",Confections,50,2195
+10598,71,2014-07-14,Flotemysost,"Dairy Products",9,193.5
+10599,62,2014-07-15,"Tarte au sucre",Confections,10,493
+10600,54,2014-07-16,Tourtiere,"Meat & Poultry",4,29.8
+10600,73,2014-07-16,"Rod Kaviar",Seafood,30,450
+10601,13,2014-07-16,Konbu,Seafood,60,360
+10601,59,2014-07-16,"Raclette Courdavault","Dairy Products",35,1925
+10602,77,2014-07-17,"Original Frankfurter Grune Sose",Condiments,5,48.75
+10603,22,2014-07-18,"Gustaf's Knackebrod","Grains & Cereals",48,1008
+10603,49,2014-07-18,Maxilaku,Confections,25,475
+10604,48,2014-07-18,Chocolade,Confections,6,68.85
+10604,76,2014-07-18,Lakkalikori,Beverages,10,162
+10605,16,2014-07-21,Pavlova,Confections,30,497.33
+10605,59,2014-07-21,"Raclette Courdavault","Dairy Products",20,1045
+10605,60,2014-07-21,"Camembert Pierrot","Dairy Products",70,2261
+10605,71,2014-07-21,Flotemysost,"Dairy Products",15,306.38
+10606,4,2014-07-22,"Chef Anton's Cajun Seasoning",Condiments,20,352
+10606,55,2014-07-22,"Pate chinois","Meat & Poultry",20,384
+10606,62,2014-07-22,"Tarte au sucre",Confections,10,394.4
+10607,7,2014-07-22,"Uncle Bob's Organic Dried Pears",Produce,45,1350
+10607,17,2014-07-22,"Alice Mutton","Meat & Poultry",100,3900
+10607,33,2014-07-22,Geitost,"Dairy Products",14,35
+10607,40,2014-07-22,"Boston Crab Meat",Seafood,42,772.8
+10607,72,2014-07-22,"Mozzarella di Giovanni","Dairy Products",12,417.6
+10608,56,2014-07-23,"Gnocchi di nonna Alice","Grains & Cereals",28,1064
+10609,1,2014-07-24,Chai,Beverages,3,54
+10609,10,2014-07-24,Ikura,Seafood,10,310
+10609,21,2014-07-24,"Sir Rodney's Scones",Confections,6,60
+10610,36,2014-07-25,"Inlagd Sill",Seafood,21,299.25
+10611,1,2014-07-25,Chai,Beverages,6,108
+10611,2,2014-07-25,Chang,Beverages,10,190
+10611,60,2014-07-25,"Camembert Pierrot","Dairy Products",15,510
+10612,10,2014-07-28,Ikura,Seafood,70,2170
+10612,36,2014-07-28,"Inlagd Sill",Seafood,55,1045
+10612,49,2014-07-28,Maxilaku,Confections,18,360
+10612,60,2014-07-28,"Camembert Pierrot","Dairy Products",40,1360
+10612,76,2014-07-28,Lakkalikori,Beverages,80,1440
+10613,13,2014-07-29,Konbu,Seafood,8,43.2
+10613,75,2014-07-29,"Rhonbrau Klosterbier",Beverages,40,310
+10614,11,2014-07-29,"Queso Cabrales","Dairy Products",14,294
+10614,21,2014-07-29,"Sir Rodney's Scones",Confections,8,80
+10614,39,2014-07-29,"Chartreuse verte",Beverages,5,90
+10615,55,2014-07-30,"Pate chinois","Meat & Poultry",5,120
+10616,38,2014-07-31,"Cote de Blaye",Beverages,15,3754.88
+10616,56,2014-07-31,"Gnocchi di nonna Alice","Grains & Cereals",14,532
+10616,70,2014-07-31,"Outback Lager",Beverages,15,213.75
+10616,71,2014-07-31,Flotemysost,"Dairy Products",15,306.38
+10617,59,2014-07-31,"Raclette Courdavault","Dairy Products",30,1402.5
+10618,6,2014-08-01,"Grandma's Boysenberry Spread",Condiments,70,1750
+10618,56,2014-08-01,"Gnocchi di nonna Alice","Grains & Cereals",20,760
+10618,68,2014-08-01,"Scottish Longbreads",Confections,15,187.5
+10619,21,2014-08-04,"Sir Rodney's Scones",Confections,42,420
+10619,22,2014-08-04,"Gustaf's Knackebrod","Grains & Cereals",40,840
+10620,24,2014-08-05,"Guarana Fantastica",Beverages,5,22.5
+10620,52,2014-08-05,"Filo Mix","Grains & Cereals",5,35
+10621,19,2014-08-05,"Teatime Chocolate Biscuits",Confections,5,46
+10621,23,2014-08-05,Tunnbrod,"Grains & Cereals",10,90
+10621,70,2014-08-05,"Outback Lager",Beverages,20,300
+10621,71,2014-08-05,Flotemysost,"Dairy Products",15,322.5
+10622,2,2014-08-06,Chang,Beverages,20,380
+10622,68,2014-08-06,"Scottish Longbreads",Confections,18,180
+10623,14,2014-08-07,Tofu,Produce,21,488.25
+10623,19,2014-08-07,"Teatime Chocolate Biscuits",Confections,15,124.2
+10623,21,2014-08-07,"Sir Rodney's Scones",Confections,25,225
+10623,24,2014-08-07,"Guarana Fantastica",Beverages,3,13.5
+10623,35,2014-08-07,"Steeleye Stout",Beverages,30,486
+10624,28,2014-08-07,"Rossle Sauerkraut",Produce,10,456
+10624,29,2014-08-07,"Thuringer Rostbratwurst","Meat & Poultry",6,742.74
+10624,44,2014-08-07,"Gula Malacca",Condiments,10,194.5
+10625,14,2014-08-08,Tofu,Produce,3,69.75
+10625,42,2014-08-08,"Singaporean Hokkien Fried Mee","Grains & Cereals",5,70
+10625,60,2014-08-08,"Camembert Pierrot","Dairy Products",10,340
+10626,53,2014-08-11,"Perth Pasties","Meat & Poultry",12,393.6
+10626,60,2014-08-11,"Camembert Pierrot","Dairy Products",20,680
+10626,71,2014-08-11,Flotemysost,"Dairy Products",20,430
+10627,62,2014-08-11,"Tarte au sucre",Confections,15,739.5
+10627,73,2014-08-11,"Rod Kaviar",Seafood,35,446.25
+10628,1,2014-08-12,Chai,Beverages,25,450
+10629,29,2014-08-12,"Thuringer Rostbratwurst","Meat & Poultry",20,2475.8
+10629,64,2014-08-12,"Wimmers gute Semmelknodel","Grains & Cereals",9,299.25
+10630,55,2014-08-13,"Pate chinois","Meat & Poultry",12,273.6
+10630,76,2014-08-13,Lakkalikori,Beverages,35,630
+10631,75,2014-08-14,"Rhonbrau Klosterbier",Beverages,8,55.8
+10632,2,2014-08-14,Chang,Beverages,30,541.5
+10632,33,2014-08-14,Geitost,"Dairy Products",20,47.5
+10633,12,2014-08-15,"Queso Manchego La Pastora","Dairy Products",36,1162.8
+10633,13,2014-08-15,Konbu,Seafood,13,66.3
+10633,26,2014-08-15,"Gumbar Gummibarchen",Confections,35,929.09
+10633,62,2014-08-15,"Tarte au sucre",Confections,80,3352.4
+10634,7,2014-08-15,"Uncle Bob's Organic Dried Pears",Produce,35,1050
+10634,18,2014-08-15,"Carnarvon Tigers",Seafood,50,3125
+10634,51,2014-08-15,"Manjimup Dried Apples",Produce,15,795
+10634,75,2014-08-15,"Rhonbrau Klosterbier",Beverages,2,15.5
+10635,4,2014-08-18,"Chef Anton's Cajun Seasoning",Condiments,10,198
+10635,5,2014-08-18,"Chef Anton's Gumbo Mix",Condiments,15,288.23
+10635,22,2014-08-18,"Gustaf's Knackebrod","Grains & Cereals",40,840
+10636,4,2014-08-19,"Chef Anton's Cajun Seasoning",Condiments,25,550
+10636,58,2014-08-19,"Escargots de Bourgogne",Seafood,6,79.5
+10637,11,2014-08-19,"Queso Cabrales","Dairy Products",10,210
+10637,50,2014-08-19,"Valkoinen suklaa",Confections,25,385.94
+10637,56,2014-08-19,"Gnocchi di nonna Alice","Grains & Cereals",60,2166
+10638,45,2014-08-20,"Rogede sild",Seafood,20,190
+10638,65,2014-08-20,"Louisiana Fiery Hot Pepper Sauce",Condiments,21,442.05
+10638,72,2014-08-20,"Mozzarella di Giovanni","Dairy Products",60,2088
+10639,18,2014-08-20,"Carnarvon Tigers",Seafood,8,500
+10640,69,2014-08-21,Gudbrandsdalsost,"Dairy Products",20,540
+10640,70,2014-08-21,"Outback Lager",Beverages,15,168.75
+10641,2,2014-08-22,Chang,Beverages,50,950
+10641,40,2014-08-22,"Boston Crab Meat",Seafood,60,1104
+10642,21,2014-08-22,"Sir Rodney's Scones",Confections,30,240
+10642,61,2014-08-22,"Sirop d'erable",Condiments,20,456
+10643,28,2014-08-25,"Rossle Sauerkraut",Produce,15,513
+10643,39,2014-08-25,"Chartreuse verte",Beverages,21,283.5
+10643,46,2014-08-25,Spegesild,Seafood,2,18
+10644,18,2014-08-25,"Carnarvon Tigers",Seafood,4,225
+10644,43,2014-08-25,"Ipoh Coffee",Beverages,20,920
+10644,46,2014-08-25,Spegesild,Seafood,21,226.8
+10645,18,2014-08-26,"Carnarvon Tigers",Seafood,20,1250
+10645,36,2014-08-26,"Inlagd Sill",Seafood,15,285
+10646,1,2014-08-27,Chai,Beverages,15,202.5
+10646,10,2014-08-27,Ikura,Seafood,18,418.5
+10646,71,2014-08-27,Flotemysost,"Dairy Products",30,483.75
+10646,77,2014-08-27,"Original Frankfurter Grune Sose",Condiments,35,341.25
+10647,19,2014-08-27,"Teatime Chocolate Biscuits",Confections,30,276
+10647,39,2014-08-27,"Chartreuse verte",Beverages,20,360
+10648,22,2014-08-28,"Gustaf's Knackebrod","Grains & Cereals",15,315
+10648,24,2014-08-28,"Guarana Fantastica",Beverages,15,57.38
+10649,28,2014-08-28,"Rossle Sauerkraut",Produce,20,912
+10649,72,2014-08-28,"Mozzarella di Giovanni","Dairy Products",15,522
+10650,30,2014-08-29,"Nord-Ost Matjeshering",Seafood,30,776.7
+10650,53,2014-08-29,"Perth Pasties","Meat & Poultry",25,779
+10650,54,2014-08-29,Tourtiere,"Meat & Poultry",30,223.5
+10651,19,2014-09-01,"Teatime Chocolate Biscuits",Confections,12,82.8
+10651,22,2014-09-01,"Gustaf's Knackebrod","Grains & Cereals",20,315
+10652,30,2014-09-01,"Nord-Ost Matjeshering",Seafood,2,38.84
+10652,42,2014-09-01,"Singaporean Hokkien Fried Mee","Grains & Cereals",20,280
+10653,16,2014-09-02,Pavlova,Confections,30,471.15
+10653,60,2014-09-02,"Camembert Pierrot","Dairy Products",20,612
+10654,4,2014-09-02,"Chef Anton's Cajun Seasoning",Condiments,12,237.6
+10654,39,2014-09-02,"Chartreuse verte",Beverages,20,324
+10654,54,2014-09-02,Tourtiere,"Meat & Poultry",6,40.23
+10655,41,2014-09-03,"Jack's New England Clam Chowder",Seafood,20,154.4
+10656,14,2014-09-04,Tofu,Produce,3,62.78
+10656,44,2014-09-04,"Gula Malacca",Condiments,28,490.14
+10656,47,2014-09-04,"Zaanse koeken",Confections,6,51.3
+10657,15,2014-09-04,"Genen Shouyu",Condiments,50,775
+10657,41,2014-09-04,"Jack's New England Clam Chowder",Seafood,24,231.6
+10657,46,2014-09-04,Spegesild,Seafood,45,540
+10657,47,2014-09-04,"Zaanse koeken",Confections,10,95
+10657,56,2014-09-04,"Gnocchi di nonna Alice","Grains & Cereals",45,1710
+10657,60,2014-09-04,"Camembert Pierrot","Dairy Products",30,1020
+10658,21,2014-09-05,"Sir Rodney's Scones",Confections,60,600
+10658,40,2014-09-05,"Boston Crab Meat",Seafood,70,1223.6
+10658,60,2014-09-05,"Camembert Pierrot","Dairy Products",55,1776.5
+10658,77,2014-09-05,"Original Frankfurter Grune Sose",Condiments,70,864.5
+10659,31,2014-09-05,"Gorgonzola Telino","Dairy Products",20,237.5
+10659,40,2014-09-05,"Boston Crab Meat",Seafood,24,419.52
+10659,70,2014-09-05,"Outback Lager",Beverages,40,570
+10660,20,2014-09-08,"Sir Rodney's Marmalade",Confections,21,1701
+10661,39,2014-09-09,"Chartreuse verte",Beverages,3,43.2
+10661,58,2014-09-09,"Escargots de Bourgogne",Seafood,49,519.4
+10662,68,2014-09-09,"Scottish Longbreads",Confections,10,125
+10663,40,2014-09-10,"Boston Crab Meat",Seafood,30,524.4
+10663,42,2014-09-10,"Singaporean Hokkien Fried Mee","Grains & Cereals",30,399
+10663,51,2014-09-10,"Manjimup Dried Apples",Produce,20,1007
+10664,10,2014-09-10,Ikura,Seafood,24,632.4
+10664,56,2014-09-10,"Gnocchi di nonna Alice","Grains & Cereals",12,387.6
+10664,65,2014-09-10,"Louisiana Fiery Hot Pepper Sauce",Condiments,15,268.39
+10665,51,2014-09-11,"Manjimup Dried Apples",Produce,20,1060
+10665,59,2014-09-11,"Raclette Courdavault","Dairy Products",1,55
+10665,76,2014-09-11,Lakkalikori,Beverages,10,180
+10666,29,2014-09-12,"Thuringer Rostbratwurst","Meat & Poultry",36,4456.44
+10666,65,2014-09-12,"Louisiana Fiery Hot Pepper Sauce",Condiments,10,210.5
+10667,69,2014-09-12,Gudbrandsdalsost,"Dairy Products",45,1296
+10667,71,2014-09-12,Flotemysost,"Dairy Products",14,240.8
+10668,31,2014-09-15,"Gorgonzola Telino","Dairy Products",8,90
+10668,55,2014-09-15,"Pate chinois","Meat & Poultry",4,86.4
+10668,64,2014-09-15,"Wimmers gute Semmelknodel","Grains & Cereals",15,448.88
+10669,36,2014-09-15,"Inlagd Sill",Seafood,30,570
+10670,23,2014-09-16,Tunnbrod,"Grains & Cereals",32,288
+10670,46,2014-09-16,Spegesild,Seafood,60,720
+10670,67,2014-09-16,"Laughing Lumberjack Lager",Beverages,25,350
+10670,73,2014-09-16,"Rod Kaviar",Seafood,50,750
+10670,75,2014-09-16,"Rhonbrau Klosterbier",Beverages,25,193.75
+10671,16,2014-09-17,Pavlova,Confections,10,174.5
+10671,62,2014-09-17,"Tarte au sucre",Confections,10,493
+10671,65,2014-09-17,"Louisiana Fiery Hot Pepper Sauce",Condiments,12,252.6
+10672,38,2014-09-17,"Cote de Blaye",Beverages,15,3557.25
+10672,71,2014-09-17,Flotemysost,"Dairy Products",12,258
+10673,16,2014-09-18,Pavlova,Confections,3,52.35
+10673,42,2014-09-18,"Singaporean Hokkien Fried Mee","Grains & Cereals",6,84
+10673,43,2014-09-18,"Ipoh Coffee",Beverages,6,276
+10674,23,2014-09-18,Tunnbrod,"Grains & Cereals",5,45
+10675,14,2014-09-19,Tofu,Produce,30,697.5
+10675,53,2014-09-19,"Perth Pasties","Meat & Poultry",10,328
+10675,58,2014-09-19,"Escargots de Bourgogne",Seafood,30,397.5
+10676,10,2014-09-22,Ikura,Seafood,2,62
+10676,19,2014-09-22,"Teatime Chocolate Biscuits",Confections,7,64.4
+10676,44,2014-09-22,"Gula Malacca",Condiments,21,408.45
+10677,26,2014-09-22,"Gumbar Gummibarchen",Confections,30,796.36
+10677,33,2014-09-22,Geitost,"Dairy Products",8,17
+10678,12,2014-09-23,"Queso Manchego La Pastora","Dairy Products",100,3800
+10678,33,2014-09-23,Geitost,"Dairy Products",30,75
+10678,41,2014-09-23,"Jack's New England Clam Chowder",Seafood,120,1158
+10678,54,2014-09-23,Tourtiere,"Meat & Poultry",30,223.5
+10679,59,2014-09-23,"Raclette Courdavault","Dairy Products",12,660
+10680,16,2014-09-24,Pavlova,Confections,50,654.37
+10680,31,2014-09-24,"Gorgonzola Telino","Dairy Products",20,187.5
+10680,42,2014-09-24,"Singaporean Hokkien Fried Mee","Grains & Cereals",40,420
+10681,19,2014-09-25,"Teatime Chocolate Biscuits",Confections,30,248.4
+10681,21,2014-09-25,"Sir Rodney's Scones",Confections,12,108
+10681,64,2014-09-25,"Wimmers gute Semmelknodel","Grains & Cereals",28,931
+10682,33,2014-09-25,Geitost,"Dairy Products",30,75
+10682,66,2014-09-25,"Louisiana Hot Spiced Okra",Condiments,4,68
+10682,75,2014-09-25,"Rhonbrau Klosterbier",Beverages,30,232.5
+10683,52,2014-09-26,"Filo Mix","Grains & Cereals",9,63
+10684,40,2014-09-26,"Boston Crab Meat",Seafood,20,368
+10684,47,2014-09-26,"Zaanse koeken",Confections,40,380
+10684,60,2014-09-26,"Camembert Pierrot","Dairy Products",30,1020
+10685,10,2014-09-29,Ikura,Seafood,20,620
+10685,41,2014-09-29,"Jack's New England Clam Chowder",Seafood,4,38.6
+10685,47,2014-09-29,"Zaanse koeken",Confections,15,142.5
+10686,17,2014-09-30,"Alice Mutton","Meat & Poultry",30,936
+10686,26,2014-09-30,"Gumbar Gummibarchen",Confections,15,468.45
+10687,9,2014-09-30,"Mishi Kobe Niku","Meat & Poultry",50,3637.5
+10687,29,2014-09-30,"Thuringer Rostbratwurst","Meat & Poultry",10,1237.9
+10687,36,2014-09-30,"Inlagd Sill",Seafood,6,85.5
+10688,10,2014-10-01,Ikura,Seafood,18,502.2
+10688,28,2014-10-01,"Rossle Sauerkraut",Produce,60,2462.4
+10688,34,2014-10-01,"Sasquatch Ale",Beverages,14,196
+10689,1,2014-10-01,Chai,Beverages,35,472.5
+10690,56,2014-10-02,"Gnocchi di nonna Alice","Grains & Cereals",20,570
+10690,77,2014-10-02,"Original Frankfurter Grune Sose",Condiments,30,292.5
+10691,1,2014-10-03,Chai,Beverages,30,540
+10691,29,2014-10-03,"Thuringer Rostbratwurst","Meat & Poultry",40,4951.6
+10691,43,2014-10-03,"Ipoh Coffee",Beverages,40,1840
+10691,44,2014-10-03,"Gula Malacca",Condiments,24,466.8
+10691,62,2014-10-03,"Tarte au sucre",Confections,48,2366.4
+10692,63,2014-10-03,Vegie-spread,Condiments,20,878
+10693,9,2014-10-06,"Mishi Kobe Niku","Meat & Poultry",6,582
+10693,54,2014-10-06,Tourtiere,"Meat & Poultry",60,379.95
+10693,69,2014-10-06,Gudbrandsdalsost,"Dairy Products",30,918
+10693,73,2014-10-06,"Rod Kaviar",Seafood,15,191.25
+10694,7,2014-10-06,"Uncle Bob's Organic Dried Pears",Produce,90,2700
+10694,59,2014-10-06,"Raclette Courdavault","Dairy Products",25,1375
+10694,70,2014-10-06,"Outback Lager",Beverages,50,750
+10695,8,2014-10-07,"Northwoods Cranberry Sauce",Condiments,10,400
+10695,12,2014-10-07,"Queso Manchego La Pastora","Dairy Products",4,152
+10695,24,2014-10-07,"Guarana Fantastica",Beverages,20,90
+10696,17,2014-10-08,"Alice Mutton","Meat & Poultry",20,780
+10696,46,2014-10-08,Spegesild,Seafood,18,216
+10697,19,2014-10-08,"Teatime Chocolate Biscuits",Confections,7,48.3
+10697,35,2014-10-08,"Steeleye Stout",Beverages,9,121.5
+10697,58,2014-10-08,"Escargots de Bourgogne",Seafood,30,298.12
+10697,70,2014-10-08,"Outback Lager",Beverages,30,337.5
+10698,11,2014-10-09,"Queso Cabrales","Dairy Products",15,315
+10698,17,2014-10-09,"Alice Mutton","Meat & Poultry",8,296.4
+10698,29,2014-10-09,"Thuringer Rostbratwurst","Meat & Poultry",12,1411.21
+10698,65,2014-10-09,"Louisiana Fiery Hot Pepper Sauce",Condiments,65,1299.84
+10698,70,2014-10-09,"Outback Lager",Beverages,8,114
+10699,47,2014-10-09,"Zaanse koeken",Confections,12,114
+10700,1,2014-10-10,Chai,Beverages,5,72
+10700,34,2014-10-10,"Sasquatch Ale",Beverages,12,134.4
+10700,68,2014-10-10,"Scottish Longbreads",Confections,40,400
+10700,71,2014-10-10,Flotemysost,"Dairy Products",60,1032
+10701,59,2014-10-13,"Raclette Courdavault","Dairy Products",42,1963.5
+10701,71,2014-10-13,Flotemysost,"Dairy Products",20,365.5
+10701,76,2014-10-13,Lakkalikori,Beverages,35,535.5
+10702,3,2014-10-13,"Aniseed Syrup",Condiments,6,60
+10702,76,2014-10-13,Lakkalikori,Beverages,15,270
+10703,2,2014-10-14,Chang,Beverages,5,95
+10703,59,2014-10-14,"Raclette Courdavault","Dairy Products",35,1925
+10703,73,2014-10-14,"Rod Kaviar",Seafood,35,525
+10704,4,2014-10-14,"Chef Anton's Cajun Seasoning",Condiments,6,132
+10704,24,2014-10-14,"Guarana Fantastica",Beverages,35,157.5
+10704,48,2014-10-14,Chocolade,Confections,24,306
+10705,31,2014-10-15,"Gorgonzola Telino","Dairy Products",20,250
+10705,32,2014-10-15,"Mascarpone Fabioli","Dairy Products",4,128
+10706,16,2014-10-16,Pavlova,Confections,20,349
+10706,43,2014-10-16,"Ipoh Coffee",Beverages,24,1104
+10706,59,2014-10-16,"Raclette Courdavault","Dairy Products",8,440
+10707,55,2014-10-16,"Pate chinois","Meat & Poultry",21,504
+10707,57,2014-10-16,"Ravioli Angelo","Grains & Cereals",40,780
+10707,70,2014-10-16,"Outback Lager",Beverages,28,357
+10708,5,2014-10-17,"Chef Anton's Gumbo Mix",Condiments,4,85.4
+10708,36,2014-10-17,"Inlagd Sill",Seafood,5,95
+10709,8,2014-10-17,"Northwoods Cranberry Sauce",Condiments,40,1600
+10709,51,2014-10-17,"Manjimup Dried Apples",Produce,28,1484
+10709,60,2014-10-17,"Camembert Pierrot","Dairy Products",10,340
+10710,19,2014-10-20,"Teatime Chocolate Biscuits",Confections,5,46
+10710,47,2014-10-20,"Zaanse koeken",Confections,5,47.5
+10711,19,2014-10-21,"Teatime Chocolate Biscuits",Confections,12,110.4
+10711,41,2014-10-21,"Jack's New England Clam Chowder",Seafood,42,405.3
+10711,53,2014-10-21,"Perth Pasties","Meat & Poultry",120,3936
+10712,53,2014-10-21,"Perth Pasties","Meat & Poultry",3,93.48
+10712,56,2014-10-21,"Gnocchi di nonna Alice","Grains & Cereals",30,1140
+10713,10,2014-10-22,Ikura,Seafood,18,558
+10713,26,2014-10-22,"Gumbar Gummibarchen",Confections,30,936.9
+10713,45,2014-10-22,"Rogede sild",Seafood,110,1045
+10713,46,2014-10-22,Spegesild,Seafood,24,288
+10714,2,2014-10-22,Chang,Beverages,30,427.5
+10714,17,2014-10-22,"Alice Mutton","Meat & Poultry",27,789.75
+10714,47,2014-10-22,"Zaanse koeken",Confections,50,356.25
+10714,56,2014-10-22,"Gnocchi di nonna Alice","Grains & Cereals",18,513
+10714,58,2014-10-22,"Escargots de Bourgogne",Seafood,12,119.25
+10715,10,2014-10-23,Ikura,Seafood,21,651
+10715,71,2014-10-23,Flotemysost,"Dairy Products",30,645
+10716,21,2014-10-24,"Sir Rodney's Scones",Confections,5,50
+10716,51,2014-10-24,"Manjimup Dried Apples",Produce,7,371
+10716,61,2014-10-24,"Sirop d'erable",Condiments,10,285
+10717,21,2014-10-24,"Sir Rodney's Scones",Confections,32,304
+10717,54,2014-10-24,Tourtiere,"Meat & Poultry",15,111.75
+10717,69,2014-10-24,Gudbrandsdalsost,"Dairy Products",25,855
+10718,12,2014-10-27,"Queso Manchego La Pastora","Dairy Products",36,1368
+10718,16,2014-10-27,Pavlova,Confections,20,349
+10718,36,2014-10-27,"Inlagd Sill",Seafood,40,760
+10718,62,2014-10-27,"Tarte au sucre",Confections,20,986
+10719,18,2014-10-27,"Carnarvon Tigers",Seafood,12,562.5
+10719,30,2014-10-27,"Nord-Ost Matjeshering",Seafood,3,58.25
+10719,54,2014-10-27,Tourtiere,"Meat & Poultry",40,223.5
+10720,35,2014-10-28,"Steeleye Stout",Beverages,21,378
+10720,71,2014-10-28,Flotemysost,"Dairy Products",8,172
+10721,44,2014-10-29,"Gula Malacca",Condiments,50,923.88
+10722,2,2014-10-29,Chang,Beverages,3,57
+10722,31,2014-10-29,"Gorgonzola Telino","Dairy Products",50,625
+10722,68,2014-10-29,"Scottish Longbreads",Confections,45,562.5
+10722,75,2014-10-29,"Rhonbrau Klosterbier",Beverages,42,325.5
+10723,26,2014-10-30,"Gumbar Gummibarchen",Confections,15,468.45
+10724,10,2014-10-30,Ikura,Seafood,16,496
+10724,61,2014-10-30,"Sirop d'erable",Condiments,5,142.5
+10725,41,2014-10-31,"Jack's New England Clam Chowder",Seafood,12,115.8
+10725,52,2014-10-31,"Filo Mix","Grains & Cereals",4,28
+10725,55,2014-10-31,"Pate chinois","Meat & Poultry",6,144
+10726,4,2014-11-03,"Chef Anton's Cajun Seasoning",Condiments,25,550
+10726,11,2014-11-03,"Queso Cabrales","Dairy Products",5,105
+10727,17,2014-11-03,"Alice Mutton","Meat & Poultry",20,741
+10727,56,2014-11-03,"Gnocchi di nonna Alice","Grains & Cereals",10,361
+10727,59,2014-11-03,"Raclette Courdavault","Dairy Products",10,522.5
+10728,30,2014-11-04,"Nord-Ost Matjeshering",Seafood,15,388.35
+10728,40,2014-11-04,"Boston Crab Meat",Seafood,6,110.4
+10728,55,2014-11-04,"Pate chinois","Meat & Poultry",12,288
+10728,60,2014-11-04,"Camembert Pierrot","Dairy Products",15,510
+10729,1,2014-11-04,Chai,Beverages,50,900
+10729,21,2014-11-04,"Sir Rodney's Scones",Confections,30,300
+10729,50,2014-11-04,"Valkoinen suklaa",Confections,40,650
+10730,16,2014-11-05,Pavlova,Confections,15,248.66
+10730,31,2014-11-05,"Gorgonzola Telino","Dairy Products",3,35.62
+10730,65,2014-11-05,"Louisiana Fiery Hot Pepper Sauce",Condiments,10,199.98
+10731,21,2014-11-06,"Sir Rodney's Scones",Confections,40,380
+10731,51,2014-11-06,"Manjimup Dried Apples",Produce,30,1510.5
+10732,76,2014-11-06,Lakkalikori,Beverages,20,360
+10733,14,2014-11-07,Tofu,Produce,16,372
+10733,28,2014-11-07,"Rossle Sauerkraut",Produce,20,912
+10733,52,2014-11-07,"Filo Mix","Grains & Cereals",25,175
+10734,6,2014-11-07,"Grandma's Boysenberry Spread",Condiments,30,750
+10734,30,2014-11-07,"Nord-Ost Matjeshering",Seafood,15,388.35
+10734,76,2014-11-07,Lakkalikori,Beverages,20,360
+10735,61,2014-11-10,"Sirop d'erable",Condiments,20,513
+10735,77,2014-11-10,"Original Frankfurter Grune Sose",Condiments,2,23.4
+10736,65,2014-11-11,"Louisiana Fiery Hot Pepper Sauce",Condiments,40,842
+10736,75,2014-11-11,"Rhonbrau Klosterbier",Beverages,20,155
+10737,13,2014-11-11,Konbu,Seafood,4,24
+10737,41,2014-11-11,"Jack's New England Clam Chowder",Seafood,12,115.8
+10738,16,2014-11-12,Pavlova,Confections,3,52.35
+10739,36,2014-11-12,"Inlagd Sill",Seafood,6,114
+10739,52,2014-11-12,"Filo Mix","Grains & Cereals",18,126
+10740,28,2014-11-13,"Rossle Sauerkraut",Produce,5,182.4
+10740,35,2014-11-13,"Steeleye Stout",Beverages,35,504
+10740,45,2014-11-13,"Rogede sild",Seafood,40,304
+10740,56,2014-11-13,"Gnocchi di nonna Alice","Grains & Cereals",14,425.6
+10741,2,2014-11-14,Chang,Beverages,15,228
+10742,3,2014-11-14,"Aniseed Syrup",Condiments,20,200
+10742,60,2014-11-14,"Camembert Pierrot","Dairy Products",50,1700
+10742,72,2014-11-14,"Mozzarella di Giovanni","Dairy Products",35,1218
+10743,46,2014-11-17,Spegesild,Seafood,28,319.2
+10744,40,2014-11-17,"Boston Crab Meat",Seafood,50,736
+10745,18,2014-11-18,"Carnarvon Tigers",Seafood,24,1500
+10745,44,2014-11-18,"Gula Malacca",Condiments,16,311.2
+10745,59,2014-11-18,"Raclette Courdavault","Dairy Products",45,2475
+10745,72,2014-11-18,"Mozzarella di Giovanni","Dairy Products",7,243.6
+10746,13,2014-11-19,Konbu,Seafood,6,36
+10746,42,2014-11-19,"Singaporean Hokkien Fried Mee","Grains & Cereals",28,392
+10746,62,2014-11-19,"Tarte au sucre",Confections,9,443.7
+10746,69,2014-11-19,Gudbrandsdalsost,"Dairy Products",40,1440
+10747,31,2014-11-19,"Gorgonzola Telino","Dairy Products",8,100
+10747,41,2014-11-19,"Jack's New England Clam Chowder",Seafood,35,337.75
+10747,63,2014-11-19,Vegie-spread,Condiments,9,395.1
+10747,69,2014-11-19,Gudbrandsdalsost,"Dairy Products",30,1080
+10748,23,2014-11-20,Tunnbrod,"Grains & Cereals",44,396
+10748,40,2014-11-20,"Boston Crab Meat",Seafood,40,736
+10748,56,2014-11-20,"Gnocchi di nonna Alice","Grains & Cereals",28,1064
+10749,56,2014-11-20,"Gnocchi di nonna Alice","Grains & Cereals",15,570
+10749,59,2014-11-20,"Raclette Courdavault","Dairy Products",6,330
+10749,76,2014-11-20,Lakkalikori,Beverages,10,180
+10750,14,2014-11-21,Tofu,Produce,5,98.81
+10750,45,2014-11-21,"Rogede sild",Seafood,40,323
+10750,59,2014-11-21,"Raclette Courdavault","Dairy Products",25,1168.75
+10751,26,2014-11-24,"Gumbar Gummibarchen",Confections,12,337.28
+10751,30,2014-11-24,"Nord-Ost Matjeshering",Seafood,30,776.7
+10751,50,2014-11-24,"Valkoinen suklaa",Confections,20,292.5
+10751,73,2014-11-24,"Rod Kaviar",Seafood,15,225
+10752,1,2014-11-24,Chai,Beverages,8,144
+10752,69,2014-11-24,Gudbrandsdalsost,"Dairy Products",3,108
+10753,45,2014-11-25,"Rogede sild",Seafood,4,38
+10753,74,2014-11-25,"Longlife Tofu",Produce,5,50
+10754,40,2014-11-25,"Boston Crab Meat",Seafood,3,55.2
+10755,47,2014-11-26,"Zaanse koeken",Confections,30,213.75
+10755,56,2014-11-26,"Gnocchi di nonna Alice","Grains & Cereals",30,855
+10755,57,2014-11-26,"Ravioli Angelo","Grains & Cereals",14,204.75
+10755,69,2014-11-26,Gudbrandsdalsost,"Dairy Products",25,675
+10756,18,2014-11-27,"Carnarvon Tigers",Seafood,21,1050
+10756,36,2014-11-27,"Inlagd Sill",Seafood,20,304
+10756,68,2014-11-27,"Scottish Longbreads",Confections,6,60
+10756,69,2014-11-27,Gudbrandsdalsost,"Dairy Products",20,576
+10757,34,2014-11-27,"Sasquatch Ale",Beverages,30,420
+10757,59,2014-11-27,"Raclette Courdavault","Dairy Products",7,385
+10757,62,2014-11-27,"Tarte au sucre",Confections,30,1479
+10757,64,2014-11-27,"Wimmers gute Semmelknodel","Grains & Cereals",24,798
+10758,26,2014-11-28,"Gumbar Gummibarchen",Confections,20,624.6
+10758,52,2014-11-28,"Filo Mix","Grains & Cereals",60,420
+10758,70,2014-11-28,"Outback Lager",Beverages,40,600
+10759,32,2014-11-28,"Mascarpone Fabioli","Dairy Products",10,320
+10760,25,2014-12-01,"NuNuCa Nus-Nougat-Creme",Confections,12,126
+10760,27,2014-12-01,"Schoggi Schokolade",Confections,40,1756
+10760,43,2014-12-01,"Ipoh Coffee",Beverages,30,1035
+10761,25,2014-12-02,"NuNuCa Nus-Nougat-Creme",Confections,35,367.5
+10761,75,2014-12-02,"Rhonbrau Klosterbier",Beverages,18,139.5
+10762,39,2014-12-02,"Chartreuse verte",Beverages,16,288
+10762,47,2014-12-02,"Zaanse koeken",Confections,30,285
+10762,51,2014-12-02,"Manjimup Dried Apples",Produce,28,1484
+10762,56,2014-12-02,"Gnocchi di nonna Alice","Grains & Cereals",60,2280
+10763,21,2014-12-03,"Sir Rodney's Scones",Confections,40,400
+10763,22,2014-12-03,"Gustaf's Knackebrod","Grains & Cereals",6,126
+10763,24,2014-12-03,"Guarana Fantastica",Beverages,20,90
+10764,3,2014-12-03,"Aniseed Syrup",Condiments,20,180
+10764,39,2014-12-03,"Chartreuse verte",Beverages,130,2106
+10765,65,2014-12-04,"Louisiana Fiery Hot Pepper Sauce",Condiments,80,1515.6
+10766,2,2014-12-05,Chang,Beverages,40,760
+10766,7,2014-12-05,"Uncle Bob's Organic Dried Pears",Produce,35,1050
+10766,68,2014-12-05,"Scottish Longbreads",Confections,40,500
+10767,42,2014-12-05,"Singaporean Hokkien Fried Mee","Grains & Cereals",2,28
+10768,22,2014-12-08,"Gustaf's Knackebrod","Grains & Cereals",4,84
+10768,31,2014-12-08,"Gorgonzola Telino","Dairy Products",50,625
+10768,60,2014-12-08,"Camembert Pierrot","Dairy Products",15,510
+10768,71,2014-12-08,Flotemysost,"Dairy Products",12,258
+10769,41,2014-12-08,"Jack's New England Clam Chowder",Seafood,30,275.03
+10769,52,2014-12-08,"Filo Mix","Grains & Cereals",15,99.75
+10769,61,2014-12-08,"Sirop d'erable",Condiments,20,570
+10769,62,2014-12-08,"Tarte au sucre",Confections,15,739.5
+10770,11,2014-12-09,"Queso Cabrales","Dairy Products",15,236.25
+10771,71,2014-12-10,Flotemysost,"Dairy Products",16,344
+10772,29,2014-12-10,"Thuringer Rostbratwurst","Meat & Poultry",18,2228.22
+10772,59,2014-12-10,"Raclette Courdavault","Dairy Products",25,1375
+10773,17,2014-12-11,"Alice Mutton","Meat & Poultry",33,1287
+10773,31,2014-12-11,"Gorgonzola Telino","Dairy Products",70,700
+10773,75,2014-12-11,"Rhonbrau Klosterbier",Beverages,7,43.4
+10774,31,2014-12-11,"Gorgonzola Telino","Dairy Products",2,18.75
+10774,66,2014-12-11,"Louisiana Hot Spiced Okra",Condiments,50,850
+10775,10,2014-12-12,Ikura,Seafood,6,186
+10775,67,2014-12-12,"Laughing Lumberjack Lager",Beverages,3,42
+10776,31,2014-12-15,"Gorgonzola Telino","Dairy Products",16,190
+10776,42,2014-12-15,"Singaporean Hokkien Fried Mee","Grains & Cereals",12,159.6
+10776,45,2014-12-15,"Rogede sild",Seafood,27,243.68
+10776,51,2014-12-15,"Manjimup Dried Apples",Produce,120,6042
+10777,42,2014-12-15,"Singaporean Hokkien Fried Mee","Grains & Cereals",20,224
+10778,41,2014-12-16,"Jack's New England Clam Chowder",Seafood,10,96.5
+10779,16,2014-12-16,Pavlova,Confections,20,349
+10779,62,2014-12-16,"Tarte au sucre",Confections,20,986
+10780,70,2014-12-16,"Outback Lager",Beverages,35,525
+10780,77,2014-12-16,"Original Frankfurter Grune Sose",Condiments,15,195
+10781,54,2014-12-17,Tourtiere,"Meat & Poultry",3,17.88
+10781,56,2014-12-17,"Gnocchi di nonna Alice","Grains & Cereals",20,608
+10781,74,2014-12-17,"Longlife Tofu",Produce,35,350
+10782,31,2014-12-17,"Gorgonzola Telino","Dairy Products",1,12.5
+10783,31,2014-12-18,"Gorgonzola Telino","Dairy Products",10,125
+10783,38,2014-12-18,"Cote de Blaye",Beverages,5,1317.5
+10784,36,2014-12-18,"Inlagd Sill",Seafood,30,570
+10784,39,2014-12-18,"Chartreuse verte",Beverages,2,30.6
+10784,72,2014-12-18,"Mozzarella di Giovanni","Dairy Products",30,887.4
+10785,10,2014-12-18,Ikura,Seafood,10,310
+10785,75,2014-12-18,"Rhonbrau Klosterbier",Beverages,10,77.5
+10786,8,2014-12-19,"Northwoods Cranberry Sauce",Condiments,30,960
+10786,30,2014-12-19,"Nord-Ost Matjeshering",Seafood,15,310.68
+10786,75,2014-12-19,"Rhonbrau Klosterbier",Beverages,42,260.4
+10787,2,2014-12-19,Chang,Beverages,15,270.75
+10787,29,2014-12-19,"Thuringer Rostbratwurst","Meat & Poultry",20,2352.01
+10788,19,2014-12-22,"Teatime Chocolate Biscuits",Confections,50,437
+10788,75,2014-12-22,"Rhonbrau Klosterbier",Beverages,40,294.5
+10789,18,2014-12-22,"Carnarvon Tigers",Seafood,30,1875
+10789,35,2014-12-22,"Steeleye Stout",Beverages,15,270
+10789,63,2014-12-22,Vegie-spread,Condiments,30,1317
+10789,68,2014-12-22,"Scottish Longbreads",Confections,18,225
+10790,7,2014-12-22,"Uncle Bob's Organic Dried Pears",Produce,3,76.5
+10790,56,2014-12-22,"Gnocchi di nonna Alice","Grains & Cereals",20,646
+10791,29,2014-12-23,"Thuringer Rostbratwurst","Meat & Poultry",14,1646.41
+10791,41,2014-12-23,"Jack's New England Clam Chowder",Seafood,20,183.35
+10792,2,2014-12-23,Chang,Beverages,10,190
+10792,54,2014-12-23,Tourtiere,"Meat & Poultry",3,22.35
+10792,68,2014-12-23,"Scottish Longbreads",Confections,15,187.5
+10793,41,2014-12-24,"Jack's New England Clam Chowder",Seafood,14,135.1
+10793,52,2014-12-24,"Filo Mix","Grains & Cereals",8,56
+10794,14,2014-12-24,Tofu,Produce,15,279
+10794,54,2014-12-24,Tourtiere,"Meat & Poultry",6,35.76
+10795,16,2014-12-24,Pavlova,Confections,65,1134.25
+10795,17,2014-12-24,"Alice Mutton","Meat & Poultry",35,1023.75
+10796,26,2014-12-25,"Gumbar Gummibarchen",Confections,21,524.66
+10796,44,2014-12-25,"Gula Malacca",Condiments,10,194.5
+10796,64,2014-12-25,"Wimmers gute Semmelknodel","Grains & Cereals",35,931
+10796,69,2014-12-25,Gudbrandsdalsost,"Dairy Products",24,691.2
+10797,11,2014-12-25,"Queso Cabrales","Dairy Products",20,420
+10798,62,2014-12-26,"Tarte au sucre",Confections,2,98.6
+10798,72,2014-12-26,"Mozzarella di Giovanni","Dairy Products",10,348
+10799,13,2014-12-26,Konbu,Seafood,20,102
+10799,24,2014-12-26,"Guarana Fantastica",Beverages,20,76.5
+10799,59,2014-12-26,"Raclette Courdavault","Dairy Products",25,1375
+10800,11,2014-12-26,"Queso Cabrales","Dairy Products",50,945
+10800,51,2014-12-26,"Manjimup Dried Apples",Produce,10,477
+10800,54,2014-12-26,Tourtiere,"Meat & Poultry",7,46.94
+10801,17,2014-12-29,"Alice Mutton","Meat & Poultry",40,1170
+10801,29,2014-12-29,"Thuringer Rostbratwurst","Meat & Poultry",20,1856.85
+10802,30,2014-12-29,"Nord-Ost Matjeshering",Seafood,25,485.44
+10802,51,2014-12-29,"Manjimup Dried Apples",Produce,30,1192.5
+10802,55,2014-12-29,"Pate chinois","Meat & Poultry",60,1080
+10802,62,2014-12-29,"Tarte au sucre",Confections,5,184.87
+10803,19,2014-12-30,"Teatime Chocolate Biscuits",Confections,24,209.76
+10803,25,2014-12-30,"NuNuCa Nus-Nougat-Creme",Confections,15,199.5
+10803,59,2014-12-30,"Raclette Courdavault","Dairy Products",15,783.75
+10804,10,2014-12-30,Ikura,Seafood,36,1116
+10804,28,2014-12-30,"Rossle Sauerkraut",Produce,24,1094.4
+10804,49,2014-12-30,Maxilaku,Confections,4,68
+10805,34,2014-12-30,"Sasquatch Ale",Beverages,10,140
+10805,38,2014-12-30,"Cote de Blaye",Beverages,10,2635
+10806,2,2014-12-31,Chang,Beverages,20,285
+10806,65,2014-12-31,"Louisiana Fiery Hot Pepper Sauce",Condiments,2,42.1
+10806,74,2014-12-31,"Longlife Tofu",Produce,15,112.5
+10807,40,2014-12-31,"Boston Crab Meat",Seafood,1,18.4
+10808,56,2015-01-01,"Gnocchi di nonna Alice","Grains & Cereals",20,646
+10808,76,2015-01-01,Lakkalikori,Beverages,50,765
+10809,52,2015-01-01,"Filo Mix","Grains & Cereals",20,140
+10810,13,2015-01-01,Konbu,Seafood,7,42
+10810,25,2015-01-01,"NuNuCa Nus-Nougat-Creme",Confections,5,70
+10810,70,2015-01-01,"Outback Lager",Beverages,5,75
+10811,19,2015-01-02,"Teatime Chocolate Biscuits",Confections,15,138
+10811,23,2015-01-02,Tunnbrod,"Grains & Cereals",18,162
+10811,40,2015-01-02,"Boston Crab Meat",Seafood,30,552
+10812,31,2015-01-02,"Gorgonzola Telino","Dairy Products",16,180
+10812,72,2015-01-02,"Mozzarella di Giovanni","Dairy Products",40,1252.8
+10812,77,2015-01-02,"Original Frankfurter Grune Sose",Condiments,20,260
+10813,2,2015-01-05,Chang,Beverages,12,182.4
+10813,46,2015-01-05,Spegesild,Seafood,35,420
+10814,41,2015-01-05,"Jack's New England Clam Chowder",Seafood,20,193
+10814,43,2015-01-05,"Ipoh Coffee",Beverages,20,782
+10814,48,2015-01-05,Chocolade,Confections,8,86.7
+10814,61,2015-01-05,"Sirop d'erable",Condiments,30,726.75
+10815,33,2015-01-05,Geitost,"Dairy Products",16,40
+10816,38,2015-01-06,"Cote de Blaye",Beverages,30,7509.75
+10816,62,2015-01-06,"Tarte au sucre",Confections,20,936.7
+10817,26,2015-01-06,"Gumbar Gummibarchen",Confections,40,1061.82
+10817,38,2015-01-06,"Cote de Blaye",Beverages,30,7905
+10817,40,2015-01-06,"Boston Crab Meat",Seafood,60,938.4
+10817,62,2015-01-06,"Tarte au sucre",Confections,25,1047.62
+10818,32,2015-01-07,"Mascarpone Fabioli","Dairy Products",20,640
+10818,41,2015-01-07,"Jack's New England Clam Chowder",Seafood,20,193
+10819,43,2015-01-07,"Ipoh Coffee",Beverages,7,322
+10819,75,2015-01-07,"Rhonbrau Klosterbier",Beverages,20,155
+10820,56,2015-01-07,"Gnocchi di nonna Alice","Grains & Cereals",30,1140
+10821,35,2015-01-08,"Steeleye Stout",Beverages,20,360
+10821,51,2015-01-08,"Manjimup Dried Apples",Produce,6,318
+10822,62,2015-01-08,"Tarte au sucre",Confections,3,147.9
+10822,70,2015-01-08,"Outback Lager",Beverages,6,90
+10823,11,2015-01-09,"Queso Cabrales","Dairy Products",20,378
+10823,57,2015-01-09,"Ravioli Angelo","Grains & Cereals",15,292.5
+10823,59,2015-01-09,"Raclette Courdavault","Dairy Products",40,1980
+10823,77,2015-01-09,"Original Frankfurter Grune Sose",Condiments,15,175.5
+10824,41,2015-01-09,"Jack's New England Clam Chowder",Seafood,12,115.8
+10824,70,2015-01-09,"Outback Lager",Beverages,9,135
+10825,26,2015-01-09,"Gumbar Gummibarchen",Confections,12,374.76
+10825,53,2015-01-09,"Perth Pasties","Meat & Poultry",20,656
+10826,31,2015-01-12,"Gorgonzola Telino","Dairy Products",35,437.5
+10826,57,2015-01-12,"Ravioli Angelo","Grains & Cereals",15,292.5
+10827,10,2015-01-12,Ikura,Seafood,15,465
+10827,39,2015-01-12,"Chartreuse verte",Beverages,21,378
+10828,20,2015-01-13,"Sir Rodney's Marmalade",Confections,5,405
+10828,38,2015-01-13,"Cote de Blaye",Beverages,2,527
+10829,2,2015-01-13,Chang,Beverages,10,190
+10829,8,2015-01-13,"Northwoods Cranberry Sauce",Condiments,20,800
+10829,13,2015-01-13,Konbu,Seafood,10,60
+10829,60,2015-01-13,"Camembert Pierrot","Dairy Products",21,714
+10830,6,2015-01-13,"Grandma's Boysenberry Spread",Condiments,6,150
+10830,39,2015-01-13,"Chartreuse verte",Beverages,28,504
+10830,60,2015-01-13,"Camembert Pierrot","Dairy Products",30,1020
+10830,68,2015-01-13,"Scottish Longbreads",Confections,24,300
+10831,19,2015-01-14,"Teatime Chocolate Biscuits",Confections,2,18.4
+10831,35,2015-01-14,"Steeleye Stout",Beverages,8,144
+10831,38,2015-01-14,"Cote de Blaye",Beverages,8,2108
+10831,43,2015-01-14,"Ipoh Coffee",Beverages,9,414
+10832,13,2015-01-14,Konbu,Seafood,3,14.4
+10832,25,2015-01-14,"NuNuCa Nus-Nougat-Creme",Confections,10,112
+10832,44,2015-01-14,"Gula Malacca",Condiments,16,248.96
+10832,64,2015-01-14,"Wimmers gute Semmelknodel","Grains & Cereals",3,99.75
+10833,7,2015-01-15,"Uncle Bob's Organic Dried Pears",Produce,20,540
+10833,31,2015-01-15,"Gorgonzola Telino","Dairy Products",9,101.25
+10833,53,2015-01-15,"Perth Pasties","Meat & Poultry",9,265.68
+10834,29,2015-01-15,"Thuringer Rostbratwurst","Meat & Poultry",8,940.8
+10834,30,2015-01-15,"Nord-Ost Matjeshering",Seafood,20,491.91
+10835,59,2015-01-15,"Raclette Courdavault","Dairy Products",15,825
+10835,77,2015-01-15,"Original Frankfurter Grune Sose",Condiments,2,20.8
+10836,22,2015-01-16,"Gustaf's Knackebrod","Grains & Cereals",52,1092
+10836,35,2015-01-16,"Steeleye Stout",Beverages,6,108
+10836,57,2015-01-16,"Ravioli Angelo","Grains & Cereals",24,468
+10836,60,2015-01-16,"Camembert Pierrot","Dairy Products",60,2040
+10836,64,2015-01-16,"Wimmers gute Semmelknodel","Grains & Cereals",30,997.5
+10837,13,2015-01-16,Konbu,Seafood,6,36
+10837,40,2015-01-16,"Boston Crab Meat",Seafood,25,460
+10837,47,2015-01-16,"Zaanse koeken",Confections,40,285
+10837,76,2015-01-16,Lakkalikori,Beverages,21,283.5
+10838,1,2015-01-19,Chai,Beverages,4,54
+10838,18,2015-01-19,"Carnarvon Tigers",Seafood,25,1171.88
+10838,36,2015-01-19,"Inlagd Sill",Seafood,50,712.5
+10839,58,2015-01-19,"Escargots de Bourgogne",Seafood,30,357.75
+10839,72,2015-01-19,"Mozzarella di Giovanni","Dairy Products",15,469.8
+10840,25,2015-01-19,"NuNuCa Nus-Nougat-Creme",Confections,6,67.2
+10840,39,2015-01-19,"Chartreuse verte",Beverages,10,144
+10841,10,2015-01-20,Ikura,Seafood,16,496
+10841,56,2015-01-20,"Gnocchi di nonna Alice","Grains & Cereals",30,1140
+10841,59,2015-01-20,"Raclette Courdavault","Dairy Products",50,2750
+10841,77,2015-01-20,"Original Frankfurter Grune Sose",Condiments,15,195
+10842,11,2015-01-20,"Queso Cabrales","Dairy Products",15,315
+10842,43,2015-01-20,"Ipoh Coffee",Beverages,5,230
+10842,68,2015-01-20,"Scottish Longbreads",Confections,20,250
+10842,70,2015-01-20,"Outback Lager",Beverages,12,180
+10843,51,2015-01-21,"Manjimup Dried Apples",Produce,4,159
+10844,22,2015-01-21,"Gustaf's Knackebrod","Grains & Cereals",35,735
+10845,23,2015-01-21,Tunnbrod,"Grains & Cereals",70,567
+10845,35,2015-01-21,"Steeleye Stout",Beverages,25,405
+10845,42,2015-01-21,"Singaporean Hokkien Fried Mee","Grains & Cereals",42,529.2
+10845,58,2015-01-21,"Escargots de Bourgogne",Seafood,60,715.5
+10845,64,2015-01-21,"Wimmers gute Semmelknodel","Grains & Cereals",48,1596
+10846,4,2015-01-22,"Chef Anton's Cajun Seasoning",Condiments,21,462
+10846,70,2015-01-22,"Outback Lager",Beverages,30,450
+10846,74,2015-01-22,"Longlife Tofu",Produce,20,200
+10847,1,2015-01-22,Chai,Beverages,80,1152
+10847,19,2015-01-22,"Teatime Chocolate Biscuits",Confections,12,88.32
+10847,37,2015-01-22,"Gravad lax",Seafood,60,1248
+10847,45,2015-01-22,"Rogede sild",Seafood,36,273.6
+10847,60,2015-01-22,"Camembert Pierrot","Dairy Products",45,1224
+10847,71,2015-01-22,Flotemysost,"Dairy Products",55,946
+10848,5,2015-01-23,"Chef Anton's Gumbo Mix",Condiments,30,640.5
+10848,9,2015-01-23,"Mishi Kobe Niku","Meat & Poultry",3,291
+10849,3,2015-01-23,"Aniseed Syrup",Condiments,49,490
+10849,26,2015-01-23,"Gumbar Gummibarchen",Confections,18,477.82
+10850,25,2015-01-23,"NuNuCa Nus-Nougat-Creme",Confections,20,238
+10850,33,2015-01-23,Geitost,"Dairy Products",4,8.5
+10850,70,2015-01-23,"Outback Lager",Beverages,30,382.5
+10851,2,2015-01-26,Chang,Beverages,5,90.25
+10851,25,2015-01-26,"NuNuCa Nus-Nougat-Creme",Confections,10,133
+10851,57,2015-01-26,"Ravioli Angelo","Grains & Cereals",10,185.25
+10851,59,2015-01-26,"Raclette Courdavault","Dairy Products",42,2194.5
+10852,2,2015-01-26,Chang,Beverages,15,285
+10852,17,2015-01-26,"Alice Mutton","Meat & Poultry",6,234
+10852,62,2015-01-26,"Tarte au sucre",Confections,50,2465
+10853,18,2015-01-27,"Carnarvon Tigers",Seafood,10,625
+10854,10,2015-01-27,Ikura,Seafood,100,2635
+10854,13,2015-01-27,Konbu,Seafood,65,331.5
+10855,16,2015-01-27,Pavlova,Confections,50,872.5
+10855,31,2015-01-27,"Gorgonzola Telino","Dairy Products",14,175
+10855,56,2015-01-27,"Gnocchi di nonna Alice","Grains & Cereals",24,912
+10855,65,2015-01-27,"Louisiana Fiery Hot Pepper Sauce",Condiments,15,268.39
+10856,2,2015-01-28,Chang,Beverages,20,380
+10856,42,2015-01-28,"Singaporean Hokkien Fried Mee","Grains & Cereals",20,280
+10857,3,2015-01-28,"Aniseed Syrup",Condiments,30,300
+10857,26,2015-01-28,"Gumbar Gummibarchen",Confections,35,819.79
+10857,29,2015-01-28,"Thuringer Rostbratwurst","Meat & Poultry",10,928.42
+10858,7,2015-01-29,"Uncle Bob's Organic Dried Pears",Produce,5,150
+10858,27,2015-01-29,"Schoggi Schokolade",Confections,10,439
+10858,70,2015-01-29,"Outback Lager",Beverages,4,60
+10859,24,2015-01-29,"Guarana Fantastica",Beverages,40,135
+10859,54,2015-01-29,Tourtiere,"Meat & Poultry",35,195.56
+10859,64,2015-01-29,"Wimmers gute Semmelknodel","Grains & Cereals",30,748.12
+10860,51,2015-01-29,"Manjimup Dried Apples",Produce,3,159
+10860,76,2015-01-29,Lakkalikori,Beverages,20,360
+10861,17,2015-01-30,"Alice Mutton","Meat & Poultry",42,1638
+10861,18,2015-01-30,"Carnarvon Tigers",Seafood,20,1250
+10861,21,2015-01-30,"Sir Rodney's Scones",Confections,40,400
+10861,33,2015-01-30,Geitost,"Dairy Products",35,87.5
+10861,62,2015-01-30,"Tarte au sucre",Confections,3,147.9
+10862,11,2015-01-30,"Queso Cabrales","Dairy Products",25,525
+10862,52,2015-01-30,"Filo Mix","Grains & Cereals",8,56
+10863,1,2015-02-02,Chai,Beverages,20,306
+10863,58,2015-02-02,"Escargots de Bourgogne",Seafood,12,135.15
+10864,35,2015-02-02,"Steeleye Stout",Beverages,4,72
+10864,67,2015-02-02,"Laughing Lumberjack Lager",Beverages,15,210
+10865,38,2015-02-02,"Cote de Blaye",Beverages,60,15019.5
+10865,39,2015-02-02,"Chartreuse verte",Beverages,80,1368
+10866,2,2015-02-03,Chang,Beverages,21,299.25
+10866,24,2015-02-03,"Guarana Fantastica",Beverages,6,20.25
+10866,30,2015-02-03,"Nord-Ost Matjeshering",Seafood,40,776.7
+10867,53,2015-02-03,"Perth Pasties","Meat & Poultry",3,98.4
+10868,26,2015-02-04,"Gumbar Gummibarchen",Confections,20,624.6
+10868,35,2015-02-04,"Steeleye Stout",Beverages,30,540
+10868,49,2015-02-04,Maxilaku,Confections,42,756
+10869,1,2015-02-04,Chai,Beverages,40,720
+10869,11,2015-02-04,"Queso Cabrales","Dairy Products",10,210
+10869,23,2015-02-04,Tunnbrod,"Grains & Cereals",50,450
+10869,68,2015-02-04,"Scottish Longbreads",Confections,20,250
+10870,35,2015-02-04,"Steeleye Stout",Beverages,3,54
+10870,51,2015-02-04,"Manjimup Dried Apples",Produce,2,106
+10871,6,2015-02-05,"Grandma's Boysenberry Spread",Condiments,50,1187.5
+10871,16,2015-02-05,Pavlova,Confections,12,198.93
+10871,17,2015-02-05,"Alice Mutton","Meat & Poultry",16,592.8
+10872,55,2015-02-05,"Pate chinois","Meat & Poultry",10,228
+10872,62,2015-02-05,"Tarte au sucre",Confections,20,936.7
+10872,64,2015-02-05,"Wimmers gute Semmelknodel","Grains & Cereals",15,473.81
+10872,65,2015-02-05,"Louisiana Fiery Hot Pepper Sauce",Condiments,21,419.95
+10873,21,2015-02-06,"Sir Rodney's Scones",Confections,20,200
+10873,28,2015-02-06,"Rossle Sauerkraut",Produce,3,136.8
+10874,10,2015-02-06,Ikura,Seafood,10,310
+10875,19,2015-02-06,"Teatime Chocolate Biscuits",Confections,25,230
+10875,47,2015-02-06,"Zaanse koeken",Confections,21,179.55
+10875,49,2015-02-06,Maxilaku,Confections,15,300
+10876,46,2015-02-09,Spegesild,Seafood,21,252
+10876,64,2015-02-09,"Wimmers gute Semmelknodel","Grains & Cereals",20,665
+10877,16,2015-02-09,Pavlova,Confections,30,392.62
+10877,18,2015-02-09,"Carnarvon Tigers",Seafood,25,1562.5
+10878,20,2015-02-10,"Sir Rodney's Marmalade",Confections,20,1539
+10879,40,2015-02-10,"Boston Crab Meat",Seafood,12,220.8
+10879,65,2015-02-10,"Louisiana Fiery Hot Pepper Sauce",Condiments,10,210.5
+10879,76,2015-02-10,Lakkalikori,Beverages,10,180
+10880,23,2015-02-10,Tunnbrod,"Grains & Cereals",30,216
+10880,61,2015-02-10,"Sirop d'erable",Condiments,30,684
+10880,70,2015-02-10,"Outback Lager",Beverages,50,600
+10881,73,2015-02-11,"Rod Kaviar",Seafood,10,150
+10882,42,2015-02-11,"Singaporean Hokkien Fried Mee","Grains & Cereals",25,350
+10882,49,2015-02-11,Maxilaku,Confections,20,340
+10882,54,2015-02-11,Tourtiere,"Meat & Poultry",32,202.64
+10883,24,2015-02-12,"Guarana Fantastica",Beverages,8,36
+10884,21,2015-02-12,"Sir Rodney's Scones",Confections,40,380
+10884,56,2015-02-12,"Gnocchi di nonna Alice","Grains & Cereals",21,758.1
+10884,65,2015-02-12,"Louisiana Fiery Hot Pepper Sauce",Condiments,12,239.97
+10885,2,2015-02-12,Chang,Beverages,20,380
+10885,24,2015-02-12,"Guarana Fantastica",Beverages,12,54
+10885,70,2015-02-12,"Outback Lager",Beverages,30,450
+10885,77,2015-02-12,"Original Frankfurter Grune Sose",Condiments,25,325
+10886,10,2015-02-13,Ikura,Seafood,70,2170
+10886,31,2015-02-13,"Gorgonzola Telino","Dairy Products",35,437.5
+10886,77,2015-02-13,"Original Frankfurter Grune Sose",Condiments,40,520
+10887,25,2015-02-13,"NuNuCa Nus-Nougat-Creme",Confections,5,70
+10888,2,2015-02-16,Chang,Beverages,20,380
+10888,68,2015-02-16,"Scottish Longbreads",Confections,18,225
+10889,11,2015-02-16,"Queso Cabrales","Dairy Products",40,840
+10889,38,2015-02-16,"Cote de Blaye",Beverages,40,10540
+10890,17,2015-02-16,"Alice Mutton","Meat & Poultry",15,585
+10890,34,2015-02-16,"Sasquatch Ale",Beverages,10,140
+10890,41,2015-02-16,"Jack's New England Clam Chowder",Seafood,14,135.1
+10891,30,2015-02-17,"Nord-Ost Matjeshering",Seafood,15,368.93
+10892,59,2015-02-17,"Raclette Courdavault","Dairy Products",40,2090
+10893,8,2015-02-18,"Northwoods Cranberry Sauce",Condiments,30,1200
+10893,24,2015-02-18,"Guarana Fantastica",Beverages,10,45
+10893,29,2015-02-18,"Thuringer Rostbratwurst","Meat & Poultry",24,2970.96
+10893,30,2015-02-18,"Nord-Ost Matjeshering",Seafood,35,906.15
+10893,36,2015-02-18,"Inlagd Sill",Seafood,20,380
+10894,13,2015-02-18,Konbu,Seafood,28,159.6
+10894,69,2015-02-18,Gudbrandsdalsost,"Dairy Products",50,1710
+10894,75,2015-02-18,"Rhonbrau Klosterbier",Beverages,120,883.5
+10895,24,2015-02-18,"Guarana Fantastica",Beverages,110,495
+10895,39,2015-02-18,"Chartreuse verte",Beverages,45,810
+10895,40,2015-02-18,"Boston Crab Meat",Seafood,91,1674.4
+10895,60,2015-02-18,"Camembert Pierrot","Dairy Products",100,3400
+10896,45,2015-02-19,"Rogede sild",Seafood,15,142.5
+10896,56,2015-02-19,"Gnocchi di nonna Alice","Grains & Cereals",16,608
+10897,29,2015-02-19,"Thuringer Rostbratwurst","Meat & Poultry",80,9903.2
+10897,30,2015-02-19,"Nord-Ost Matjeshering",Seafood,36,932.04
+10898,13,2015-02-20,Konbu,Seafood,5,30
+10899,39,2015-02-20,"Chartreuse verte",Beverages,8,122.4
+10900,70,2015-02-20,"Outback Lager",Beverages,3,33.75
+10901,41,2015-02-23,"Jack's New England Clam Chowder",Seafood,30,289.5
+10901,71,2015-02-23,Flotemysost,"Dairy Products",30,645
+10902,55,2015-02-23,"Pate chinois","Meat & Poultry",30,612
+10902,62,2015-02-23,"Tarte au sucre",Confections,6,251.43
+10903,13,2015-02-24,Konbu,Seafood,40,240
+10903,65,2015-02-24,"Louisiana Fiery Hot Pepper Sauce",Condiments,21,442.05
+10903,68,2015-02-24,"Scottish Longbreads",Confections,20,250
+10904,58,2015-02-24,"Escargots de Bourgogne",Seafood,15,198.75
+10904,62,2015-02-24,"Tarte au sucre",Confections,35,1725.5
+10905,1,2015-02-24,Chai,Beverages,20,342
+10906,61,2015-02-25,"Sirop d'erable",Condiments,15,427.5
+10907,75,2015-02-25,"Rhonbrau Klosterbier",Beverages,14,108.5
+10908,7,2015-02-26,"Uncle Bob's Organic Dried Pears",Produce,20,570
+10908,52,2015-02-26,"Filo Mix","Grains & Cereals",14,93.1
+10909,7,2015-02-26,"Uncle Bob's Organic Dried Pears",Produce,12,360
+10909,16,2015-02-26,Pavlova,Confections,15,261.75
+10909,41,2015-02-26,"Jack's New England Clam Chowder",Seafood,5,48.25
+10910,19,2015-02-26,"Teatime Chocolate Biscuits",Confections,12,110.4
+10910,49,2015-02-26,Maxilaku,Confections,10,200
+10910,61,2015-02-26,"Sirop d'erable",Condiments,5,142.5
+10911,1,2015-02-26,Chai,Beverages,10,180
+10911,17,2015-02-26,"Alice Mutton","Meat & Poultry",12,468
+10911,67,2015-02-26,"Laughing Lumberjack Lager",Beverages,15,210
+10912,11,2015-02-26,"Queso Cabrales","Dairy Products",40,630
+10912,29,2015-02-26,"Thuringer Rostbratwurst","Meat & Poultry",60,5570.55
+10913,4,2015-02-26,"Chef Anton's Cajun Seasoning",Condiments,30,495
+10913,33,2015-02-26,Geitost,"Dairy Products",40,75
+10913,58,2015-02-26,"Escargots de Bourgogne",Seafood,15,198.75
+10914,71,2015-02-27,Flotemysost,"Dairy Products",25,537.5
+10915,17,2015-02-27,"Alice Mutton","Meat & Poultry",10,390
+10915,33,2015-02-27,Geitost,"Dairy Products",30,75
+10915,54,2015-02-27,Tourtiere,"Meat & Poultry",10,74.5
+10916,16,2015-02-27,Pavlova,Confections,6,104.7
+10916,32,2015-02-27,"Mascarpone Fabioli","Dairy Products",6,192
+10916,57,2015-02-27,"Ravioli Angelo","Grains & Cereals",20,390
+10917,30,2015-03-02,"Nord-Ost Matjeshering",Seafood,1,25.89
+10917,60,2015-03-02,"Camembert Pierrot","Dairy Products",10,340
+10918,1,2015-03-02,Chai,Beverages,60,810
+10918,60,2015-03-02,"Camembert Pierrot","Dairy Products",25,637.5
+10919,16,2015-03-02,Pavlova,Confections,24,418.8
+10919,25,2015-03-02,"NuNuCa Nus-Nougat-Creme",Confections,24,336
+10919,40,2015-03-02,"Boston Crab Meat",Seafood,20,368
+10920,50,2015-03-03,"Valkoinen suklaa",Confections,24,390
+10921,35,2015-03-03,"Steeleye Stout",Beverages,10,180
+10921,63,2015-03-03,Vegie-spread,Condiments,40,1756
+10922,17,2015-03-03,"Alice Mutton","Meat & Poultry",15,585
+10922,24,2015-03-03,"Guarana Fantastica",Beverages,35,157.5
+10923,42,2015-03-03,"Singaporean Hokkien Fried Mee","Grains & Cereals",10,112
+10923,43,2015-03-03,"Ipoh Coffee",Beverages,10,368
+10923,67,2015-03-03,"Laughing Lumberjack Lager",Beverages,24,268.8
+10924,10,2015-03-04,Ikura,Seafood,20,558
+10924,28,2015-03-04,"Rossle Sauerkraut",Produce,30,1231.2
+10924,75,2015-03-04,"Rhonbrau Klosterbier",Beverages,6,46.5
+10925,36,2015-03-04,"Inlagd Sill",Seafood,25,403.75
+10925,52,2015-03-04,"Filo Mix","Grains & Cereals",12,71.4
+10926,11,2015-03-04,"Queso Cabrales","Dairy Products",2,42
+10926,13,2015-03-04,Konbu,Seafood,10,60
+10926,19,2015-03-04,"Teatime Chocolate Biscuits",Confections,7,64.4
+10926,72,2015-03-04,"Mozzarella di Giovanni","Dairy Products",10,348
+10927,20,2015-03-05,"Sir Rodney's Marmalade",Confections,5,405
+10927,52,2015-03-05,"Filo Mix","Grains & Cereals",5,35
+10927,76,2015-03-05,Lakkalikori,Beverages,20,360
+10928,47,2015-03-05,"Zaanse koeken",Confections,5,47.5
+10928,76,2015-03-05,Lakkalikori,Beverages,5,90
+10929,21,2015-03-05,"Sir Rodney's Scones",Confections,60,600
+10929,75,2015-03-05,"Rhonbrau Klosterbier",Beverages,49,379.75
+10929,77,2015-03-05,"Original Frankfurter Grune Sose",Condiments,15,195
+10930,21,2015-03-06,"Sir Rodney's Scones",Confections,36,360
+10930,27,2015-03-06,"Schoggi Schokolade",Confections,25,1097.5
+10930,55,2015-03-06,"Pate chinois","Meat & Poultry",25,480
+10930,58,2015-03-06,"Escargots de Bourgogne",Seafood,30,318
+10931,13,2015-03-06,Konbu,Seafood,42,214.2
+10931,57,2015-03-06,"Ravioli Angelo","Grains & Cereals",30,585
+10932,16,2015-03-06,Pavlova,Confections,30,471.15
+10932,62,2015-03-06,"Tarte au sucre",Confections,14,621.18
+10932,72,2015-03-06,"Mozzarella di Giovanni","Dairy Products",16,556.8
+10932,75,2015-03-06,"Rhonbrau Klosterbier",Beverages,20,139.5
+10933,53,2015-03-06,"Perth Pasties","Meat & Poultry",2,65.6
+10933,61,2015-03-06,"Sirop d'erable",Condiments,30,855
+10934,6,2015-03-09,"Grandma's Boysenberry Spread",Condiments,20,500
+10935,1,2015-03-09,Chai,Beverages,21,378
+10935,18,2015-03-09,"Carnarvon Tigers",Seafood,4,187.5
+10935,23,2015-03-09,Tunnbrod,"Grains & Cereals",8,54
+10936,36,2015-03-09,"Inlagd Sill",Seafood,30,456
+10937,28,2015-03-10,"Rossle Sauerkraut",Produce,8,364.8
+10937,34,2015-03-10,"Sasquatch Ale",Beverages,20,280
+10938,13,2015-03-10,Konbu,Seafood,20,90
+10938,43,2015-03-10,"Ipoh Coffee",Beverages,24,828
+10938,60,2015-03-10,"Camembert Pierrot","Dairy Products",49,1249.5
+10938,71,2015-03-10,Flotemysost,"Dairy Products",35,564.38
+10939,2,2015-03-10,Chang,Beverages,10,161.5
+10939,67,2015-03-10,"Laughing Lumberjack Lager",Beverages,40,476
+10940,7,2015-03-11,"Uncle Bob's Organic Dried Pears",Produce,8,240
+10940,13,2015-03-11,Konbu,Seafood,20,120
+10941,31,2015-03-11,"Gorgonzola Telino","Dairy Products",44,412.5
+10941,62,2015-03-11,"Tarte au sucre",Confections,30,1109.25
+10941,68,2015-03-11,"Scottish Longbreads",Confections,80,750
+10941,72,2015-03-11,"Mozzarella di Giovanni","Dairy Products",50,1740
+10942,49,2015-03-11,Maxilaku,Confections,28,560
+10943,13,2015-03-11,Konbu,Seafood,15,90
+10943,22,2015-03-11,"Gustaf's Knackebrod","Grains & Cereals",21,441
+10943,46,2015-03-11,Spegesild,Seafood,15,180
+10944,11,2015-03-12,"Queso Cabrales","Dairy Products",5,78.75
+10944,44,2015-03-12,"Gula Malacca",Condiments,18,262.58
+10944,56,2015-03-12,"Gnocchi di nonna Alice","Grains & Cereals",18,684
+10945,13,2015-03-12,Konbu,Seafood,20,120
+10945,31,2015-03-12,"Gorgonzola Telino","Dairy Products",10,125
+10946,10,2015-03-12,Ikura,Seafood,25,775
+10946,24,2015-03-12,"Guarana Fantastica",Beverages,25,112.5
+10946,77,2015-03-12,"Original Frankfurter Grune Sose",Condiments,40,520
+10947,59,2015-03-13,"Raclette Courdavault","Dairy Products",4,220
+10948,50,2015-03-13,"Valkoinen suklaa",Confections,9,146.25
+10948,51,2015-03-13,"Manjimup Dried Apples",Produce,40,2120
+10948,55,2015-03-13,"Pate chinois","Meat & Poultry",4,96
+10949,6,2015-03-13,"Grandma's Boysenberry Spread",Condiments,12,300
+10949,10,2015-03-13,Ikura,Seafood,30,930
+10949,17,2015-03-13,"Alice Mutton","Meat & Poultry",6,234
+10949,62,2015-03-13,"Tarte au sucre",Confections,60,2958
+10950,4,2015-03-16,"Chef Anton's Cajun Seasoning",Condiments,5,110
+10951,33,2015-03-16,Geitost,"Dairy Products",15,35.62
+10951,41,2015-03-16,"Jack's New England Clam Chowder",Seafood,6,55
+10951,75,2015-03-16,"Rhonbrau Klosterbier",Beverages,50,368.12
+10952,6,2015-03-16,"Grandma's Boysenberry Spread",Condiments,16,380
+10952,28,2015-03-16,"Rossle Sauerkraut",Produce,2,91.2
+10953,20,2015-03-16,"Sir Rodney's Marmalade",Confections,50,3847.5
+10953,31,2015-03-16,"Gorgonzola Telino","Dairy Products",50,593.75
+10954,16,2015-03-17,Pavlova,Confections,28,415.31
+10954,31,2015-03-17,"Gorgonzola Telino","Dairy Products",25,265.62
+10954,45,2015-03-17,"Rogede sild",Seafood,30,285
+10954,60,2015-03-17,"Camembert Pierrot","Dairy Products",24,693.6
+10955,75,2015-03-17,"Rhonbrau Klosterbier",Beverages,12,74.4
+10956,21,2015-03-17,"Sir Rodney's Scones",Confections,12,120
+10956,47,2015-03-17,"Zaanse koeken",Confections,14,133
+10956,51,2015-03-17,"Manjimup Dried Apples",Produce,8,424
+10957,30,2015-03-18,"Nord-Ost Matjeshering",Seafood,30,776.7
+10957,35,2015-03-18,"Steeleye Stout",Beverages,40,720
+10957,64,2015-03-18,"Wimmers gute Semmelknodel","Grains & Cereals",8,266
+10958,5,2015-03-18,"Chef Anton's Gumbo Mix",Condiments,20,427
+10958,7,2015-03-18,"Uncle Bob's Organic Dried Pears",Produce,6,180
+10958,72,2015-03-18,"Mozzarella di Giovanni","Dairy Products",5,174
+10959,75,2015-03-18,"Rhonbrau Klosterbier",Beverages,20,131.75
+10960,24,2015-03-19,"Guarana Fantastica",Beverages,10,33.75
+10960,41,2015-03-19,"Jack's New England Clam Chowder",Seafood,24,231.6
+10961,52,2015-03-19,"Filo Mix","Grains & Cereals",6,39.9
+10961,76,2015-03-19,Lakkalikori,Beverages,60,1080
+10962,7,2015-03-19,"Uncle Bob's Organic Dried Pears",Produce,45,1350
+10962,13,2015-03-19,Konbu,Seafood,77,462
+10962,53,2015-03-19,"Perth Pasties","Meat & Poultry",20,656
+10962,69,2015-03-19,Gudbrandsdalsost,"Dairy Products",9,324
+10962,76,2015-03-19,Lakkalikori,Beverages,44,792
+10963,60,2015-03-19,"Camembert Pierrot","Dairy Products",2,57.8
+10964,18,2015-03-20,"Carnarvon Tigers",Seafood,6,375
+10964,38,2015-03-20,"Cote de Blaye",Beverages,5,1317.5
+10964,69,2015-03-20,Gudbrandsdalsost,"Dairy Products",10,360
+10965,51,2015-03-20,"Manjimup Dried Apples",Produce,16,848
+10966,37,2015-03-20,"Gravad lax",Seafood,8,208
+10966,56,2015-03-20,"Gnocchi di nonna Alice","Grains & Cereals",12,387.6
+10966,62,2015-03-20,"Tarte au sucre",Confections,12,502.86
+10967,19,2015-03-23,"Teatime Chocolate Biscuits",Confections,12,110.4
+10967,49,2015-03-23,Maxilaku,Confections,40,800
+10968,12,2015-03-23,"Queso Manchego La Pastora","Dairy Products",30,1140
+10968,24,2015-03-23,"Guarana Fantastica",Beverages,30,135
+10968,64,2015-03-23,"Wimmers gute Semmelknodel","Grains & Cereals",4,133
+10969,46,2015-03-23,Spegesild,Seafood,9,108
+10970,52,2015-03-24,"Filo Mix","Grains & Cereals",40,224
+10971,29,2015-03-24,"Thuringer Rostbratwurst","Meat & Poultry",14,1733.06
+10972,17,2015-03-24,"Alice Mutton","Meat & Poultry",6,234
+10972,33,2015-03-24,Geitost,"Dairy Products",7,17.5
+10973,26,2015-03-24,"Gumbar Gummibarchen",Confections,5,156.15
+10973,41,2015-03-24,"Jack's New England Clam Chowder",Seafood,6,57.9
+10973,75,2015-03-24,"Rhonbrau Klosterbier",Beverages,10,77.5
+10974,63,2015-03-25,Vegie-spread,Condiments,10,439
+10975,8,2015-03-25,"Northwoods Cranberry Sauce",Condiments,16,640
+10975,75,2015-03-25,"Rhonbrau Klosterbier",Beverages,10,77.5
+10976,28,2015-03-25,"Rossle Sauerkraut",Produce,20,912
+10977,39,2015-03-26,"Chartreuse verte",Beverages,30,540
+10977,47,2015-03-26,"Zaanse koeken",Confections,30,285
+10977,51,2015-03-26,"Manjimup Dried Apples",Produce,10,530
+10977,63,2015-03-26,Vegie-spread,Condiments,20,878
+10978,8,2015-03-26,"Northwoods Cranberry Sauce",Condiments,20,680
+10978,21,2015-03-26,"Sir Rodney's Scones",Confections,40,340
+10978,40,2015-03-26,"Boston Crab Meat",Seafood,10,184
+10978,44,2015-03-26,"Gula Malacca",Condiments,6,99.2
+10979,7,2015-03-26,"Uncle Bob's Organic Dried Pears",Produce,18,540
+10979,12,2015-03-26,"Queso Manchego La Pastora","Dairy Products",20,760
+10979,24,2015-03-26,"Guarana Fantastica",Beverages,80,360
+10979,27,2015-03-26,"Schoggi Schokolade",Confections,30,1317
+10979,31,2015-03-26,"Gorgonzola Telino","Dairy Products",24,300
+10979,63,2015-03-26,Vegie-spread,Condiments,35,1536.5
+10980,75,2015-03-27,"Rhonbrau Klosterbier",Beverages,40,248
+10981,38,2015-03-27,"Cote de Blaye",Beverages,60,15810
+10982,7,2015-03-27,"Uncle Bob's Organic Dried Pears",Produce,20,600
+10982,43,2015-03-27,"Ipoh Coffee",Beverages,9,414
+10983,13,2015-03-27,Konbu,Seafood,84,428.4
+10983,57,2015-03-27,"Ravioli Angelo","Grains & Cereals",15,292.5
+10984,16,2015-03-30,Pavlova,Confections,55,959.75
+10984,24,2015-03-30,"Guarana Fantastica",Beverages,20,90
+10984,36,2015-03-30,"Inlagd Sill",Seafood,40,760
+10985,16,2015-03-30,Pavlova,Confections,36,565.38
+10985,18,2015-03-30,"Carnarvon Tigers",Seafood,8,450
+10985,32,2015-03-30,"Mascarpone Fabioli","Dairy Products",35,1008
+10986,11,2015-03-30,"Queso Cabrales","Dairy Products",30,630
+10986,20,2015-03-30,"Sir Rodney's Marmalade",Confections,15,1215
+10986,76,2015-03-30,Lakkalikori,Beverages,10,180
+10986,77,2015-03-30,"Original Frankfurter Grune Sose",Condiments,15,195
+10987,7,2015-03-31,"Uncle Bob's Organic Dried Pears",Produce,60,1800
+10987,43,2015-03-31,"Ipoh Coffee",Beverages,6,276
+10987,72,2015-03-31,"Mozzarella di Giovanni","Dairy Products",20,696
+10988,7,2015-03-31,"Uncle Bob's Organic Dried Pears",Produce,60,1800
+10988,62,2015-03-31,"Tarte au sucre",Confections,40,1774.8
+10989,6,2015-03-31,"Grandma's Boysenberry Spread",Condiments,40,1000
+10989,11,2015-03-31,"Queso Cabrales","Dairy Products",15,315
+10989,41,2015-03-31,"Jack's New England Clam Chowder",Seafood,4,38.6
+10990,21,2015-04-01,"Sir Rodney's Scones",Confections,65,650
+10990,34,2015-04-01,"Sasquatch Ale",Beverages,60,714
+10990,55,2015-04-01,"Pate chinois","Meat & Poultry",65,1326
+10990,61,2015-04-01,"Sirop d'erable",Condiments,66,1598.85
+10991,2,2015-04-01,Chang,Beverages,50,760
+10991,70,2015-04-01,"Outback Lager",Beverages,20,240
+10991,76,2015-04-01,Lakkalikori,Beverages,90,1296
+10992,72,2015-04-01,"Mozzarella di Giovanni","Dairy Products",2,69.6
+10993,29,2015-04-01,"Thuringer Rostbratwurst","Meat & Poultry",50,4642.12
+10993,41,2015-04-01,"Jack's New England Clam Chowder",Seafood,35,253.31
+10994,59,2015-04-02,"Raclette Courdavault","Dairy Products",18,940.5
+10995,51,2015-04-02,"Manjimup Dried Apples",Produce,20,1060
+10995,60,2015-04-02,"Camembert Pierrot","Dairy Products",4,136
+10996,42,2015-04-02,"Singaporean Hokkien Fried Mee","Grains & Cereals",40,560
+10997,32,2015-04-03,"Mascarpone Fabioli","Dairy Products",50,1600
+10997,46,2015-04-03,Spegesild,Seafood,20,180
+10997,52,2015-04-03,"Filo Mix","Grains & Cereals",20,105
+10998,24,2015-04-03,"Guarana Fantastica",Beverages,12,54
+10998,61,2015-04-03,"Sirop d'erable",Condiments,7,199.5
+10998,74,2015-04-03,"Longlife Tofu",Produce,20,200
+10998,75,2015-04-03,"Rhonbrau Klosterbier",Beverages,30,232.5
+10999,41,2015-04-03,"Jack's New England Clam Chowder",Seafood,20,183.35
+10999,51,2015-04-03,"Manjimup Dried Apples",Produce,15,755.25
+10999,77,2015-04-03,"Original Frankfurter Grune Sose",Condiments,21,259.35
+11000,4,2015-04-06,"Chef Anton's Cajun Seasoning",Condiments,25,412.5
+11000,24,2015-04-06,"Guarana Fantastica",Beverages,30,101.25
+11000,77,2015-04-06,"Original Frankfurter Grune Sose",Condiments,30,390
+11001,7,2015-04-06,"Uncle Bob's Organic Dried Pears",Produce,60,1800
+11001,22,2015-04-06,"Gustaf's Knackebrod","Grains & Cereals",25,525
+11001,46,2015-04-06,Spegesild,Seafood,25,300
+11001,55,2015-04-06,"Pate chinois","Meat & Poultry",6,144
+11002,13,2015-04-06,Konbu,Seafood,56,336
+11002,35,2015-04-06,"Steeleye Stout",Beverages,15,229.5
+11002,42,2015-04-06,"Singaporean Hokkien Fried Mee","Grains & Cereals",24,285.6
+11002,55,2015-04-06,"Pate chinois","Meat & Poultry",40,960
+11003,1,2015-04-06,Chai,Beverages,4,72
+11003,40,2015-04-06,"Boston Crab Meat",Seafood,10,184
+11003,52,2015-04-06,"Filo Mix","Grains & Cereals",10,70
+11004,26,2015-04-07,"Gumbar Gummibarchen",Confections,6,187.38
+11004,76,2015-04-07,Lakkalikori,Beverages,6,108
+11005,1,2015-04-07,Chai,Beverages,2,36
+11005,59,2015-04-07,"Raclette Courdavault","Dairy Products",10,550
+11006,1,2015-04-07,Chai,Beverages,8,144
+11006,29,2015-04-07,"Thuringer Rostbratwurst","Meat & Poultry",2,185.68
+11007,8,2015-04-08,"Northwoods Cranberry Sauce",Condiments,30,1200
+11007,29,2015-04-08,"Thuringer Rostbratwurst","Meat & Poultry",10,1237.9
+11007,42,2015-04-08,"Singaporean Hokkien Fried Mee","Grains & Cereals",14,196
+11008,28,2015-04-08,"Rossle Sauerkraut",Produce,70,3032.4
+11008,34,2015-04-08,"Sasquatch Ale",Beverages,90,1197
+11008,71,2015-04-08,Flotemysost,"Dairy Products",21,451.5
+11009,24,2015-04-08,"Guarana Fantastica",Beverages,12,54
+11009,36,2015-04-08,"Inlagd Sill",Seafood,18,256.5
+11009,60,2015-04-08,"Camembert Pierrot","Dairy Products",9,306
+11010,7,2015-04-09,"Uncle Bob's Organic Dried Pears",Produce,20,600
+11010,24,2015-04-09,"Guarana Fantastica",Beverages,10,45
+11011,58,2015-04-09,"Escargots de Bourgogne",Seafood,40,503.5
+11011,71,2015-04-09,Flotemysost,"Dairy Products",20,430
+11012,19,2015-04-09,"Teatime Chocolate Biscuits",Confections,50,437
+11012,60,2015-04-09,"Camembert Pierrot","Dairy Products",36,1162.8
+11012,71,2015-04-09,Flotemysost,"Dairy Products",60,1225.5
+11013,23,2015-04-09,Tunnbrod,"Grains & Cereals",10,90
+11013,42,2015-04-09,"Singaporean Hokkien Fried Mee","Grains & Cereals",4,56
+11013,45,2015-04-09,"Rogede sild",Seafood,20,190
+11013,68,2015-04-09,"Scottish Longbreads",Confections,2,25
+11014,41,2015-04-10,"Jack's New England Clam Chowder",Seafood,28,243.18
+11015,30,2015-04-10,"Nord-Ost Matjeshering",Seafood,15,388.35
+11015,77,2015-04-10,"Original Frankfurter Grune Sose",Condiments,18,234
+11016,31,2015-04-10,"Gorgonzola Telino","Dairy Products",15,187.5
+11016,36,2015-04-10,"Inlagd Sill",Seafood,16,304
+11017,3,2015-04-13,"Aniseed Syrup",Condiments,25,250
+11017,59,2015-04-13,"Raclette Courdavault","Dairy Products",110,6050
+11017,70,2015-04-13,"Outback Lager",Beverages,30,450
+11018,12,2015-04-13,"Queso Manchego La Pastora","Dairy Products",20,760
+11018,18,2015-04-13,"Carnarvon Tigers",Seafood,10,625
+11018,56,2015-04-13,"Gnocchi di nonna Alice","Grains & Cereals",5,190
+11019,46,2015-04-13,Spegesild,Seafood,3,36
+11019,49,2015-04-13,Maxilaku,Confections,2,40
+11020,10,2015-04-14,Ikura,Seafood,24,632.4
+11021,2,2015-04-14,Chang,Beverages,11,156.75
+11021,20,2015-04-14,"Sir Rodney's Marmalade",Confections,15,1215
+11021,26,2015-04-14,"Gumbar Gummibarchen",Confections,63,1967.49
+11021,51,2015-04-14,"Manjimup Dried Apples",Produce,44,1749
+11021,72,2015-04-14,"Mozzarella di Giovanni","Dairy Products",35,1218
+11022,19,2015-04-14,"Teatime Chocolate Biscuits",Confections,35,322
+11022,69,2015-04-14,Gudbrandsdalsost,"Dairy Products",30,1080
+11023,7,2015-04-14,"Uncle Bob's Organic Dried Pears",Produce,4,120
+11023,43,2015-04-14,"Ipoh Coffee",Beverages,30,1380
+11024,26,2015-04-15,"Gumbar Gummibarchen",Confections,12,374.76
+11024,33,2015-04-15,Geitost,"Dairy Products",30,75
+11024,65,2015-04-15,"Louisiana Fiery Hot Pepper Sauce",Condiments,21,442.05
+11024,71,2015-04-15,Flotemysost,"Dairy Products",50,1075
+11025,1,2015-04-15,Chai,Beverages,10,162
+11025,13,2015-04-15,Konbu,Seafood,20,108
+11026,18,2015-04-15,"Carnarvon Tigers",Seafood,8,500
+11026,51,2015-04-15,"Manjimup Dried Apples",Produce,10,530
+11027,24,2015-04-16,"Guarana Fantastica",Beverages,30,101.25
+11027,62,2015-04-16,"Tarte au sucre",Confections,21,776.47
+11028,55,2015-04-16,"Pate chinois","Meat & Poultry",35,840
+11028,59,2015-04-16,"Raclette Courdavault","Dairy Products",24,1320
+11029,56,2015-04-16,"Gnocchi di nonna Alice","Grains & Cereals",20,760
+11029,63,2015-04-16,Vegie-spread,Condiments,12,526.8
+11030,2,2015-04-17,Chang,Beverages,100,1425
+11030,5,2015-04-17,"Chef Anton's Gumbo Mix",Condiments,70,1494.5
+11030,29,2015-04-17,"Thuringer Rostbratwurst","Meat & Poultry",60,5570.55
+11030,59,2015-04-17,"Raclette Courdavault","Dairy Products",100,4125
+11031,1,2015-04-17,Chai,Beverages,45,810
+11031,13,2015-04-17,Konbu,Seafood,80,480
+11031,24,2015-04-17,"Guarana Fantastica",Beverages,21,94.5
+11031,64,2015-04-17,"Wimmers gute Semmelknodel","Grains & Cereals",20,665
+11031,71,2015-04-17,Flotemysost,"Dairy Products",16,344
+11032,36,2015-04-17,"Inlagd Sill",Seafood,35,665
+11032,38,2015-04-17,"Cote de Blaye",Beverages,25,6587.5
+11032,59,2015-04-17,"Raclette Courdavault","Dairy Products",30,1650
+11033,53,2015-04-17,"Perth Pasties","Meat & Poultry",70,2066.4
+11033,69,2015-04-17,Gudbrandsdalsost,"Dairy Products",36,1166.4
+11034,21,2015-04-20,"Sir Rodney's Scones",Confections,15,135
+11034,44,2015-04-20,"Gula Malacca",Condiments,12,233.4
+11034,61,2015-04-20,"Sirop d'erable",Condiments,6,171
+11035,1,2015-04-20,Chai,Beverages,10,180
+11035,35,2015-04-20,"Steeleye Stout",Beverages,60,1080
+11035,42,2015-04-20,"Singaporean Hokkien Fried Mee","Grains & Cereals",30,420
+11035,54,2015-04-20,Tourtiere,"Meat & Poultry",10,74.5
+11036,13,2015-04-20,Konbu,Seafood,7,42
+11036,59,2015-04-20,"Raclette Courdavault","Dairy Products",30,1650
+11037,70,2015-04-21,"Outback Lager",Beverages,4,60
+11038,40,2015-04-21,"Boston Crab Meat",Seafood,5,73.6
+11038,52,2015-04-21,"Filo Mix","Grains & Cereals",2,14
+11038,71,2015-04-21,Flotemysost,"Dairy Products",30,645
+11039,28,2015-04-21,"Rossle Sauerkraut",Produce,20,912
+11039,35,2015-04-21,"Steeleye Stout",Beverages,24,432
+11039,49,2015-04-21,Maxilaku,Confections,60,1200
+11039,57,2015-04-21,"Ravioli Angelo","Grains & Cereals",28,546
+11040,21,2015-04-22,"Sir Rodney's Scones",Confections,20,200
+11041,2,2015-04-22,Chang,Beverages,30,456
+11041,63,2015-04-22,Vegie-spread,Condiments,30,1317
+11042,44,2015-04-22,"Gula Malacca",Condiments,15,291.75
+11042,61,2015-04-22,"Sirop d'erable",Condiments,4,114
+11043,11,2015-04-22,"Queso Cabrales","Dairy Products",10,210
+11044,62,2015-04-23,"Tarte au sucre",Confections,12,591.6
+11045,33,2015-04-23,Geitost,"Dairy Products",15,37.5
+11045,51,2015-04-23,"Manjimup Dried Apples",Produce,24,1272
+11046,12,2015-04-23,"Queso Manchego La Pastora","Dairy Products",20,722
+11046,32,2015-04-23,"Mascarpone Fabioli","Dairy Products",15,456
+11046,35,2015-04-23,"Steeleye Stout",Beverages,18,307.8
+11047,1,2015-04-24,Chai,Beverages,25,337.5
+11047,5,2015-04-24,"Chef Anton's Gumbo Mix",Condiments,30,480.38
+11048,68,2015-04-24,"Scottish Longbreads",Confections,42,525
+11049,2,2015-04-24,Chang,Beverages,10,152
+11049,12,2015-04-24,"Queso Manchego La Pastora","Dairy Products",4,121.6
+11050,76,2015-04-27,Lakkalikori,Beverages,50,810
+11051,24,2015-04-27,"Guarana Fantastica",Beverages,10,36
+11052,43,2015-04-27,"Ipoh Coffee",Beverages,30,1104
+11052,61,2015-04-27,"Sirop d'erable",Condiments,10,228
+11053,18,2015-04-27,"Carnarvon Tigers",Seafood,35,1750
+11053,32,2015-04-27,"Mascarpone Fabioli","Dairy Products",20,640
+11053,64,2015-04-27,"Wimmers gute Semmelknodel","Grains & Cereals",25,665
+11054,33,2015-04-28,Geitost,"Dairy Products",10,25
+11054,67,2015-04-28,"Laughing Lumberjack Lager",Beverages,20,280
+11055,24,2015-04-28,"Guarana Fantastica",Beverages,15,67.5
+11055,25,2015-04-28,"NuNuCa Nus-Nougat-Creme",Confections,15,210
+11055,51,2015-04-28,"Manjimup Dried Apples",Produce,20,1060
+11055,57,2015-04-28,"Ravioli Angelo","Grains & Cereals",20,390
+11056,7,2015-04-28,"Uncle Bob's Organic Dried Pears",Produce,40,1200
+11056,55,2015-04-28,"Pate chinois","Meat & Poultry",35,840
+11056,60,2015-04-28,"Camembert Pierrot","Dairy Products",50,1700
+11057,70,2015-04-29,"Outback Lager",Beverages,3,45
+11058,21,2015-04-29,"Sir Rodney's Scones",Confections,3,30
+11058,60,2015-04-29,"Camembert Pierrot","Dairy Products",21,714
+11058,61,2015-04-29,"Sirop d'erable",Condiments,4,114
+11059,13,2015-04-29,Konbu,Seafood,30,180
+11059,17,2015-04-29,"Alice Mutton","Meat & Poultry",12,468
+11059,60,2015-04-29,"Camembert Pierrot","Dairy Products",35,1190
+11060,60,2015-04-30,"Camembert Pierrot","Dairy Products",4,136
+11060,77,2015-04-30,"Original Frankfurter Grune Sose",Condiments,10,130
+11061,60,2015-04-30,"Camembert Pierrot","Dairy Products",15,510
+11062,53,2015-04-30,"Perth Pasties","Meat & Poultry",10,262.4
+11062,70,2015-04-30,"Outback Lager",Beverages,12,144
+11063,34,2015-04-30,"Sasquatch Ale",Beverages,30,420
+11063,40,2015-04-30,"Boston Crab Meat",Seafood,40,662.4
+11063,41,2015-04-30,"Jack's New England Clam Chowder",Seafood,30,260.55
+11064,17,2015-05-01,"Alice Mutton","Meat & Poultry",77,2702.7
+11064,41,2015-05-01,"Jack's New England Clam Chowder",Seafood,12,115.8
+11064,53,2015-05-01,"Perth Pasties","Meat & Poultry",25,738
+11064,55,2015-05-01,"Pate chinois","Meat & Poultry",4,86.4
+11064,68,2015-05-01,"Scottish Longbreads",Confections,55,687.5
+11065,30,2015-05-01,"Nord-Ost Matjeshering",Seafood,4,77.67
+11065,54,2015-05-01,Tourtiere,"Meat & Poultry",20,111.75
+11066,16,2015-05-01,Pavlova,Confections,3,52.35
+11066,19,2015-05-01,"Teatime Chocolate Biscuits",Confections,42,386.4
+11066,34,2015-05-01,"Sasquatch Ale",Beverages,35,490
+11067,41,2015-05-04,"Jack's New England Clam Chowder",Seafood,9,86.85
+11068,28,2015-05-04,"Rossle Sauerkraut",Produce,8,310.08
+11068,43,2015-05-04,"Ipoh Coffee",Beverages,36,1407.6
+11068,77,2015-05-04,"Original Frankfurter Grune Sose",Condiments,28,309.4
+11069,39,2015-05-04,"Chartreuse verte",Beverages,20,360
+11070,1,2015-05-05,Chai,Beverages,40,612
+11070,2,2015-05-05,Chang,Beverages,20,323
+11070,16,2015-05-05,Pavlova,Confections,30,444.98
+11070,31,2015-05-05,"Gorgonzola Telino","Dairy Products",20,250
+11071,7,2015-05-05,"Uncle Bob's Organic Dried Pears",Produce,15,427.5
+11071,13,2015-05-05,Konbu,Seafood,10,57
+11072,2,2015-05-05,Chang,Beverages,8,152
+11072,41,2015-05-05,"Jack's New England Clam Chowder",Seafood,40,386
+11072,50,2015-05-05,"Valkoinen suklaa",Confections,22,357.5
+11072,64,2015-05-05,"Wimmers gute Semmelknodel","Grains & Cereals",130,4322.5
+11073,11,2015-05-05,"Queso Cabrales","Dairy Products",10,210
+11073,24,2015-05-05,"Guarana Fantastica",Beverages,20,90
+11074,16,2015-05-06,Pavlova,Confections,14,232.08
+11075,2,2015-05-06,Chang,Beverages,10,161.5
+11075,46,2015-05-06,Spegesild,Seafood,30,306
+11075,76,2015-05-06,Lakkalikori,Beverages,2,30.6
+11076,6,2015-05-06,"Grandma's Boysenberry Spread",Condiments,20,375
+11076,14,2015-05-06,Tofu,Produce,20,348.75
+11076,19,2015-05-06,"Teatime Chocolate Biscuits",Confections,10,69
+11077,2,2015-05-06,Chang,Beverages,24,364.8
+11077,3,2015-05-06,"Aniseed Syrup",Condiments,4,40
+11077,4,2015-05-06,"Chef Anton's Cajun Seasoning",Condiments,1,22
+11077,6,2015-05-06,"Grandma's Boysenberry Spread",Condiments,1,24.5
+11077,7,2015-05-06,"Uncle Bob's Organic Dried Pears",Produce,1,28.5
+11077,8,2015-05-06,"Northwoods Cranberry Sauce",Condiments,2,72
+11077,10,2015-05-06,Ikura,Seafood,1,31
+11077,12,2015-05-06,"Queso Manchego La Pastora","Dairy Products",2,72.2
+11077,13,2015-05-06,Konbu,Seafood,4,24
+11077,14,2015-05-06,Tofu,Produce,1,22.55
+11077,16,2015-05-06,Pavlova,Confections,2,33.85
+11077,20,2015-05-06,"Sir Rodney's Marmalade",Confections,1,77.76
+11077,23,2015-05-06,Tunnbrod,"Grains & Cereals",2,18
+11077,32,2015-05-06,"Mascarpone Fabioli","Dairy Products",1,32
+11077,39,2015-05-06,"Chartreuse verte",Beverages,2,34.2
+11077,41,2015-05-06,"Jack's New England Clam Chowder",Seafood,3,28.95
+11077,46,2015-05-06,Spegesild,Seafood,3,35.28
+11077,52,2015-05-06,"Filo Mix","Grains & Cereals",2,14
+11077,55,2015-05-06,"Pate chinois","Meat & Poultry",2,48
+11077,60,2015-05-06,"Camembert Pierrot","Dairy Products",2,63.92
+11077,64,2015-05-06,"Wimmers gute Semmelknodel","Grains & Cereals",2,64.5
+11077,66,2015-05-06,"Louisiana Hot Spiced Okra",Condiments,1,17
+11077,73,2015-05-06,"Rod Kaviar",Seafood,2,29.7
+11077,75,2015-05-06,"Rhonbrau Klosterbier",Beverages,4,31
+11077,77,2015-05-06,"Original Frankfurter Grune Sose",Condiments,2,26

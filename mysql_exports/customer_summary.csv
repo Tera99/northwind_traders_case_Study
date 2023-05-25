@@ -1,0 +1,831 @@
+orderID,customerID,orderDate,salesRevenue,itemCount,companyName,city,country
+10248,VINET,2013-07-04,440,3,"Vins et alcools Chevalier",Reims,France
+10249,TOMSP,2013-07-05,1863.4,2,"Toms Spezialitaten",Munster,Germany
+10250,HANAR,2013-07-08,1552.6,3,"Hanari Carnes","Rio de Janeiro",Brazil
+10251,VICTE,2013-07-08,654.06,3,"Victuailles en stock",Lyon,France
+10252,SUPRD,2013-07-09,3597.9,3,"Supremes delices",Charleroi,Belgium
+10253,HANAR,2013-07-10,1444.8,3,"Hanari Carnes","Rio de Janeiro",Brazil
+10254,CHOPS,2013-07-11,556.62,3,"Chop-suey Chinese",Bern,Switzerland
+10255,RICSU,2013-07-12,2490.5,4,"Richter Supermarkt",Geneve,Switzerland
+10256,WELLI,2013-07-15,517.8,2,"Wellington Importadora",Resende,Brazil
+10257,HILAA,2013-07-16,1119.9,3,HILARION-Abastos,"San Cristobal",Venezuela
+10258,ERNSH,2013-07-17,1614.88,3,"Ernst Handel",Graz,Austria
+10259,CENTC,2013-07-18,100.8,2,"Centro comercial Moctezuma","Mexico City",Mexico
+10260,OTTIK,2013-07-19,1504.65,4,"Ottilies Kaseladen",Koln,Germany
+10261,QUEDE,2013-07-19,448,2,"Que Delicia","Rio de Janeiro",Brazil
+10262,RATTC,2013-07-22,584,3,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10263,ERNSH,2013-07-23,1873.8,4,"Ernst Handel",Graz,Austria
+10264,FOLKO,2013-07-24,695.62,2,"Folk och fa HB",Bracke,Sweden
+10265,BLONP,2013-07-25,1176,2,"Blondesddsl pere et fils",Strasbourg,France
+10266,WARTH,2013-07-26,346.56,1,"Wartian Herkku",Oulu,Finland
+10267,FRANK,2013-07-29,3536.6,3,Frankenversand,Munchen,Germany
+10268,GROSR,2013-07-30,1101.2,2,GROSELLA-Restaurante,Caracas,Venezuela
+10269,WHITC,2013-07-31,642.2,2,"White Clover Markets",Seattle,USA
+10270,WARTH,2013-08-01,1376,2,"Wartian Herkku",Oulu,Finland
+10271,SPLIR,2013-08-01,48,1,"Split Rail Beer & Ale",Lander,USA
+10272,RATTC,2013-08-02,1456,3,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10273,QUICK,2013-08-05,2037.28,5,QUICK-Stop,Cunewalde,Germany
+10274,VINET,2013-08-06,538.6,2,"Vins et alcools Chevalier",Reims,France
+10275,MAGAA,2013-08-07,291.84,2,"Magazzini Alimentari Riuniti",Bergamo,Italy
+10276,TORTU,2013-08-08,420,2,"Tortuga Restaurante","Mexico City",Mexico
+10277,MORGK,2013-08-09,1200.8,2,"Morgenstern Gesundkost",Leipzig,Germany
+10278,BERGS,2013-08-12,1488.8,4,"Berglunds snabbkop",Lulea,Sweden
+10279,LEHMS,2013-08-13,351,1,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10280,BERGS,2013-08-14,613.2,3,"Berglunds snabbkop",Lulea,Sweden
+10281,ROMEY,2013-08-14,86.5,3,"Romero y tomillo",Madrid,Spain
+10282,ROMEY,2013-08-15,155.4,2,"Romero y tomillo",Madrid,Spain
+10283,LILAS,2013-08-16,1414.8,4,LILA-Supermercado,Barquisimeto,Venezuela
+10284,LEHMS,2013-08-19,1170.38,4,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10285,QUICK,2013-08-20,1743.36,3,QUICK-Stop,Cunewalde,Germany
+10286,QUICK,2013-08-21,3016,2,QUICK-Stop,Cunewalde,Germany
+10287,RICAR,2013-08-22,819,3,"Ricardo Adocicados","Rio de Janeiro",Brazil
+10288,REGGC,2013-08-23,80.1,2,"Reggiani Caseifici","Reggio Emilia",Italy
+10289,BSBEV,2013-08-26,479.4,2,"B's Beverages",London,UK
+10290,COMMI,2013-08-27,2169,4,"Comercio Mineiro","Sao Paulo",Brazil
+10291,QUEDE,2013-08-27,497.52,3,"Que Delicia","Rio de Janeiro",Brazil
+10292,TRADH,2013-08-28,1296,1,"Tradicao Hipermercados","Sao Paulo",Brazil
+10293,TORTU,2013-08-29,848.7,4,"Tortuga Restaurante","Mexico City",Mexico
+10294,RATTC,2013-08-30,1887.6,5,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10295,VINET,2013-09-02,121.6,1,"Vins et alcools Chevalier",Reims,France
+10296,LILAS,2013-09-03,1050.6,3,LILA-Supermercado,Barquisimeto,Venezuela
+10297,BLONP,2013-09-04,1420,2,"Blondesddsl pere et fils",Strasbourg,France
+10298,HUNGO,2013-09-05,2645,4,"Hungry Owl All-Night Grocers",Cork,Ireland
+10299,RICAR,2013-09-06,349.5,2,"Ricardo Adocicados","Rio de Janeiro",Brazil
+10300,MAGAA,2013-09-09,608,2,"Magazzini Alimentari Riuniti",Bergamo,Italy
+10301,WANDK,2013-09-09,755,2,"Die Wandernde Kuh",Stuttgart,Germany
+10302,SUPRD,2013-09-10,2708.8,3,"Supremes delices",Charleroi,Belgium
+10303,GODOS,2013-09-11,1117.8,3,"Godos Cocina Tipica",Sevilla,Spain
+10304,TORTU,2013-09-12,954.4,3,"Tortuga Restaurante","Mexico City",Mexico
+10305,OLDWO,2013-09-13,3741.3,3,"Old World Delicatessen",Anchorage,USA
+10306,ROMEY,2013-09-16,498.5,3,"Romero y tomillo",Madrid,Spain
+10307,LONEP,2013-09-17,424,2,"Lonesome Pine Restaurant",Portland,USA
+10308,ANATR,2013-09-18,88.8,2,"Ana Trujillo Emparedados y helados","Mexico City",Mexico
+10309,HUNGO,2013-09-19,1762,5,"Hungry Owl All-Night Grocers",Cork,Ireland
+10310,THEBI,2013-09-20,336,2,"The Big Cheese",Portland,USA
+10311,DUMON,2013-09-20,268.8,2,"Du monde entier",Nantes,France
+10312,WANDK,2013-09-23,1614.8,4,"Die Wandernde Kuh",Stuttgart,Germany
+10313,QUICK,2013-09-24,182.4,1,QUICK-Stop,Cunewalde,Germany
+10314,RATTC,2013-09-25,2094.3,3,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10315,ISLAT,2013-09-26,516.8,2,"Island Trading",Cowes,UK
+10316,RATTC,2013-09-27,2835,2,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10317,LONEP,2013-09-30,288,1,"Lonesome Pine Restaurant",Portland,USA
+10318,ISLAT,2013-10-01,240.4,2,"Island Trading",Cowes,UK
+10319,TORTU,2013-10-02,1191.2,3,"Tortuga Restaurante","Mexico City",Mexico
+10320,WARTH,2013-10-03,516,1,"Wartian Herkku",Oulu,Finland
+10321,ISLAT,2013-10-03,144,1,"Island Trading",Cowes,UK
+10322,PERIC,2013-10-04,112,1,"Pericles Comidas clasicas","Mexico City",Mexico
+10323,KOENE,2013-10-07,164.4,3,"Koniglich Essen",Brandenburg,Germany
+10324,SAVEA,2013-10-08,5275.72,5,"Save-a-lot Markets",Boise,USA
+10325,KOENE,2013-10-09,1497,5,"Koniglich Essen",Brandenburg,Germany
+10326,BOLID,2013-10-10,982,3,"Bolido Comidas preparadas",Madrid,Spain
+10327,FOLKO,2013-10-11,1810,4,"Folk och fa HB",Bracke,Sweden
+10328,FURIB,2013-10-14,1168,3,"Furia Bacalhau e Frutos do Mar",Lisboa,Portugal
+10329,SPLIR,2013-10-15,4578.43,4,"Split Rail Beer & Ale",Lander,USA
+10330,LILAS,2013-10-16,1649,2,LILA-Supermercado,Barquisimeto,Venezuela
+10331,BONAP,2013-10-16,88.5,1,"Bon app'",Marseille,France
+10332,MEREP,2013-10-17,1786.88,3,"Mere Paillarde",Montreal,Canada
+10333,WARTH,2013-10-18,877.2,3,"Wartian Herkku",Oulu,Finland
+10334,VICTE,2013-10-21,144.8,2,"Victuailles en stock",Lyon,France
+10335,HUNGO,2013-10-22,2036.16,4,"Hungry Owl All-Night Grocers",Cork,Ireland
+10336,PRINI,2013-10-23,285.12,1,"Princesa Isabel Vinhos",Lisboa,Portugal
+10337,FRANK,2013-10-24,2467,5,Frankenversand,Munchen,Germany
+10338,OLDWO,2013-10-25,934.5,2,"Old World Delicatessen",Anchorage,USA
+10339,MEREP,2013-10-28,3354,3,"Mere Paillarde",Montreal,Canada
+10340,BONAP,2013-10-29,2436.18,3,"Bon app'",Marseille,France
+10341,SIMOB,2013-10-29,352.6,2,"Simons bistro",Kobenhavn,Denmark
+10342,FRANK,2013-10-30,1840.64,4,Frankenversand,Munchen,Germany
+10343,LEHMS,2013-10-31,1584,3,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10344,WHITC,2013-11-01,2296,2,"White Clover Markets",Seattle,USA
+10345,QUICK,2013-11-04,2924.8,3,QUICK-Stop,Cunewalde,Germany
+10346,RATTC,2013-11-05,1618.88,2,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10347,FAMIA,2013-11-06,814.42,4,"Familia Arquibaldo","Sao Paulo",Brazil
+10348,WANDK,2013-11-07,363.6,2,"Die Wandernde Kuh",Stuttgart,Germany
+10349,SPLIR,2013-11-08,141.6,1,"Split Rail Beer & Ale",Lander,USA
+10350,LAMAI,2013-11-11,642.06,2,"La maison d'Asie",Toulouse,France
+10351,ERNSH,2013-11-11,5398.72,4,"Ernst Handel",Graz,Austria
+10352,FURIB,2013-11-12,136.3,2,"Furia Bacalhau e Frutos do Mar",Lisboa,Portugal
+10353,PICCO,2013-11-13,8593.28,2,"Piccolo und mehr",Salzburg,Austria
+10354,PERIC,2013-11-14,568.8,2,"Pericles Comidas clasicas","Mexico City",Mexico
+10355,AROUT,2013-11-15,480,2,"Around the Horn",London,UK
+10356,WANDK,2013-11-18,1106.4,3,"Die Wandernde Kuh",Stuttgart,Germany
+10357,LILAS,2013-11-19,1167.68,3,LILA-Supermercado,Barquisimeto,Venezuela
+10358,LAMAI,2013-11-20,429.4,3,"La maison d'Asie",Toulouse,France
+10359,SEVES,2013-11-21,3471.68,3,"Seven Seas Imports",London,UK
+10360,BLONP,2013-11-22,7390.2,5,"Blondesddsl pere et fils",Strasbourg,France
+10361,QUICK,2013-11-22,2046.24,2,QUICK-Stop,Cunewalde,Germany
+10362,BONAP,2013-11-25,1549.6,3,"Bon app'",Marseille,France
+10363,DRACD,2013-11-26,447.2,3,"Drachenblut Delikatessen",Aachen,Germany
+10364,EASTC,2013-11-26,950,2,"Eastern Connection",London,UK
+10365,ANTON,2013-11-27,403.2,1,"Antonio Moreno Taqueria","Mexico City",Mexico
+10366,GALED,2013-11-28,136,2,"Galeria del gastronomo",Barcelona,Spain
+10367,VAFFE,2013-11-28,834.2,4,Vaffeljernet,Arhus,Denmark
+10368,ERNSH,2013-11-29,1689.78,4,"Ernst Handel",Graz,Austria
+10369,SPLIR,2013-12-02,2390.4,2,"Split Rail Beer & Ale",Lander,USA
+10370,CHOPS,2013-12-03,1117.6,3,"Chop-suey Chinese",Bern,Switzerland
+10371,LAMAI,2013-12-03,72.96,1,"La maison d'Asie",Toulouse,France
+10372,QUEEN,2013-12-04,9210.9,4,"Queen Cozinha","Sao Paulo",Brazil
+10373,HUNGO,2013-12-05,1366.4,2,"Hungry Owl All-Night Grocers",Cork,Ireland
+10374,WOLZA,2013-12-05,459,2,"Wolski  Zajazd",Warszawa,Poland
+10375,HUNGC,2013-12-06,338,2,"Hungry Coyote Import Store",Elgin,USA
+10376,MEREP,2013-12-09,399,1,"Mere Paillarde",Montreal,Canada
+10377,SEVES,2013-12-09,863.6,2,"Seven Seas Imports",London,UK
+10378,FOLKO,2013-12-10,103.2,1,"Folk och fa HB",Bracke,Sweden
+10379,QUEDE,2013-12-11,863.28,3,"Que Delicia","Rio de Janeiro",Brazil
+10380,HUNGO,2013-12-12,1313.82,4,"Hungry Owl All-Night Grocers",Cork,Ireland
+10381,LILAS,2013-12-12,112,1,LILA-Supermercado,Barquisimeto,Venezuela
+10382,ERNSH,2013-12-13,2900,5,"Ernst Handel",Graz,Austria
+10383,AROUT,2013-12-16,899,3,"Around the Horn",London,UK
+10384,BERGS,2013-12-16,2222.4,2,"Berglunds snabbkop",Lulea,Sweden
+10385,SPLIR,2013-12-17,691.2,3,"Split Rail Beer & Ale",Lander,USA
+10386,FAMIA,2013-12-18,166,2,"Familia Arquibaldo","Sao Paulo",Brazil
+10387,SANTG,2013-12-18,1058.4,4,"Sante Gourmet",Stavern,Norway
+10388,SEVES,2013-12-19,1228.8,3,"Seven Seas Imports",London,UK
+10389,BOTTM,2013-12-20,1832.8,4,"Bottom-Dollar Markets",Tsawassen,Canada
+10390,ERNSH,2013-12-23,2090.88,4,"Ernst Handel",Graz,Austria
+10391,DRACD,2013-12-23,86.4,1,"Drachenblut Delikatessen",Aachen,Germany
+10392,PICCO,2013-12-24,1440,1,"Piccolo und mehr",Salzburg,Austria
+10393,SAVEA,2013-12-25,2556.95,5,"Save-a-lot Markets",Boise,USA
+10394,HUNGC,2013-12-25,442,2,"Hungry Coyote Import Store",Elgin,USA
+10395,HILAA,2013-12-26,2122.92,3,HILARION-Abastos,"San Cristobal",Venezuela
+10396,FRANK,2013-12-27,1903.8,3,Frankenversand,Munchen,Germany
+10397,PRINI,2013-12-27,716.72,2,"Princesa Isabel Vinhos",Lisboa,Portugal
+10398,SAVEA,2013-12-30,2505.6,2,"Save-a-lot Markets",Boise,USA
+10399,VAFFE,2013-12-31,1765.6,4,Vaffeljernet,Arhus,Denmark
+10400,EASTC,2014-01-01,3063,3,"Eastern Connection",London,UK
+10401,RATTC,2014-01-01,3868.6,4,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10402,ERNSH,2014-01-02,2713.5,2,"Ernst Handel",Graz,Austria
+10403,ERNSH,2014-01-03,855.02,2,"Ernst Handel",Graz,Austria
+10404,MAGAA,2014-01-03,1591.25,3,"Magazzini Alimentari Riuniti",Bergamo,Italy
+10405,LINOD,2014-01-06,400,1,LINO-Delicateses,"I. de Margarita",Venezuela
+10406,QUEEN,2014-01-07,1830.78,5,"Queen Cozinha","Sao Paulo",Brazil
+10407,OTTIK,2014-01-07,1194,3,"Ottilies Kaseladen",Koln,Germany
+10408,FOLIG,2014-01-08,1622.4,3,"Folies gourmandes",Lille,France
+10409,OCEAN,2014-01-09,319.2,2,"Oceano Atlantico Ltda.","Buenos Aires",Argentina
+10410,BOTTM,2014-01-10,802,2,"Bottom-Dollar Markets",Tsawassen,Canada
+10411,BOTTM,2014-01-10,966.8,3,"Bottom-Dollar Markets",Tsawassen,Canada
+10412,WARTH,2014-01-13,334.8,1,"Wartian Herkku",Oulu,Finland
+10413,LAMAI,2014-01-14,2123.2,3,"La maison d'Asie",Toulouse,France
+10414,FAMIA,2014-01-14,224.83,2,"Familia Arquibaldo","Sao Paulo",Brazil
+10415,HUNGC,2014-01-15,102.4,2,"Hungry Coyote Import Store",Elgin,USA
+10416,WARTH,2014-01-16,720,3,"Wartian Herkku",Oulu,Finland
+10417,SIMOB,2014-01-16,11188.4,4,"Simons bistro",Kobenhavn,Denmark
+10418,QUICK,2014-01-17,1814.8,4,QUICK-Stop,Cunewalde,Germany
+10419,RICSU,2014-01-20,2097.6,2,"Richter Supermarkt",Geneve,Switzerland
+10420,WELLI,2014-01-21,1707.84,4,"Wellington Importadora",Resende,Brazil
+10421,QUEDE,2014-01-21,1194.27,4,"Que Delicia","Rio de Janeiro",Brazil
+10422,FRANS,2014-01-22,49.8,1,"Franchi S.p.A.",Torino,Italy
+10423,GOURL,2014-01-23,1020,2,"Gourmet Lanchonetes",Campinas,Brazil
+10424,MEREP,2014-01-23,9194.56,3,"Mere Paillarde",Montreal,Canada
+10425,LAMAI,2014-01-24,360,2,"La maison d'Asie",Toulouse,France
+10426,GALED,2014-01-27,338.2,2,"Galeria del gastronomo",Barcelona,Spain
+10427,PICCO,2014-01-27,651,1,"Piccolo und mehr",Salzburg,Austria
+10428,REGGC,2014-01-28,192,1,"Reggiani Caseifici","Reggio Emilia",Italy
+10429,HUNGO,2014-01-29,1441.38,2,"Hungry Owl All-Night Grocers",Cork,Ireland
+10430,ERNSH,2014-01-30,4899.2,4,"Ernst Handel",Graz,Austria
+10431,BOTTM,2014-01-30,1892.25,3,"Bottom-Dollar Markets",Tsawassen,Canada
+10432,SPLIR,2014-01-31,485,2,"Split Rail Beer & Ale",Lander,USA
+10433,PRINI,2014-02-03,851.2,1,"Princesa Isabel Vinhos",Lisboa,Portugal
+10434,FOLKO,2014-02-03,321.12,2,"Folk och fa HB",Bracke,Sweden
+10435,CONSH,2014-02-04,631.6,3,"Consolidated Holdings",London,UK
+10436,BLONP,2014-02-05,1994.52,4,"Blondesddsl pere et fils",Strasbourg,France
+10437,WARTH,2014-02-05,393,1,"Wartian Herkku",Oulu,Finland
+10438,TOMSP,2014-02-06,454,3,"Toms Spezialitaten",Munster,Germany
+10439,MEREP,2014-02-07,1078,4,"Mere Paillarde",Montreal,Canada
+10440,SAVEA,2014-02-10,4924.14,4,"Save-a-lot Markets",Boise,USA
+10441,OLDWO,2014-02-10,1755,1,"Old World Delicatessen",Anchorage,USA
+10442,ERNSH,2014-02-11,1792,3,"Ernst Handel",Graz,Austria
+10443,REGGC,2014-02-12,517.44,2,"Reggiani Caseifici","Reggio Emilia",Italy
+10444,BERGS,2014-02-12,1031.7,4,"Berglunds snabbkop",Lulea,Sweden
+10445,BERGS,2014-02-13,174.9,2,"Berglunds snabbkop",Lulea,Sweden
+10446,TOMSP,2014-02-14,246.24,4,"Toms Spezialitaten",Munster,Germany
+10447,RICAR,2014-02-14,914.4,3,"Ricardo Adocicados","Rio de Janeiro",Brazil
+10448,RANCH,2014-02-17,443.4,2,"Rancho grande","Buenos Aires",Argentina
+10449,BLONP,2014-02-18,1838.2,3,"Blondesddsl pere et fils",Strasbourg,France
+10450,VICTE,2014-02-19,425.12,2,"Victuailles en stock",Lyon,France
+10451,QUICK,2014-02-19,3849.66,4,QUICK-Stop,Cunewalde,Germany
+10452,SAVEA,2014-02-20,2018.5,2,"Save-a-lot Markets",Boise,USA
+10453,AROUT,2014-02-21,407.7,2,"Around the Horn",London,UK
+10454,LAMAI,2014-02-21,331.2,3,"La maison d'Asie",Toulouse,France
+10455,WARTH,2014-02-24,2684,4,"Wartian Herkku",Oulu,Finland
+10456,KOENE,2014-02-25,557.6,2,"Koniglich Essen",Brandenburg,Germany
+10457,KOENE,2014-02-25,1584,1,"Koniglich Essen",Brandenburg,Germany
+10458,SUPRD,2014-02-26,3891,5,"Supremes delices",Charleroi,Belgium
+10459,VICTE,2014-02-27,1659.2,3,"Victuailles en stock",Lyon,France
+10460,FOLKO,2014-02-28,176.1,2,"Folk och fa HB",Bracke,Sweden
+10461,LILAS,2014-02-28,1538.7,3,LILA-Supermercado,Barquisimeto,Venezuela
+10462,CONSH,2014-03-03,156,2,"Consolidated Holdings",London,UK
+10463,SUPRD,2014-03-04,713.3,2,"Supremes delices",Charleroi,Belgium
+10464,FURIB,2014-03-04,1609.28,4,"Furia Bacalhau e Frutos do Mar",Lisboa,Portugal
+10465,VAFFE,2014-03-05,2518,5,Vaffeljernet,Arhus,Denmark
+10466,COMMI,2014-03-06,216,2,"Comercio Mineiro","Sao Paulo",Brazil
+10467,MAGAA,2014-03-06,235.2,2,"Magazzini Alimentari Riuniti",Bergamo,Italy
+10468,KOENE,2014-03-07,717.6,2,"Koniglich Essen",Brandenburg,Germany
+10469,WHITC,2014-03-10,956.68,3,"White Clover Markets",Seattle,USA
+10470,BONAP,2014-03-11,1820.8,3,"Bon app'",Marseille,France
+10471,BSBEV,2014-03-11,1328,2,"B's Beverages",London,UK
+10472,SEVES,2014-03-12,1036.8,2,"Seven Seas Imports",London,UK
+10473,ISLAT,2014-03-13,230.4,2,"Island Trading",Cowes,UK
+10474,PERIC,2014-03-13,1249.1,4,"Pericles Comidas clasicas","Mexico City",Mexico
+10475,SUPRD,2014-03-14,1505.18,3,"Supremes delices",Charleroi,Belgium
+10476,HILAA,2014-03-17,180.48,2,HILARION-Abastos,"San Cristobal",Venezuela
+10477,PRINI,2014-03-17,558,3,"Princesa Isabel Vinhos",Lisboa,Portugal
+10478,VICTE,2014-03-18,471.2,1,"Victuailles en stock",Lyon,France
+10479,RATTC,2014-03-19,10495.6,4,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10480,FOLIG,2014-03-20,756,2,"Folies gourmandes",Lille,France
+10481,RICAR,2014-03-20,1472,2,"Ricardo Adocicados","Rio de Janeiro",Brazil
+10482,LAZYK,2014-03-21,147,1,"Lazy K Kountry Store","Walla Walla",USA
+10483,WHITC,2014-03-24,668.8,2,"White Clover Markets",Seattle,USA
+10484,BSBEV,2014-03-24,386.2,3,"B's Beverages",London,UK
+10485,LINOD,2014-03-25,1584,4,LINO-Delicateses,"I. de Margarita",Venezuela
+10486,HILAA,2014-03-26,1272,3,HILARION-Abastos,"San Cristobal",Venezuela
+10487,QUEEN,2014-03-26,889.7,3,"Queen Cozinha","Sao Paulo",Brazil
+10488,FRANK,2014-03-27,1512,2,Frankenversand,Munchen,Germany
+10489,PICCO,2014-03-28,439.2,2,"Piccolo und mehr",Salzburg,Austria
+10490,HILAA,2014-03-31,3163.2,3,HILARION-Abastos,"San Cristobal",Venezuela
+10491,FURIB,2014-03-31,259.5,2,"Furia Bacalhau e Frutos do Mar",Lisboa,Portugal
+10492,BOTTM,2014-04-01,851.2,2,"Bottom-Dollar Markets",Tsawassen,Canada
+10493,LAMAI,2014-04-02,608.4,3,"La maison d'Asie",Toulouse,France
+10494,COMMI,2014-04-02,912,1,"Comercio Mineiro","Sao Paulo",Brazil
+10495,LAUGB,2014-04-03,278,3,"Laughing Bacchus Wine Cellars",Vancouver,Canada
+10496,TRADH,2014-04-04,190,1,"Tradicao Hipermercados","Sao Paulo",Brazil
+10497,LEHMS,2014-04-04,1380.6,3,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10498,HILAA,2014-04-07,575,3,HILARION-Abastos,"San Cristobal",Venezuela
+10499,LILAS,2014-04-08,1412,2,LILA-Supermercado,Barquisimeto,Venezuela
+10500,LAMAI,2014-04-09,523.26,2,"La maison d'Asie",Toulouse,France
+10501,BLAUS,2014-04-09,149,1,"Blauer See Delikatessen",Mannheim,Germany
+10502,PERIC,2014-04-10,816.3,3,"Pericles Comidas clasicas","Mexico City",Mexico
+10503,HUNGO,2014-04-11,2048.5,2,"Hungry Owl All-Night Grocers",Cork,Ireland
+10504,WHITC,2014-04-11,1388.5,4,"White Clover Markets",Seattle,USA
+10505,MEREP,2014-04-14,147.9,1,"Mere Paillarde",Montreal,Canada
+10506,KOENE,2014-04-15,415.8,2,"Koniglich Essen",Brandenburg,Germany
+10507,ANTON,2014-04-15,749.06,2,"Antonio Moreno Taqueria","Mexico City",Mexico
+10508,OTTIK,2014-04-16,240,2,"Ottilies Kaseladen",Koln,Germany
+10509,BLAUS,2014-04-17,136.8,1,"Blauer See Delikatessen",Mannheim,Germany
+10510,SAVEA,2014-04-18,4707.54,2,"Save-a-lot Markets",Boise,USA
+10511,BONAP,2014-04-18,2550,3,"Bon app'",Marseille,France
+10512,FAMIA,2014-04-21,525.3,4,"Familia Arquibaldo","Sao Paulo",Brazil
+10513,WANDK,2014-04-22,1942,3,"Die Wandernde Kuh",Stuttgart,Germany
+10514,ERNSH,2014-04-22,8623.45,5,"Ernst Handel",Graz,Austria
+10515,QUICK,2014-04-23,9921.3,5,QUICK-Stop,Cunewalde,Germany
+10516,HUNGO,2014-04-24,2381.05,3,"Hungry Owl All-Night Grocers",Cork,Ireland
+10517,NORTS,2014-04-24,352,3,North/South,London,UK
+10518,TORTU,2014-04-25,4150.05,3,"Tortuga Restaurante","Mexico City",Mexico
+10519,CHOPS,2014-04-28,2314.2,3,"Chop-suey Chinese",Bern,Switzerland
+10520,SANTG,2014-04-29,200,2,"Sante Gourmet",Stavern,Norway
+10521,CACTU,2014-04-29,225.5,3,"Cactus Comidas para llevar","Buenos Aires",Argentina
+10522,LEHMS,2014-04-30,2318.24,4,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10523,SEVES,2014-05-01,2444.31,4,"Seven Seas Imports",London,UK
+10524,BERGS,2014-05-01,3192.65,4,"Berglunds snabbkop",Lulea,Sweden
+10525,BONAP,2014-05-02,818.4,2,"Bon app'",Marseille,France
+10526,WARTH,2014-05-05,1151.4,3,"Wartian Herkku",Oulu,Finland
+10527,QUICK,2014-05-05,1503,2,QUICK-Stop,Cunewalde,Germany
+10528,GREAL,2014-05-06,392.2,3,"Great Lakes Food Market",Eugene,USA
+10529,MAISD,2014-05-07,946,3,"Maison Dewey",Bruxelles,Belgium
+10530,PICCO,2014-05-08,4180,4,"Piccolo und mehr",Salzburg,Austria
+10531,OCEAN,2014-05-08,110,1,"Oceano Atlantico Ltda.","Buenos Aires",Argentina
+10532,EASTC,2014-05-09,796.35,2,"Eastern Connection",London,UK
+10533,FOLKO,2014-05-12,2222.2,3,"Folk och fa HB",Bracke,Sweden
+10534,LEHMS,2014-05-12,465.7,3,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10535,ANTON,2014-05-13,1940.85,4,"Antonio Moreno Taqueria","Mexico City",Mexico
+10536,LEHMS,2014-05-14,1645,4,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10537,RICSU,2014-05-14,1823.8,5,"Richter Supermarkt",Geneve,Switzerland
+10538,BSBEV,2014-05-15,139.8,2,"B's Beverages",London,UK
+10539,BSBEV,2014-05-16,355.5,4,"B's Beverages",London,UK
+10540,QUICK,2014-05-19,10191.7,4,QUICK-Stop,Cunewalde,Germany
+10541,HANAR,2014-05-19,1946.52,4,"Hanari Carnes","Rio de Janeiro",Brazil
+10542,KOENE,2014-05-20,469.11,2,"Koniglich Essen",Brandenburg,Germany
+10543,LILAS,2014-05-21,1504.5,2,LILA-Supermercado,Barquisimeto,Venezuela
+10544,LONEP,2014-05-21,417.2,2,"Lonesome Pine Restaurant",Portland,USA
+10545,LAZYK,2014-05-22,210,1,"Lazy K Kountry Store","Walla Walla",USA
+10546,VICTE,2014-05-23,2812,3,"Victuailles en stock",Lyon,France
+10547,SEVES,2014-05-23,1792.8,2,"Seven Seas Imports",London,UK
+10548,TOMSP,2014-05-26,240.1,2,"Toms Spezialitaten",Munster,Germany
+10549,QUICK,2014-05-27,3554.27,3,QUICK-Stop,Cunewalde,Germany
+10550,GODOS,2014-05-28,683.3,4,"Godos Cocina Tipica",Sevilla,Spain
+10551,FURIB,2014-05-28,1677.3,3,"Furia Bacalhau e Frutos do Mar",Lisboa,Portugal
+10552,HILAA,2014-05-29,880.5,2,HILARION-Abastos,"San Cristobal",Venezuela
+10553,WARTH,2014-05-30,1546.3,5,"Wartian Herkku",Oulu,Finland
+10554,OTTIK,2014-05-30,1728.52,4,"Ottilies Kaseladen",Koln,Germany
+10555,SAVEA,2014-06-02,2944.4,5,"Save-a-lot Markets",Boise,USA
+10556,SIMOB,2014-06-03,835.2,1,"Simons bistro",Kobenhavn,Denmark
+10557,LEHMS,2014-06-03,1152.5,2,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10558,AROUT,2014-06-04,2142.9,5,"Around the Horn",London,UK
+10559,BLONP,2014-06-05,520.41,2,"Blondesddsl pere et fils",Strasbourg,France
+10560,FRANK,2014-06-06,1072.42,2,Frankenversand,Munchen,Germany
+10561,FOLKO,2014-06-06,2844.5,2,"Folk och fa HB",Bracke,Sweden
+10562,REGGC,2014-06-09,488.7,2,"Reggiani Caseifici","Reggio Emilia",Italy
+10563,RICAR,2014-06-10,965,2,"Ricardo Adocicados","Rio de Janeiro",Brazil
+10564,RATTC,2014-06-10,1234.05,3,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10565,MEREP,2014-06-11,639.9,2,"Mere Paillarde",Montreal,Canada
+10566,BLONP,2014-06-12,1761,3,"Blondesddsl pere et fils",Strasbourg,France
+10567,HUNGO,2014-06-12,2519,3,"Hungry Owl All-Night Grocers",Cork,Ireland
+10568,GALED,2014-06-13,155,1,"Galeria del gastronomo",Barcelona,Spain
+10569,RATTC,2014-06-16,890,2,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10570,MEREP,2014-06-17,2465.25,2,"Mere Paillarde",Montreal,Canada
+10571,ERNSH,2014-06-17,550.59,2,"Ernst Handel",Graz,Austria
+10572,BERGS,2014-06-18,1501.08,4,"Berglunds snabbkop",Lulea,Sweden
+10573,ANTON,2014-06-19,2082,3,"Antonio Moreno Taqueria","Mexico City",Mexico
+10574,TRAIH,2014-06-19,764.3,4,"Trail's Head Gourmet Provisioners",Kirkland,USA
+10575,MORGK,2014-06-20,2147.4,4,"Morgenstern Gesundkost",Leipzig,Germany
+10576,TORTU,2014-06-23,838.45,3,"Tortuga Restaurante","Mexico City",Mexico
+10577,TRAIH,2014-06-23,569,3,"Trail's Head Gourmet Provisioners",Kirkland,USA
+10578,BSBEV,2014-06-24,477,2,"B's Beverages",London,UK
+10579,LETSS,2014-06-25,317.75,2,"Let's Stop N Shop","San Francisco",USA
+10580,OTTIK,2014-06-26,1013.75,3,"Ottilies Kaseladen",Koln,Germany
+10581,FAMIA,2014-06-26,310,1,"Familia Arquibaldo","Sao Paulo",Brazil
+10582,BLAUS,2014-06-27,330,2,"Blauer See Delikatessen",Mannheim,Germany
+10583,WARTH,2014-06-30,2237.5,3,"Wartian Herkku",Oulu,Finland
+10584,BLONP,2014-06-30,593.75,1,"Blondesddsl pere et fils",Strasbourg,France
+10585,WELLI,2014-07-01,142.5,1,"Wellington Importadora",Resende,Brazil
+10586,REGGC,2014-07-02,23.8,1,"Reggiani Caseifici","Reggio Emilia",Italy
+10587,QUEDE,2014-07-02,807.38,3,"Que Delicia","Rio de Janeiro",Brazil
+10588,QUICK,2014-07-03,3120,2,QUICK-Stop,Cunewalde,Germany
+10589,GREAL,2014-07-04,72,1,"Great Lakes Food Market",Eugene,USA
+10590,MEREP,2014-07-07,1101,2,"Mere Paillarde",Montreal,Canada
+10591,VAFFE,2014-07-07,812.5,3,Vaffeljernet,Arhus,Denmark
+10592,LEHMS,2014-07-08,516.47,2,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10593,LEHMS,2014-07-09,1994.4,3,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10594,OLDWO,2014-07-09,565.5,2,"Old World Delicatessen",Anchorage,USA
+10595,ERNSH,2014-07-10,4725,3,"Ernst Handel",Graz,Austria
+10596,WHITC,2014-07-11,1180.88,3,"White Clover Markets",Seattle,USA
+10597,PICCO,2014-07-11,718.08,3,"Piccolo und mehr",Salzburg,Austria
+10598,RATTC,2014-07-14,2388.5,2,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10599,BSBEV,2014-07-15,493,1,"B's Beverages",London,UK
+10600,HUNGC,2014-07-16,479.8,2,"Hungry Coyote Import Store",Elgin,USA
+10601,HILAA,2014-07-16,2285,2,HILARION-Abastos,"San Cristobal",Venezuela
+10602,VAFFE,2014-07-17,48.75,1,Vaffeljernet,Arhus,Denmark
+10603,SAVEA,2014-07-18,1483,2,"Save-a-lot Markets",Boise,USA
+10604,FURIB,2014-07-18,230.85,2,"Furia Bacalhau e Frutos do Mar",Lisboa,Portugal
+10605,MEREP,2014-07-21,4109.7,4,"Mere Paillarde",Montreal,Canada
+10606,TRADH,2014-07-22,1130.4,3,"Tradicao Hipermercados","Sao Paulo",Brazil
+10607,SAVEA,2014-07-22,6475.4,5,"Save-a-lot Markets",Boise,USA
+10608,TOMSP,2014-07-23,1064,1,"Toms Spezialitaten",Munster,Germany
+10609,DUMON,2014-07-24,424,3,"Du monde entier",Nantes,France
+10610,LAMAI,2014-07-25,299.25,1,"La maison d'Asie",Toulouse,France
+10611,WOLZA,2014-07-25,808,3,"Wolski  Zajazd",Warszawa,Poland
+10612,SAVEA,2014-07-28,6375,5,"Save-a-lot Markets",Boise,USA
+10613,HILAA,2014-07-29,353.2,2,HILARION-Abastos,"San Cristobal",Venezuela
+10614,BLAUS,2014-07-29,464,3,"Blauer See Delikatessen",Mannheim,Germany
+10615,WILMK,2014-07-30,120,1,"Wilman Kala",Helsinki,Finland
+10616,GREAL,2014-07-31,4807,4,"Great Lakes Food Market",Eugene,USA
+10617,GREAL,2014-07-31,1402.5,1,"Great Lakes Food Market",Eugene,USA
+10618,MEREP,2014-08-01,2697.5,3,"Mere Paillarde",Montreal,Canada
+10619,MEREP,2014-08-04,1260,2,"Mere Paillarde",Montreal,Canada
+10620,LAUGB,2014-08-05,57.5,2,"Laughing Bacchus Wine Cellars",Vancouver,Canada
+10621,ISLAT,2014-08-05,758.5,4,"Island Trading",Cowes,UK
+10622,RICAR,2014-08-06,560,2,"Ricardo Adocicados","Rio de Janeiro",Brazil
+10623,FRANK,2014-08-07,1336.95,5,Frankenversand,Munchen,Germany
+10624,THECR,2014-08-07,1393.24,3,"The Cracker Box",Butte,USA
+10625,ANATR,2014-08-08,479.75,3,"Ana Trujillo Emparedados y helados","Mexico City",Mexico
+10626,BERGS,2014-08-11,1503.6,3,"Berglunds snabbkop",Lulea,Sweden
+10627,SAVEA,2014-08-11,1185.75,2,"Save-a-lot Markets",Boise,USA
+10628,BLONP,2014-08-12,450,1,"Blondesddsl pere et fils",Strasbourg,France
+10629,GODOS,2014-08-12,2775.05,2,"Godos Cocina Tipica",Sevilla,Spain
+10630,KOENE,2014-08-13,903.6,2,"Koniglich Essen",Brandenburg,Germany
+10631,LAMAI,2014-08-14,55.8,1,"La maison d'Asie",Toulouse,France
+10632,WANDK,2014-08-14,589,2,"Die Wandernde Kuh",Stuttgart,Germany
+10633,ERNSH,2014-08-15,5510.59,4,"Ernst Handel",Graz,Austria
+10634,FOLIG,2014-08-15,4985.5,4,"Folies gourmandes",Lille,France
+10635,MAGAA,2014-08-18,1326.22,3,"Magazzini Alimentari Riuniti",Bergamo,Italy
+10636,WARTH,2014-08-19,629.5,2,"Wartian Herkku",Oulu,Finland
+10637,QUEEN,2014-08-19,2761.94,3,"Queen Cozinha","Sao Paulo",Brazil
+10638,LINOD,2014-08-20,2720.05,3,LINO-Delicateses,"I. de Margarita",Venezuela
+10639,SANTG,2014-08-20,500,1,"Sante Gourmet",Stavern,Norway
+10640,WANDK,2014-08-21,708.75,2,"Die Wandernde Kuh",Stuttgart,Germany
+10641,HILAA,2014-08-22,2054,2,HILARION-Abastos,"San Cristobal",Venezuela
+10642,SIMOB,2014-08-22,696,2,"Simons bistro",Kobenhavn,Denmark
+10643,ALFKI,2014-08-25,814.5,3,"Alfreds Futterkiste",Berlin,Germany
+10644,WELLI,2014-08-25,1371.8,3,"Wellington Importadora",Resende,Brazil
+10645,HANAR,2014-08-26,1535,2,"Hanari Carnes","Rio de Janeiro",Brazil
+10646,HUNGO,2014-08-27,1446,4,"Hungry Owl All-Night Grocers",Cork,Ireland
+10647,QUEDE,2014-08-27,636,2,"Que Delicia","Rio de Janeiro",Brazil
+10648,RICAR,2014-08-28,372.38,2,"Ricardo Adocicados","Rio de Janeiro",Brazil
+10649,MAISD,2014-08-28,1434,2,"Maison Dewey",Bruxelles,Belgium
+10650,FAMIA,2014-08-29,1779.2,3,"Familia Arquibaldo","Sao Paulo",Brazil
+10651,WANDK,2014-09-01,397.8,2,"Die Wandernde Kuh",Stuttgart,Germany
+10652,GOURL,2014-09-01,318.83,2,"Gourmet Lanchonetes",Campinas,Brazil
+10653,FRANK,2014-09-02,1083.15,2,Frankenversand,Munchen,Germany
+10654,BERGS,2014-09-02,601.83,3,"Berglunds snabbkop",Lulea,Sweden
+10655,REGGC,2014-09-03,154.4,1,"Reggiani Caseifici","Reggio Emilia",Italy
+10656,GREAL,2014-09-04,604.21,3,"Great Lakes Food Market",Eugene,USA
+10657,SAVEA,2014-09-04,4371.6,6,"Save-a-lot Markets",Boise,USA
+10658,QUICK,2014-09-05,4464.6,4,QUICK-Stop,Cunewalde,Germany
+10659,QUEEN,2014-09-05,1227.02,3,"Queen Cozinha","Sao Paulo",Brazil
+10660,HUNGC,2014-09-08,1701,1,"Hungry Coyote Import Store",Elgin,USA
+10661,HUNGO,2014-09-09,562.6,2,"Hungry Owl All-Night Grocers",Cork,Ireland
+10662,LONEP,2014-09-09,125,1,"Lonesome Pine Restaurant",Portland,USA
+10663,BONAP,2014-09-10,1930.4,3,"Bon app'",Marseille,France
+10664,FURIB,2014-09-10,1288.39,3,"Furia Bacalhau e Frutos do Mar",Lisboa,Portugal
+10665,LONEP,2014-09-11,1295,3,"Lonesome Pine Restaurant",Portland,USA
+10666,RICSU,2014-09-12,4666.94,2,"Richter Supermarkt",Geneve,Switzerland
+10667,ERNSH,2014-09-12,1536.8,2,"Ernst Handel",Graz,Austria
+10668,WANDK,2014-09-15,625.28,3,"Die Wandernde Kuh",Stuttgart,Germany
+10669,SIMOB,2014-09-15,570,1,"Simons bistro",Kobenhavn,Denmark
+10670,FRANK,2014-09-16,2301.75,5,Frankenversand,Munchen,Germany
+10671,FRANR,2014-09-17,920.1,3,"France restauration",Nantes,France
+10672,BERGS,2014-09-17,3815.25,2,"Berglunds snabbkop",Lulea,Sweden
+10673,WILMK,2014-09-18,412.35,3,"Wilman Kala",Helsinki,Finland
+10674,ISLAT,2014-09-18,45,1,"Island Trading",Cowes,UK
+10675,FRANK,2014-09-19,1423,3,Frankenversand,Munchen,Germany
+10676,TORTU,2014-09-22,534.85,3,"Tortuga Restaurante","Mexico City",Mexico
+10677,ANTON,2014-09-22,813.36,2,"Antonio Moreno Taqueria","Mexico City",Mexico
+10678,SAVEA,2014-09-23,5256.5,4,"Save-a-lot Markets",Boise,USA
+10679,BLONP,2014-09-23,660,1,"Blondesddsl pere et fils",Strasbourg,France
+10680,OLDWO,2014-09-24,1261.88,3,"Old World Delicatessen",Anchorage,USA
+10681,GREAL,2014-09-25,1287.4,3,"Great Lakes Food Market",Eugene,USA
+10682,ANTON,2014-09-25,375.5,3,"Antonio Moreno Taqueria","Mexico City",Mexico
+10683,DUMON,2014-09-26,63,1,"Du monde entier",Nantes,France
+10684,OTTIK,2014-09-26,1768,3,"Ottilies Kaseladen",Koln,Germany
+10685,GOURL,2014-09-29,801.1,3,"Gourmet Lanchonetes",Campinas,Brazil
+10686,PICCO,2014-09-30,1404.45,2,"Piccolo und mehr",Salzburg,Austria
+10687,HUNGO,2014-09-30,4960.9,3,"Hungry Owl All-Night Grocers",Cork,Ireland
+10688,VAFFE,2014-10-01,3160.6,3,Vaffeljernet,Arhus,Denmark
+10689,BERGS,2014-10-01,472.5,1,"Berglunds snabbkop",Lulea,Sweden
+10690,HANAR,2014-10-02,862.5,2,"Hanari Carnes","Rio de Janeiro",Brazil
+10691,QUICK,2014-10-03,10164.8,5,QUICK-Stop,Cunewalde,Germany
+10692,ALFKI,2014-10-03,878,1,"Alfreds Futterkiste",Berlin,Germany
+10693,WHITC,2014-10-06,2071.2,4,"White Clover Markets",Seattle,USA
+10694,QUICK,2014-10-06,4825,3,QUICK-Stop,Cunewalde,Germany
+10695,WILMK,2014-10-07,642,3,"Wilman Kala",Helsinki,Finland
+10696,WHITC,2014-10-08,996,2,"White Clover Markets",Seattle,USA
+10697,LINOD,2014-10-08,805.42,4,LINO-Delicateses,"I. de Margarita",Venezuela
+10698,ERNSH,2014-10-09,3436.44,5,"Ernst Handel",Graz,Austria
+10699,MORGK,2014-10-09,114,1,"Morgenstern Gesundkost",Leipzig,Germany
+10700,SAVEA,2014-10-10,1638.4,4,"Save-a-lot Markets",Boise,USA
+10701,HUNGO,2014-10-13,2864.5,3,"Hungry Owl All-Night Grocers",Cork,Ireland
+10702,ALFKI,2014-10-13,330,2,"Alfreds Futterkiste",Berlin,Germany
+10703,FOLKO,2014-10-14,2545,3,"Folk och fa HB",Bracke,Sweden
+10704,QUEEN,2014-10-14,595.5,3,"Queen Cozinha","Sao Paulo",Brazil
+10705,HILAA,2014-10-15,378,2,HILARION-Abastos,"San Cristobal",Venezuela
+10706,OLDWO,2014-10-16,1893,3,"Old World Delicatessen",Anchorage,USA
+10707,AROUT,2014-10-16,1641,3,"Around the Horn",London,UK
+10708,THEBI,2014-10-17,180.4,2,"The Big Cheese",Portland,USA
+10709,GOURL,2014-10-17,3424,3,"Gourmet Lanchonetes",Campinas,Brazil
+10710,FRANS,2014-10-20,93.5,2,"Franchi S.p.A.",Torino,Italy
+10711,SAVEA,2014-10-21,4451.7,3,"Save-a-lot Markets",Boise,USA
+10712,HUNGO,2014-10-21,1233.48,2,"Hungry Owl All-Night Grocers",Cork,Ireland
+10713,SAVEA,2014-10-22,2827.9,4,"Save-a-lot Markets",Boise,USA
+10714,SAVEA,2014-10-22,2205.75,5,"Save-a-lot Markets",Boise,USA
+10715,BONAP,2014-10-23,1296,2,"Bon app'",Marseille,France
+10716,RANCH,2014-10-24,706,3,"Rancho grande","Buenos Aires",Argentina
+10717,FRANK,2014-10-24,1270.75,3,Frankenversand,Munchen,Germany
+10718,KOENE,2014-10-27,3463,4,"Koniglich Essen",Brandenburg,Germany
+10719,LETSS,2014-10-27,844.25,3,"Let's Stop N Shop","San Francisco",USA
+10720,QUEDE,2014-10-28,550,2,"Que Delicia","Rio de Janeiro",Brazil
+10721,QUICK,2014-10-29,923.88,1,QUICK-Stop,Cunewalde,Germany
+10722,SAVEA,2014-10-29,1570,4,"Save-a-lot Markets",Boise,USA
+10723,WHITC,2014-10-30,468.45,1,"White Clover Markets",Seattle,USA
+10724,MEREP,2014-10-30,638.5,2,"Mere Paillarde",Montreal,Canada
+10725,FAMIA,2014-10-31,287.8,3,"Familia Arquibaldo","Sao Paulo",Brazil
+10726,EASTC,2014-11-03,655,2,"Eastern Connection",London,UK
+10727,REGGC,2014-11-03,1624.5,3,"Reggiani Caseifici","Reggio Emilia",Italy
+10728,QUEEN,2014-11-04,1296.75,4,"Queen Cozinha","Sao Paulo",Brazil
+10729,LINOD,2014-11-04,1850,3,LINO-Delicateses,"I. de Margarita",Venezuela
+10730,BONAP,2014-11-05,484.26,3,"Bon app'",Marseille,France
+10731,CHOPS,2014-11-06,1890.5,2,"Chop-suey Chinese",Bern,Switzerland
+10732,BONAP,2014-11-06,360,1,"Bon app'",Marseille,France
+10733,BERGS,2014-11-07,1459,3,"Berglunds snabbkop",Lulea,Sweden
+10734,GOURL,2014-11-07,1498.35,3,"Gourmet Lanchonetes",Campinas,Brazil
+10735,LETSS,2014-11-10,536.4,2,"Let's Stop N Shop","San Francisco",USA
+10736,HUNGO,2014-11-11,997,2,"Hungry Owl All-Night Grocers",Cork,Ireland
+10737,VINET,2014-11-11,139.8,2,"Vins et alcools Chevalier",Reims,France
+10738,SPECD,2014-11-12,52.35,1,"Specialites du monde",Paris,France
+10739,VINET,2014-11-12,240,2,"Vins et alcools Chevalier",Reims,France
+10740,WHITC,2014-11-13,1416,4,"White Clover Markets",Seattle,USA
+10741,AROUT,2014-11-14,228,1,"Around the Horn",London,UK
+10742,BOTTM,2014-11-14,3118,3,"Bottom-Dollar Markets",Tsawassen,Canada
+10743,AROUT,2014-11-17,319.2,1,"Around the Horn",London,UK
+10744,VAFFE,2014-11-17,736,1,Vaffeljernet,Arhus,Denmark
+10745,QUICK,2014-11-18,4529.8,4,QUICK-Stop,Cunewalde,Germany
+10746,CHOPS,2014-11-19,2311.7,4,"Chop-suey Chinese",Bern,Switzerland
+10747,PICCO,2014-11-19,1912.85,4,"Piccolo und mehr",Salzburg,Austria
+10748,SAVEA,2014-11-20,2196,3,"Save-a-lot Markets",Boise,USA
+10749,ISLAT,2014-11-20,1080,3,"Island Trading",Cowes,UK
+10750,WARTH,2014-11-21,1590.56,3,"Wartian Herkku",Oulu,Finland
+10751,RICSU,2014-11-24,1631.48,4,"Richter Supermarkt",Geneve,Switzerland
+10752,NORTS,2014-11-24,252,2,North/South,London,UK
+10753,FRANS,2014-11-25,88,2,"Franchi S.p.A.",Torino,Italy
+10754,MAGAA,2014-11-25,55.2,1,"Magazzini Alimentari Riuniti",Bergamo,Italy
+10755,BONAP,2014-11-26,1948.5,4,"Bon app'",Marseille,France
+10756,SPLIR,2014-11-27,1990,4,"Split Rail Beer & Ale",Lander,USA
+10757,SAVEA,2014-11-27,3082,4,"Save-a-lot Markets",Boise,USA
+10758,RICSU,2014-11-28,1644.6,3,"Richter Supermarkt",Geneve,Switzerland
+10759,ANATR,2014-11-28,320,1,"Ana Trujillo Emparedados y helados","Mexico City",Mexico
+10760,MAISD,2014-12-01,2917,3,"Maison Dewey",Bruxelles,Belgium
+10761,RATTC,2014-12-02,507,2,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10762,FOLKO,2014-12-02,4337,4,"Folk och fa HB",Bracke,Sweden
+10763,FOLIG,2014-12-03,616,3,"Folies gourmandes",Lille,France
+10764,ERNSH,2014-12-03,2286,2,"Ernst Handel",Graz,Austria
+10765,QUICK,2014-12-04,1515.6,1,QUICK-Stop,Cunewalde,Germany
+10766,OTTIK,2014-12-05,2310,3,"Ottilies Kaseladen",Koln,Germany
+10767,SUPRD,2014-12-05,28,1,"Supremes delices",Charleroi,Belgium
+10768,AROUT,2014-12-08,1477,4,"Around the Horn",London,UK
+10769,VAFFE,2014-12-08,1684.28,4,Vaffeljernet,Arhus,Denmark
+10770,HANAR,2014-12-09,236.25,1,"Hanari Carnes","Rio de Janeiro",Brazil
+10771,ERNSH,2014-12-10,344,1,"Ernst Handel",Graz,Austria
+10772,LEHMS,2014-12-10,3603.22,2,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10773,ERNSH,2014-12-11,2030.4,3,"Ernst Handel",Graz,Austria
+10774,FOLKO,2014-12-11,868.75,2,"Folk och fa HB",Bracke,Sweden
+10775,THECR,2014-12-12,228,2,"The Cracker Box",Butte,USA
+10776,ERNSH,2014-12-15,6635.28,4,"Ernst Handel",Graz,Austria
+10777,GOURL,2014-12-15,224,1,"Gourmet Lanchonetes",Campinas,Brazil
+10778,BERGS,2014-12-16,96.5,1,"Berglunds snabbkop",Lulea,Sweden
+10779,MORGK,2014-12-16,1335,2,"Morgenstern Gesundkost",Leipzig,Germany
+10780,LILAS,2014-12-16,720,2,LILA-Supermercado,Barquisimeto,Venezuela
+10781,WARTH,2014-12-17,975.88,3,"Wartian Herkku",Oulu,Finland
+10782,CACTU,2014-12-17,12.5,1,"Cactus Comidas para llevar","Buenos Aires",Argentina
+10783,HANAR,2014-12-18,1442.5,2,"Hanari Carnes","Rio de Janeiro",Brazil
+10784,MAGAA,2014-12-18,1488,3,"Magazzini Alimentari Riuniti",Bergamo,Italy
+10785,GROSR,2014-12-18,387.5,2,GROSELLA-Restaurante,Caracas,Venezuela
+10786,QUEEN,2014-12-19,1531.08,3,"Queen Cozinha","Sao Paulo",Brazil
+10787,LAMAI,2014-12-19,2622.76,2,"La maison d'Asie",Toulouse,France
+10788,QUICK,2014-12-22,731.5,2,QUICK-Stop,Cunewalde,Germany
+10789,FOLIG,2014-12-22,3687,4,"Folies gourmandes",Lille,France
+10790,GOURL,2014-12-22,722.5,2,"Gourmet Lanchonetes",Campinas,Brazil
+10791,FRANK,2014-12-23,1829.76,2,Frankenversand,Munchen,Germany
+10792,WOLZA,2014-12-23,399.85,3,"Wolski  Zajazd",Warszawa,Poland
+10793,AROUT,2014-12-24,191.1,2,"Around the Horn",London,UK
+10794,QUEDE,2014-12-24,314.76,2,"Que Delicia","Rio de Janeiro",Brazil
+10795,ERNSH,2014-12-24,2158,2,"Ernst Handel",Graz,Austria
+10796,HILAA,2014-12-25,2341.36,4,HILARION-Abastos,"San Cristobal",Venezuela
+10797,DRACD,2014-12-25,420,1,"Drachenblut Delikatessen",Aachen,Germany
+10798,ISLAT,2014-12-26,446.6,2,"Island Trading",Cowes,UK
+10799,KOENE,2014-12-26,1553.5,3,"Koniglich Essen",Brandenburg,Germany
+10800,SEVES,2014-12-26,1468.94,3,"Seven Seas Imports",London,UK
+10801,BOLID,2014-12-29,3026.85,2,"Bolido Comidas preparadas",Madrid,Spain
+10802,SIMOB,2014-12-29,2942.81,4,"Simons bistro",Kobenhavn,Denmark
+10803,WELLI,2014-12-30,1193.01,3,"Wellington Importadora",Resende,Brazil
+10804,SEVES,2014-12-30,2278.4,3,"Seven Seas Imports",London,UK
+10805,THEBI,2014-12-30,2775,2,"The Big Cheese",Portland,USA
+10806,VICTE,2014-12-31,439.6,3,"Victuailles en stock",Lyon,France
+10807,FRANS,2014-12-31,18.4,1,"Franchi S.p.A.",Torino,Italy
+10808,OLDWO,2015-01-01,1411,2,"Old World Delicatessen",Anchorage,USA
+10809,WELLI,2015-01-01,140,1,"Wellington Importadora",Resende,Brazil
+10810,LAUGB,2015-01-01,187,3,"Laughing Bacchus Wine Cellars",Vancouver,Canada
+10811,LINOD,2015-01-02,852,3,LINO-Delicateses,"I. de Margarita",Venezuela
+10812,REGGC,2015-01-02,1692.8,3,"Reggiani Caseifici","Reggio Emilia",Italy
+10813,RICAR,2015-01-05,602.4,2,"Ricardo Adocicados","Rio de Janeiro",Brazil
+10814,VICTE,2015-01-05,1788.45,4,"Victuailles en stock",Lyon,France
+10815,SAVEA,2015-01-05,40,1,"Save-a-lot Markets",Boise,USA
+10816,GREAL,2015-01-06,8446.45,2,"Great Lakes Food Market",Eugene,USA
+10817,KOENE,2015-01-06,10952.84,4,"Koniglich Essen",Brandenburg,Germany
+10818,MAGAA,2015-01-07,833,2,"Magazzini Alimentari Riuniti",Bergamo,Italy
+10819,CACTU,2015-01-07,477,2,"Cactus Comidas para llevar","Buenos Aires",Argentina
+10820,RATTC,2015-01-07,1140,1,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10821,SPLIR,2015-01-08,678,2,"Split Rail Beer & Ale",Lander,USA
+10822,TRAIH,2015-01-08,237.9,2,"Trail's Head Gourmet Provisioners",Kirkland,USA
+10823,LILAS,2015-01-09,2826,4,LILA-Supermercado,Barquisimeto,Venezuela
+10824,FOLKO,2015-01-09,250.8,2,"Folk och fa HB",Bracke,Sweden
+10825,DRACD,2015-01-09,1030.76,2,"Drachenblut Delikatessen",Aachen,Germany
+10826,BLONP,2015-01-12,730,2,"Blondesddsl pere et fils",Strasbourg,France
+10827,BONAP,2015-01-12,843,2,"Bon app'",Marseille,France
+10828,RANCH,2015-01-13,932,2,"Rancho grande","Buenos Aires",Argentina
+10829,ISLAT,2015-01-13,1764,4,"Island Trading",Cowes,UK
+10830,TRADH,2015-01-13,1974,4,"Tradicao Hipermercados","Sao Paulo",Brazil
+10831,SANTG,2015-01-14,2684.4,4,"Sante Gourmet",Stavern,Norway
+10832,LAMAI,2015-01-14,475.11,4,"La maison d'Asie",Toulouse,France
+10833,OTTIK,2015-01-15,906.93,3,"Ottilies Kaseladen",Koln,Germany
+10834,TRADH,2015-01-15,1432.71,2,"Tradicao Hipermercados","Sao Paulo",Brazil
+10835,ALFKI,2015-01-15,845.8,2,"Alfreds Futterkiste",Berlin,Germany
+10836,ERNSH,2015-01-16,4705.5,5,"Ernst Handel",Graz,Austria
+10837,BERGS,2015-01-16,1064.5,4,"Berglunds snabbkop",Lulea,Sweden
+10838,LINOD,2015-01-19,1938.38,3,LINO-Delicateses,"I. de Margarita",Venezuela
+10839,TRADH,2015-01-19,827.55,2,"Tradicao Hipermercados","Sao Paulo",Brazil
+10840,LINOD,2015-01-19,211.2,2,LINO-Delicateses,"I. de Margarita",Venezuela
+10841,SUPRD,2015-01-20,4581,4,"Supremes delices",Charleroi,Belgium
+10842,TORTU,2015-01-20,975,4,"Tortuga Restaurante","Mexico City",Mexico
+10843,VICTE,2015-01-21,159,1,"Victuailles en stock",Lyon,France
+10844,PICCO,2015-01-21,735,1,"Piccolo und mehr",Salzburg,Austria
+10845,QUICK,2015-01-21,3812.7,5,QUICK-Stop,Cunewalde,Germany
+10846,SUPRD,2015-01-22,1112,3,"Supremes delices",Charleroi,Belgium
+10847,SAVEA,2015-01-22,4931.92,6,"Save-a-lot Markets",Boise,USA
+10848,CONSH,2015-01-23,931.5,2,"Consolidated Holdings",London,UK
+10849,KOENE,2015-01-23,967.82,2,"Koniglich Essen",Brandenburg,Germany
+10850,VICTE,2015-01-23,629,3,"Victuailles en stock",Lyon,France
+10851,RICAR,2015-01-26,2603,4,"Ricardo Adocicados","Rio de Janeiro",Brazil
+10852,RATTC,2015-01-26,2984,3,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10853,BLAUS,2015-01-27,625,1,"Blauer See Delikatessen",Mannheim,Germany
+10854,ERNSH,2015-01-27,2966.5,2,"Ernst Handel",Graz,Austria
+10855,OLDWO,2015-01-27,2227.89,4,"Old World Delicatessen",Anchorage,USA
+10856,ANTON,2015-01-28,660,2,"Antonio Moreno Taqueria","Mexico City",Mexico
+10857,BERGS,2015-01-28,2048.21,3,"Berglunds snabbkop",Lulea,Sweden
+10858,LACOR,2015-01-29,649,3,"La corne d'abondance",Versailles,France
+10859,FRANK,2015-01-29,1078.69,3,Frankenversand,Munchen,Germany
+10860,FRANR,2015-01-29,519,2,"France restauration",Nantes,France
+10861,WHITC,2015-01-30,3523.4,5,"White Clover Markets",Seattle,USA
+10862,LEHMS,2015-01-30,581,2,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10863,HILAA,2015-02-02,441.15,2,HILARION-Abastos,"San Cristobal",Venezuela
+10864,AROUT,2015-02-02,282,2,"Around the Horn",London,UK
+10865,QUICK,2015-02-02,16387.5,2,QUICK-Stop,Cunewalde,Germany
+10866,BERGS,2015-02-03,1096.2,3,"Berglunds snabbkop",Lulea,Sweden
+10867,LONEP,2015-02-03,98.4,1,"Lonesome Pine Restaurant",Portland,USA
+10868,QUEEN,2015-02-04,1920.6,3,"Queen Cozinha","Sao Paulo",Brazil
+10869,SEVES,2015-02-04,1630,4,"Seven Seas Imports",London,UK
+10870,WOLZA,2015-02-04,160,2,"Wolski  Zajazd",Warszawa,Poland
+10871,BONAP,2015-02-05,1979.23,3,"Bon app'",Marseille,France
+10872,GODOS,2015-02-05,2058.46,4,"Godos Cocina Tipica",Sevilla,Spain
+10873,WILMK,2015-02-06,336.8,2,"Wilman Kala",Helsinki,Finland
+10874,GODOS,2015-02-06,310,1,"Godos Cocina Tipica",Sevilla,Spain
+10875,BERGS,2015-02-06,709.55,3,"Berglunds snabbkop",Lulea,Sweden
+10876,BONAP,2015-02-09,917,2,"Bon app'",Marseille,France
+10877,RICAR,2015-02-09,1955.12,2,"Ricardo Adocicados","Rio de Janeiro",Brazil
+10878,QUICK,2015-02-10,1539,1,QUICK-Stop,Cunewalde,Germany
+10879,WILMK,2015-02-10,611.3,3,"Wilman Kala",Helsinki,Finland
+10880,FOLKO,2015-02-10,1500,3,"Folk och fa HB",Bracke,Sweden
+10881,CACTU,2015-02-11,150,1,"Cactus Comidas para llevar","Buenos Aires",Argentina
+10882,SAVEA,2015-02-11,892.64,3,"Save-a-lot Markets",Boise,USA
+10883,LONEP,2015-02-12,36,1,"Lonesome Pine Restaurant",Portland,USA
+10884,LETSS,2015-02-12,1378.07,3,"Let's Stop N Shop","San Francisco",USA
+10885,SUPRD,2015-02-12,1209,4,"Supremes delices",Charleroi,Belgium
+10886,HANAR,2015-02-13,3127.5,3,"Hanari Carnes","Rio de Janeiro",Brazil
+10887,GALED,2015-02-13,70,1,"Galeria del gastronomo",Barcelona,Spain
+10888,GODOS,2015-02-16,605,2,"Godos Cocina Tipica",Sevilla,Spain
+10889,RATTC,2015-02-16,11380,2,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10890,DUMON,2015-02-16,860.1,3,"Du monde entier",Nantes,France
+10891,LEHMS,2015-02-17,368.93,1,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10892,MAISD,2015-02-17,2090,1,"Maison Dewey",Bruxelles,Belgium
+10893,KOENE,2015-02-18,5502.11,5,"Koniglich Essen",Brandenburg,Germany
+10894,SAVEA,2015-02-18,2753.1,3,"Save-a-lot Markets",Boise,USA
+10895,ERNSH,2015-02-18,6379.4,4,"Ernst Handel",Graz,Austria
+10896,MAISD,2015-02-19,750.5,2,"Maison Dewey",Bruxelles,Belgium
+10897,HUNGO,2015-02-19,10835.24,2,"Hungry Owl All-Night Grocers",Cork,Ireland
+10898,OCEAN,2015-02-20,30,1,"Oceano Atlantico Ltda.","Buenos Aires",Argentina
+10899,LILAS,2015-02-20,122.4,1,LILA-Supermercado,Barquisimeto,Venezuela
+10900,WELLI,2015-02-20,33.75,1,"Wellington Importadora",Resende,Brazil
+10901,HILAA,2015-02-23,934.5,2,HILARION-Abastos,"San Cristobal",Venezuela
+10902,FOLKO,2015-02-23,863.43,2,"Folk och fa HB",Bracke,Sweden
+10903,HANAR,2015-02-24,932.05,3,"Hanari Carnes","Rio de Janeiro",Brazil
+10904,WHITC,2015-02-24,1924.25,2,"White Clover Markets",Seattle,USA
+10905,WELLI,2015-02-24,342,1,"Wellington Importadora",Resende,Brazil
+10906,WOLZA,2015-02-25,427.5,1,"Wolski  Zajazd",Warszawa,Poland
+10907,SPECD,2015-02-25,108.5,1,"Specialites du monde",Paris,France
+10908,REGGC,2015-02-26,663.1,2,"Reggiani Caseifici","Reggio Emilia",Italy
+10909,SANTG,2015-02-26,670,3,"Sante Gourmet",Stavern,Norway
+10910,WILMK,2015-02-26,452.9,3,"Wilman Kala",Helsinki,Finland
+10911,GODOS,2015-02-26,858,3,"Godos Cocina Tipica",Sevilla,Spain
+10912,HUNGO,2015-02-26,6200.55,2,"Hungry Owl All-Night Grocers",Cork,Ireland
+10913,QUEEN,2015-02-26,768.75,3,"Queen Cozinha","Sao Paulo",Brazil
+10914,QUEEN,2015-02-27,537.5,1,"Queen Cozinha","Sao Paulo",Brazil
+10915,TORTU,2015-02-27,539.5,3,"Tortuga Restaurante","Mexico City",Mexico
+10916,RANCH,2015-02-27,686.7,3,"Rancho grande","Buenos Aires",Argentina
+10917,ROMEY,2015-03-02,365.89,2,"Romero y tomillo",Madrid,Spain
+10918,BOTTM,2015-03-02,1447.5,2,"Bottom-Dollar Markets",Tsawassen,Canada
+10919,LINOD,2015-03-02,1122.8,3,LINO-Delicateses,"I. de Margarita",Venezuela
+10920,AROUT,2015-03-03,390,1,"Around the Horn",London,UK
+10921,VAFFE,2015-03-03,1936,2,Vaffeljernet,Arhus,Denmark
+10922,HANAR,2015-03-03,742.5,2,"Hanari Carnes","Rio de Janeiro",Brazil
+10923,LAMAI,2015-03-03,748.8,3,"La maison d'Asie",Toulouse,France
+10924,BERGS,2015-03-04,1835.7,3,"Berglunds snabbkop",Lulea,Sweden
+10925,HANAR,2015-03-04,475.15,2,"Hanari Carnes","Rio de Janeiro",Brazil
+10926,ANATR,2015-03-04,514.4,4,"Ana Trujillo Emparedados y helados","Mexico City",Mexico
+10927,LACOR,2015-03-05,800,3,"La corne d'abondance",Versailles,France
+10928,GALED,2015-03-05,137.5,2,"Galeria del gastronomo",Barcelona,Spain
+10929,FRANK,2015-03-05,1174.75,3,Frankenversand,Munchen,Germany
+10930,SUPRD,2015-03-06,2255.5,4,"Supremes delices",Charleroi,Belgium
+10931,RICSU,2015-03-06,799.2,2,"Richter Supermarkt",Geneve,Switzerland
+10932,BONAP,2015-03-06,1788.63,4,"Bon app'",Marseille,France
+10933,ISLAT,2015-03-06,920.6,2,"Island Trading",Cowes,UK
+10934,LEHMS,2015-03-09,500,1,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+10935,WELLI,2015-03-09,619.5,3,"Wellington Importadora",Resende,Brazil
+10936,GREAL,2015-03-09,456,1,"Great Lakes Food Market",Eugene,USA
+10937,CACTU,2015-03-10,644.8,2,"Cactus Comidas para llevar","Buenos Aires",Argentina
+10938,QUICK,2015-03-10,2731.88,4,QUICK-Stop,Cunewalde,Germany
+10939,MAGAA,2015-03-10,637.5,2,"Magazzini Alimentari Riuniti",Bergamo,Italy
+10940,BONAP,2015-03-11,360,2,"Bon app'",Marseille,France
+10941,SAVEA,2015-03-11,4011.75,4,"Save-a-lot Markets",Boise,USA
+10942,REGGC,2015-03-11,560,1,"Reggiani Caseifici","Reggio Emilia",Italy
+10943,BSBEV,2015-03-11,711,3,"B's Beverages",London,UK
+10944,BOTTM,2015-03-12,1025.32,3,"Bottom-Dollar Markets",Tsawassen,Canada
+10945,MORGK,2015-03-12,245,2,"Morgenstern Gesundkost",Leipzig,Germany
+10946,VAFFE,2015-03-12,1407.5,3,Vaffeljernet,Arhus,Denmark
+10947,BSBEV,2015-03-13,220,1,"B's Beverages",London,UK
+10948,GODOS,2015-03-13,2362.25,3,"Godos Cocina Tipica",Sevilla,Spain
+10949,BOTTM,2015-03-13,4422,4,"Bottom-Dollar Markets",Tsawassen,Canada
+10950,MAGAA,2015-03-16,110,1,"Magazzini Alimentari Riuniti",Bergamo,Italy
+10951,RICSU,2015-03-16,458.76,3,"Richter Supermarkt",Geneve,Switzerland
+10952,ALFKI,2015-03-16,471.2,2,"Alfreds Futterkiste",Berlin,Germany
+10953,AROUT,2015-03-16,4441.25,2,"Around the Horn",London,UK
+10954,LINOD,2015-03-17,1659.54,4,LINO-Delicateses,"I. de Margarita",Venezuela
+10955,FOLKO,2015-03-17,74.4,1,"Folk och fa HB",Bracke,Sweden
+10956,BLAUS,2015-03-17,677,3,"Blauer See Delikatessen",Mannheim,Germany
+10957,HILAA,2015-03-18,1762.7,3,HILARION-Abastos,"San Cristobal",Venezuela
+10958,OCEAN,2015-03-18,781,3,"Oceano Atlantico Ltda.","Buenos Aires",Argentina
+10959,GOURL,2015-03-18,131.75,1,"Gourmet Lanchonetes",Campinas,Brazil
+10960,HILAA,2015-03-19,265.35,2,HILARION-Abastos,"San Cristobal",Venezuela
+10961,QUEEN,2015-03-19,1119.9,2,"Queen Cozinha","Sao Paulo",Brazil
+10962,QUICK,2015-03-19,3584,5,QUICK-Stop,Cunewalde,Germany
+10963,FURIB,2015-03-19,57.8,1,"Furia Bacalhau e Frutos do Mar",Lisboa,Portugal
+10964,SPECD,2015-03-20,2052.5,3,"Specialites du monde",Paris,France
+10965,OLDWO,2015-03-20,848,1,"Old World Delicatessen",Anchorage,USA
+10966,CHOPS,2015-03-20,1098.46,3,"Chop-suey Chinese",Bern,Switzerland
+10967,TOMSP,2015-03-23,910.4,2,"Toms Spezialitaten",Munster,Germany
+10968,ERNSH,2015-03-23,1408,3,"Ernst Handel",Graz,Austria
+10969,COMMI,2015-03-23,108,1,"Comercio Mineiro","Sao Paulo",Brazil
+10970,BOLID,2015-03-24,224,1,"Bolido Comidas preparadas",Madrid,Spain
+10971,FRANR,2015-03-24,1733.06,1,"France restauration",Nantes,France
+10972,LACOR,2015-03-24,251.5,2,"La corne d'abondance",Versailles,France
+10973,LACOR,2015-03-24,291.55,3,"La corne d'abondance",Versailles,France
+10974,SPLIR,2015-03-25,439,1,"Split Rail Beer & Ale",Lander,USA
+10975,BOTTM,2015-03-25,717.5,2,"Bottom-Dollar Markets",Tsawassen,Canada
+10976,HILAA,2015-03-25,912,1,HILARION-Abastos,"San Cristobal",Venezuela
+10977,FOLKO,2015-03-26,2233,4,"Folk och fa HB",Bracke,Sweden
+10978,MAISD,2015-03-26,1303.2,4,"Maison Dewey",Bruxelles,Belgium
+10979,ERNSH,2015-03-26,4813.5,6,"Ernst Handel",Graz,Austria
+10980,FOLKO,2015-03-27,248,1,"Folk och fa HB",Bracke,Sweden
+10981,HANAR,2015-03-27,15810,1,"Hanari Carnes","Rio de Janeiro",Brazil
+10982,BOTTM,2015-03-27,1014,2,"Bottom-Dollar Markets",Tsawassen,Canada
+10983,SAVEA,2015-03-27,720.9,2,"Save-a-lot Markets",Boise,USA
+10984,SAVEA,2015-03-30,1809.75,3,"Save-a-lot Markets",Boise,USA
+10985,HUNGO,2015-03-30,2023.38,3,"Hungry Owl All-Night Grocers",Cork,Ireland
+10986,OCEAN,2015-03-30,2220,4,"Oceano Atlantico Ltda.","Buenos Aires",Argentina
+10987,EASTC,2015-03-31,2772,3,"Eastern Connection",London,UK
+10988,RATTC,2015-03-31,3574.8,2,"Rattlesnake Canyon Grocery",Albuquerque,USA
+10989,QUEDE,2015-03-31,1353.6,3,"Que Delicia","Rio de Janeiro",Brazil
+10990,ERNSH,2015-04-01,4288.85,4,"Ernst Handel",Graz,Austria
+10991,QUICK,2015-04-01,2296,3,QUICK-Stop,Cunewalde,Germany
+10992,THEBI,2015-04-01,69.6,1,"The Big Cheese",Portland,USA
+10993,FOLKO,2015-04-01,4895.44,2,"Folk och fa HB",Bracke,Sweden
+10994,VAFFE,2015-04-02,940.5,1,Vaffeljernet,Arhus,Denmark
+10995,PERIC,2015-04-02,1196,2,"Pericles Comidas clasicas","Mexico City",Mexico
+10996,QUICK,2015-04-02,560,1,QUICK-Stop,Cunewalde,Germany
+10997,LILAS,2015-04-03,1885,3,LILA-Supermercado,Barquisimeto,Venezuela
+10998,WOLZA,2015-04-03,686,4,"Wolski  Zajazd",Warszawa,Poland
+10999,OTTIK,2015-04-03,1197.95,3,"Ottilies Kaseladen",Koln,Germany
+11000,RATTC,2015-04-06,903.75,3,"Rattlesnake Canyon Grocery",Albuquerque,USA
+11001,FOLKO,2015-04-06,2769,4,"Folk och fa HB",Bracke,Sweden
+11002,SAVEA,2015-04-06,1811.1,4,"Save-a-lot Markets",Boise,USA
+11003,THECR,2015-04-06,326,3,"The Cracker Box",Butte,USA
+11004,MAISD,2015-04-07,295.38,2,"Maison Dewey",Bruxelles,Belgium
+11005,WILMK,2015-04-07,586,2,"Wilman Kala",Helsinki,Finland
+11006,GREAL,2015-04-07,329.68,2,"Great Lakes Food Market",Eugene,USA
+11007,PRINI,2015-04-08,2633.9,3,"Princesa Isabel Vinhos",Lisboa,Portugal
+11008,ERNSH,2015-04-08,4680.9,3,"Ernst Handel",Graz,Austria
+11009,GODOS,2015-04-08,616.5,3,"Godos Cocina Tipica",Sevilla,Spain
+11010,REGGC,2015-04-09,645,2,"Reggiani Caseifici","Reggio Emilia",Italy
+11011,ALFKI,2015-04-09,933.5,2,"Alfreds Futterkiste",Berlin,Germany
+11012,FRANK,2015-04-09,2825.3,3,Frankenversand,Munchen,Germany
+11013,ROMEY,2015-04-09,361,4,"Romero y tomillo",Madrid,Spain
+11014,LINOD,2015-04-10,243.18,1,LINO-Delicateses,"I. de Margarita",Venezuela
+11015,SANTG,2015-04-10,622.35,2,"Sante Gourmet",Stavern,Norway
+11016,AROUT,2015-04-10,491.5,2,"Around the Horn",London,UK
+11017,ERNSH,2015-04-13,6750,3,"Ernst Handel",Graz,Austria
+11018,LONEP,2015-04-13,1575,3,"Lonesome Pine Restaurant",Portland,USA
+11019,RANCH,2015-04-13,76,2,"Rancho grande","Buenos Aires",Argentina
+11020,OTTIK,2015-04-14,632.4,1,"Ottilies Kaseladen",Koln,Germany
+11021,QUICK,2015-04-14,6306.24,5,QUICK-Stop,Cunewalde,Germany
+11022,HANAR,2015-04-14,1402,2,"Hanari Carnes","Rio de Janeiro",Brazil
+11023,BSBEV,2015-04-14,1500,2,"B's Beverages",London,UK
+11024,EASTC,2015-04-15,1966.81,4,"Eastern Connection",London,UK
+11025,WARTH,2015-04-15,270,2,"Wartian Herkku",Oulu,Finland
+11026,FRANS,2015-04-15,1030,2,"Franchi S.p.A.",Torino,Italy
+11027,BOTTM,2015-04-16,877.72,2,"Bottom-Dollar Markets",Tsawassen,Canada
+11028,KOENE,2015-04-16,2160,2,"Koniglich Essen",Brandenburg,Germany
+11029,CHOPS,2015-04-16,1286.8,2,"Chop-suey Chinese",Bern,Switzerland
+11030,SAVEA,2015-04-17,12615.05,4,"Save-a-lot Markets",Boise,USA
+11031,SAVEA,2015-04-17,2393.5,5,"Save-a-lot Markets",Boise,USA
+11032,WHITC,2015-04-17,8902.5,3,"White Clover Markets",Seattle,USA
+11033,RICSU,2015-04-17,3232.8,2,"Richter Supermarkt",Geneve,Switzerland
+11034,OLDWO,2015-04-20,539.4,3,"Old World Delicatessen",Anchorage,USA
+11035,SUPRD,2015-04-20,1754.5,4,"Supremes delices",Charleroi,Belgium
+11036,DRACD,2015-04-20,1692,2,"Drachenblut Delikatessen",Aachen,Germany
+11037,GODOS,2015-04-21,60,1,"Godos Cocina Tipica",Sevilla,Spain
+11038,SUPRD,2015-04-21,732.6,3,"Supremes delices",Charleroi,Belgium
+11039,LINOD,2015-04-21,3090,4,LINO-Delicateses,"I. de Margarita",Venezuela
+11040,GREAL,2015-04-22,200,1,"Great Lakes Food Market",Eugene,USA
+11041,CHOPS,2015-04-22,1773,2,"Chop-suey Chinese",Bern,Switzerland
+11042,COMMI,2015-04-22,405.75,2,"Comercio Mineiro","Sao Paulo",Brazil
+11043,SPECD,2015-04-22,210,1,"Specialites du monde",Paris,France
+11044,WOLZA,2015-04-23,591.6,1,"Wolski  Zajazd",Warszawa,Poland
+11045,BOTTM,2015-04-23,1309.5,2,"Bottom-Dollar Markets",Tsawassen,Canada
+11046,WANDK,2015-04-23,1485.8,3,"Die Wandernde Kuh",Stuttgart,Germany
+11047,EASTC,2015-04-24,817.88,2,"Eastern Connection",London,UK
+11048,BOTTM,2015-04-24,525,1,"Bottom-Dollar Markets",Tsawassen,Canada
+11049,GOURL,2015-04-24,273.6,2,"Gourmet Lanchonetes",Campinas,Brazil
+11050,FOLKO,2015-04-27,810,1,"Folk och fa HB",Bracke,Sweden
+11051,LAMAI,2015-04-27,36,1,"La maison d'Asie",Toulouse,France
+11052,HANAR,2015-04-27,1332,2,"Hanari Carnes","Rio de Janeiro",Brazil
+11053,PICCO,2015-04-27,3055,3,"Piccolo und mehr",Salzburg,Austria
+11054,CACTU,2015-04-28,305,2,"Cactus Comidas para llevar","Buenos Aires",Argentina
+11055,HILAA,2015-04-28,1727.5,4,HILARION-Abastos,"San Cristobal",Venezuela
+11056,EASTC,2015-04-28,3740,3,"Eastern Connection",London,UK
+11057,NORTS,2015-04-29,45,1,North/South,London,UK
+11058,BLAUS,2015-04-29,858,3,"Blauer See Delikatessen",Mannheim,Germany
+11059,RICAR,2015-04-29,1838,3,"Ricardo Adocicados","Rio de Janeiro",Brazil
+11060,FRANS,2015-04-30,266,2,"Franchi S.p.A.",Torino,Italy
+11061,GREAL,2015-04-30,510,1,"Great Lakes Food Market",Eugene,USA
+11062,REGGC,2015-04-30,406.4,2,"Reggiani Caseifici","Reggio Emilia",Italy
+11063,HUNGO,2015-04-30,1342.95,3,"Hungry Owl All-Night Grocers",Cork,Ireland
+11064,SAVEA,2015-05-01,4330.4,5,"Save-a-lot Markets",Boise,USA
+11065,LILAS,2015-05-01,189.42,2,LILA-Supermercado,Barquisimeto,Venezuela
+11066,WHITC,2015-05-01,928.75,3,"White Clover Markets",Seattle,USA
+11067,DRACD,2015-05-04,86.85,1,"Drachenblut Delikatessen",Aachen,Germany
+11068,QUEEN,2015-05-04,2027.08,3,"Queen Cozinha","Sao Paulo",Brazil
+11069,TORTU,2015-05-04,360,1,"Tortuga Restaurante","Mexico City",Mexico
+11070,LEHMS,2015-05-05,1629.98,4,"Lehmanns Marktstand","Frankfurt a.M.",Germany
+11071,LILAS,2015-05-05,484.5,2,LILA-Supermercado,Barquisimeto,Venezuela
+11072,ERNSH,2015-05-05,5218,4,"Ernst Handel",Graz,Austria
+11073,PERIC,2015-05-05,300,2,"Pericles Comidas clasicas","Mexico City",Mexico
+11074,SIMOB,2015-05-06,232.08,1,"Simons bistro",Kobenhavn,Denmark
+11075,RICSU,2015-05-06,498.1,3,"Richter Supermarkt",Geneve,Switzerland
+11076,BONAP,2015-05-06,792.75,3,"Bon app'",Marseille,France
+11077,RATTC,2015-05-06,1255.72,25,"Rattlesnake Canyon Grocery",Albuquerque,USA

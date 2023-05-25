@@ -1,0 +1,4 @@
+companyName,shipperID,total_cost,order_volume,shipping_cost_per_order,avg_days_to_deliver
+"Speedy Express",1,16185.33,249,65,28
+"United Package",2,28244.85,326,86.64,28
+"Federal Shipping",3,20512.51,255,80.44,28
